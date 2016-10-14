@@ -1,0 +1,12 @@
+# ignore checkpoint files
+.ipynb_checkpoints
+
+# ignore some python generated files
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.egg-info
+*~
+*.bak
+
