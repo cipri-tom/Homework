@@ -1,49 +1,49 @@
-,Civilité,Nom Prénom,Orientation Bachelor,Orientation Master,Spécialisation,Filière opt.,Mineur,Statut,Type Echange,Ecole Echange,No Sciper,Unnamed: 11
-0,Madame,Andriambololona Riana Miarantsoa,,,,,,Présent,,,154157,
-1,Monsieur,Barras Florian,,,,,,Présent,,,170220,
-2,Monsieur,Bécholey Alexandre,,,,,,Présent,,,160213,
-3,Monsieur,Beuret Thibaut,,,,,,Présent,,,166701,
-4,Monsieur,Biollay Jean Isaac Jamal Pachacutec,,,,,,Présent,,,161279,
-5,Monsieur,Blatter Jérémy,,,,,,Présent,,,166344,
-6,Monsieur,Boksanyi Michael,,,,,,Présent,,,161634,
-7,Monsieur,Bolkensteyn Dinesh,,,,,,Présent,,,170451,
-8,Monsieur,Bornet Cyril Antoine Michel,,,,,,Présent,,,170219,
-9,Monsieur,Candaux Yanick,,,,,,Présent,,,169655,
-10,Monsieur,Candemir Mehmet,,,,,,Présent,,,161814,
-11,Monsieur,Conus Johann,,,,,,Présent,,,153762,
-12,Monsieur,Delort Vincent,,,,,,Congé,Bilatéral,University of Tokyo,166548,
-13,Monsieur,Di Maïo Vincent,,,,,,Présent,,,166001,
-14,Monsieur,Donzé Benjamin,,,,,,Présent,,,166746,
-15,Monsieur,Dos Santos Patrick,,,,,,Présent,,,166748,
-16,Monsieur,Droz Olivier,,,,,,Présent,,,166751,
-17,Monsieur,Eberle Julien,,,,,,Présent,,,170414,
-18,Monsieur,Galimberti Davide,,,,,,Présent,,,170525,
-19,Monsieur,Genet Henry,,,,,,Présent,,,166889,
-20,Madame,Grivet Ekaterina,,,,,,Congé,,,161091,
-21,Monsieur,Helfer Jonas,,,,,,Présent,,,176564,
-22,Madame,Javanmardy Khameneh Maryam,,,,,,Présent,,,173604,
-23,Madame,Jesse Julia,,,,,,Présent,,,159998,
-24,Monsieur,Joneja Vishal,,,,,,Présent,,,170833,
-25,Monsieur,Jonnalagedda Manohar,,,,,,Présent,,,170823,
-26,Monsieur,Laprade Philippe,,,,,,Présent,,,170241,
-27,Monsieur,Lauber Jonas,,,,,,Présent,,,170242,
-28,Monsieur,Lorch Daniel,,,,,,Présent,,,165562,
-29,Monsieur,Ly Papa Alioune,,,,,,Présent,,,167007,
-30,Monsieur,Mader Arnaud,,,,,,Présent,,,166260,
-31,Monsieur,Marfurt Nicolas,,,,,,Présent,,,167313,
-32,Monsieur,Neu Raoul,,,,,,Présent,,,171028,
-33,Monsieur,Nguyen-Xuan Jérémy,,,,,,Présent,,,167386,
-34,Monsieur,Raja Yanick,,,,,,Présent,,,159516,
-35,Monsieur,Sahy François,,,,,,Congé,,,161127,
-36,Monsieur,Sanz Vasco,,,,,,Présent,,,170934,
-37,Monsieur,Seca David Eduardo,,,,,,Présent,Divers,Mondragon Unibertsitatea,179964,
-38,Monsieur,Smaga Jérémie,,,,,,Présent,,,170931,
-39,Monsieur,Taggiasco Matthieu,,,,,,Présent,,,167447,
-40,Monsieur,Tangui Achraf,,,,,,Présent,,,167045,
-41,Monsieur,Tourino Pablo,,,,,,Présent,,,161220,
-42,Monsieur,Treccani Adrien,,,,,,Présent,,,170975,
-43,Monsieur,Vallat Xavier,,,,,,Présent,,,167530,
-44,Monsieur,Vasic Nenad,,,,,,Présent,,,170263,
-45,Monsieur,Vogt Pascal,,,,,,Présent,,,170265,
-46,Monsieur,Waldmeyer Marc,,,,,,Présent,,,167439,
-47,Monsieur,Züger Walter,,,,,,Présent,,,171042,
+,CivilitÃ©,Nom PrÃ©nom,No Sciper,year,semester
+0,Madame,AndriambololonaÂ Riana Miarantsoa,154157,2007,5
+1,Monsieur,BarrasÂ Florian,170220,2007,5
+2,Monsieur,BÃ©choleyÂ Alexandre,160213,2007,5
+3,Monsieur,BeuretÂ Thibaut,166701,2007,5
+4,Monsieur,BiollayÂ Jean Isaac Jamal Pachacutec,161279,2007,5
+5,Monsieur,BlatterÂ JÃ©rÃ©my,166344,2007,5
+6,Monsieur,BoksanyiÂ Michael,161634,2007,5
+7,Monsieur,BolkensteynÂ Dinesh,170451,2007,5
+8,Monsieur,BornetÂ Cyril Antoine Michel,170219,2007,5
+9,Monsieur,CandauxÂ Yanick,169655,2007,5
+10,Monsieur,CandemirÂ Mehmet,161814,2007,5
+11,Monsieur,ConusÂ Johann,153762,2007,5
+12,Monsieur,DelortÂ Vincent,166548,2007,5
+13,Monsieur,Di MaÃ¯oÂ Vincent,166001,2007,5
+14,Monsieur,DonzÃ©Â Benjamin,166746,2007,5
+15,Monsieur,Dos SantosÂ Patrick,166748,2007,5
+16,Monsieur,DrozÂ Olivier,166751,2007,5
+17,Monsieur,EberleÂ Julien,170414,2007,5
+18,Monsieur,GalimbertiÂ Davide,170525,2007,5
+19,Monsieur,GenetÂ Henry,166889,2007,5
+20,Madame,GrivetÂ Ekaterina,161091,2007,5
+21,Monsieur,HelferÂ Jonas,176564,2007,5
+22,Madame,Javanmardy KhamenehÂ Maryam,173604,2007,5
+23,Madame,JesseÂ Julia,159998,2007,5
+24,Monsieur,JonejaÂ Vishal,170833,2007,5
+25,Monsieur,JonnalageddaÂ Manohar,170823,2007,5
+26,Monsieur,LapradeÂ Philippe,170241,2007,5
+27,Monsieur,LauberÂ Jonas,170242,2007,5
+28,Monsieur,LorchÂ Daniel,165562,2007,5
+29,Monsieur,LyÂ Papa Alioune,167007,2007,5
+30,Monsieur,MaderÂ Arnaud,166260,2007,5
+31,Monsieur,MarfurtÂ Nicolas,167313,2007,5
+32,Monsieur,NeuÂ Raoul,171028,2007,5
+33,Monsieur,Nguyen-XuanÂ JÃ©rÃ©my,167386,2007,5
+34,Monsieur,RajaÂ Yanick,159516,2007,5
+35,Monsieur,SahyÂ FranÃ§ois,161127,2007,5
+36,Monsieur,SanzÂ Vasco,170934,2007,5
+37,Monsieur,SecaÂ David Eduardo,179964,2007,5
+38,Monsieur,SmagaÂ JÃ©rÃ©mie,170931,2007,5
+39,Monsieur,TaggiascoÂ Matthieu,167447,2007,5
+40,Monsieur,TanguiÂ Achraf,167045,2007,5
+41,Monsieur,TourinoÂ Pablo,161220,2007,5
+42,Monsieur,TreccaniÂ Adrien,170975,2007,5
+43,Monsieur,VallatÂ Xavier,167530,2007,5
+44,Monsieur,VasicÂ Nenad,170263,2007,5
+45,Monsieur,VogtÂ Pascal,170265,2007,5
+46,Monsieur,WaldmeyerÂ Marc,167439,2007,5
+47,Monsieur,ZÃ¼gerÂ Walter,171042,2007,5

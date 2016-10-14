@@ -1,63 +1,63 @@
-,Civilité,Nom Prénom,Orientation Bachelor,Orientation Master,Spécialisation,Filière opt.,Mineur,Statut,Type Echange,Ecole Echange,No Sciper,Unnamed: 11
-0,Monsieur,Amiet Nils,,,,,,Présent,,,179383,
-1,Monsieur,Arnfred Jonas,,,,,,Congé,Bilatéral,"Pontificia Universidad Catolica de Chile, Santiago",184772,
-2,Monsieur,Aubelle Flavien,,,,,,Présent,,,174905,
-3,Monsieur,Baeriswyl Jonathan,,,,,,Présent,,,179406,
-4,Monsieur,Barroco Michael,,,,,,Présent,,,179428,
-5,Monsieur,Bloch Remi,,,,,,Présent,,,179426,
-6,Monsieur,Bourgeois Jérémy,,,,,,Présent,,,185949,
-7,Monsieur,Bruchez Lionel,,,,,,Présent,,,186825,
-8,Monsieur,Calvert Thomas,,,,,,Présent,,,179157,
-9,Monsieur,Chablais Michael,,,,,,Présent,,,184991,
-10,Monsieur,Cino Emanuel,,,,,,Présent,,,178711,
-11,Monsieur,Coiro Andrea,,,,,,Présent,,,178786,
-12,Monsieur,Cressier Gilles,,,,,,Présent,,,178287,
-13,Monsieur,Cuony Maximilien,,,,,,Présent,,,185952,
-14,Monsieur,Dal Mas Gianluca,,,,,,Présent,,,178718,
-15,Monsieur,De Carvalho Jonathan,,,,,,Présent,,,187001,
-16,Monsieur,Droxler Thomas,,,,,,Présent,,,185959,
-17,Monsieur,Fankhauser Alexandre,,,,,,Présent,,,180284,
-18,Monsieur,Fiaux Anaël,,,,,,Présent,,,181109,
-19,Monsieur,Franscella Mattia,,,,,,Présent,,,184844,
-20,Monsieur,Gardiol Loïc,,,,,,Présent,,,185853,
-21,Monsieur,Good Xavier,,,,,,Congé,Bilatéral,Carnegie Mellon University Pittsburgh,147008,
-22,Monsieur,Gremion Sébastien,,,,,,Présent,,,175379,
-23,Monsieur,Haefliger Roger,,,,,,Présent,,,178604,
-24,Monsieur,Hanser Valérian,,,,,,Présent,,,175190,
-25,Madame,Heldner Céline,,,,,,Présent,,,185811,
-26,Monsieur,Hobbs Michael,,,,,,Présent,,,187119,
-27,Monsieur,Hutzli Michael Benedikt,,,,,,Présent,,,183870,
-28,Monsieur,Knecht Mathieu,,,,,,Congé,,,169731,
-29,Monsieur,Lange Yves,,,,,,Présent,,,181259,
-30,Monsieur,Laurent Florian,,,,,,Présent,,,174847,
-31,Monsieur,Lettry Louis,,,,,,Présent,,,184921,
-32,Monsieur,Maret Gabriel,,,,,,Présent,,,181514,
-33,Monsieur,Martins Acacio,,,,,,Présent,,,181076,
-34,Monsieur,Mégard Lomig Corentin Amédée,,,,,,Présent,,,186250,
-35,Monsieur,Menétrey Jeremiah,,,,,,Présent,,,184258,
-36,Monsieur,Moumni Benyounes,,,,,,Présent,,,179848,
-37,Monsieur,Poiffaut Romain,,,,,,Présent,,,194971,
-38,Monsieur,Rad Mahdi,,,,,,Présent,,,194307,
-39,Monsieur,Rebert Alexandre,,,,,,Congé,Bilatéral,Carnegie Mellon University Pittsburgh,187169,
-40,Monsieur,Rodrigues Dinis,,,,,,Présent,,,180968,
-41,Madame,Rodriguez Oriane,,,,,,Présent,,,186778,
-42,Monsieur,Rohrbach Jonathan,,,,,,Présent,,,184118,
-43,Monsieur,Rojanawisut Bastien,,,,,,Congé,Erasmus,Linköping University,185947,
-44,Madame,Salvisberg Véra,,,,,,Congé,Bilatéral,Carnegie Mellon University Pittsburgh,179703,
-45,Monsieur,Sanchez Witt Carlos,,,,,,Présent,,,186833,
-46,Monsieur,Sanglard Nicolas,,,,,,Présent,,,185975,
-47,Monsieur,Sarfati Alexandre,,,,,,Présent,,,185301,
-48,Monsieur,Scheiben Pascal,,,,,,Présent,,,169795,
-49,Monsieur,Schwery Thomas,,,,,,Présent,,,178684,
-50,Monsieur,Tapparel Yannick,,,,,,Présent,,,175407,
-51,Monsieur,Testuz Romain Pierre,,,,,,Présent,,,185754,
-52,Madame,Triponez Elodie Nilane,,,,,,Présent,,,181419,
-53,Monsieur,Uberti Quentin,,,,,,Présent,,,175280,
-54,Monsieur,Ulrich Guillaume,,,,,,Présent,,,186796,
-55,Monsieur,Voirol Nicolas Charles Yves,,,,,,Congé,Mobilité en Suisse,Eidgenössische Technische Hochschule Zürich,186268,
-56,Monsieur,Watrin Thibaut,,,,,,Présent,,,186215,
-57,Monsieur,Wertenbroek Rick,,,,,,Présent,,,180008,
-58,Monsieur,Widmer Florian,,,,,,Congé,Bilatéral,Indian Institute of Technology Delhi,186188,
-59,Monsieur,Zhou Yunpeng,,,,,,Présent,,,180916,
-60,Monsieur,Zimmermann Marc,,,,,,Congé,Bilatéral,Chinese University of Hong Kong,184342,
-61,Monsieur,Zürn Christophe,,,,,,Présent,,,178942,
+,CivilitÃ©,Nom PrÃ©nom,No Sciper,year,semester
+0,Monsieur,AmietÂ Nils,179383,2010,5
+1,Monsieur,ArnfredÂ Jonas,184772,2010,5
+2,Monsieur,AubelleÂ Flavien,174905,2010,5
+3,Monsieur,BaeriswylÂ Jonathan,179406,2010,5
+4,Monsieur,BarrocoÂ Michael,179428,2010,5
+5,Monsieur,BlochÂ Remi,179426,2010,5
+6,Monsieur,BourgeoisÂ JÃ©rÃ©my,185949,2010,5
+7,Monsieur,BruchezÂ Lionel,186825,2010,5
+8,Monsieur,CalvertÂ Thomas,179157,2010,5
+9,Monsieur,ChablaisÂ Michael,184991,2010,5
+10,Monsieur,CinoÂ Emanuel,178711,2010,5
+11,Monsieur,CoiroÂ Andrea,178786,2010,5
+12,Monsieur,CressierÂ Gilles,178287,2010,5
+13,Monsieur,CuonyÂ Maximilien,185952,2010,5
+14,Monsieur,Dal MasÂ Gianluca,178718,2010,5
+15,Monsieur,De CarvalhoÂ Jonathan,187001,2010,5
+16,Monsieur,DroxlerÂ Thomas,185959,2010,5
+17,Monsieur,FankhauserÂ Alexandre,180284,2010,5
+18,Monsieur,FiauxÂ AnaÃ«l,181109,2010,5
+19,Monsieur,FranscellaÂ Mattia,184844,2010,5
+20,Monsieur,GardiolÂ LoÃ¯c,185853,2010,5
+21,Monsieur,GoodÂ Xavier,147008,2010,5
+22,Monsieur,GremionÂ SÃ©bastien,175379,2010,5
+23,Monsieur,HaefligerÂ Roger,178604,2010,5
+24,Monsieur,HanserÂ ValÃ©rian,175190,2010,5
+25,Madame,HeldnerÂ CÃ©line,185811,2010,5
+26,Monsieur,HobbsÂ Michael,187119,2010,5
+27,Monsieur,HutzliÂ Michael Benedikt,183870,2010,5
+28,Monsieur,KnechtÂ Mathieu,169731,2010,5
+29,Monsieur,LangeÂ Yves,181259,2010,5
+30,Monsieur,LaurentÂ Florian,174847,2010,5
+31,Monsieur,LettryÂ Louis,184921,2010,5
+32,Monsieur,MaretÂ Gabriel,181514,2010,5
+33,Monsieur,MartinsÂ Acacio,181076,2010,5
+34,Monsieur,MÃ©gardÂ Lomig Corentin AmÃ©dÃ©e,186250,2010,5
+35,Monsieur,MenÃ©treyÂ Jeremiah,184258,2010,5
+36,Monsieur,MoumniÂ Benyounes,179848,2010,5
+37,Monsieur,PoiffautÂ Romain,194971,2010,5
+38,Monsieur,RadÂ Mahdi,194307,2010,5
+39,Monsieur,RebertÂ Alexandre,187169,2010,5
+40,Monsieur,RodriguesÂ Dinis,180968,2010,5
+41,Madame,RodriguezÂ Oriane,186778,2010,5
+42,Monsieur,RohrbachÂ Jonathan,184118,2010,5
+43,Monsieur,RojanawisutÂ Bastien,185947,2010,5
+44,Madame,SalvisbergÂ VÃ©ra,179703,2010,5
+45,Monsieur,Sanchez WittÂ Carlos,186833,2010,5
+46,Monsieur,SanglardÂ Nicolas,185975,2010,5
+47,Monsieur,SarfatiÂ Alexandre,185301,2010,5
+48,Monsieur,ScheibenÂ Pascal,169795,2010,5
+49,Monsieur,SchweryÂ Thomas,178684,2010,5
+50,Monsieur,TapparelÂ Yannick,175407,2010,5
+51,Monsieur,TestuzÂ Romain Pierre,185754,2010,5
+52,Madame,TriponezÂ Elodie Nilane,181419,2010,5
+53,Monsieur,UbertiÂ Quentin,175280,2010,5
+54,Monsieur,UlrichÂ Guillaume,186796,2010,5
+55,Monsieur,VoirolÂ Nicolas Charles Yves,186268,2010,5
+56,Monsieur,WatrinÂ Thibaut,186215,2010,5
+57,Monsieur,WertenbroekÂ Rick,180008,2010,5
+58,Monsieur,WidmerÂ Florian,186188,2010,5
+59,Monsieur,ZhouÂ Yunpeng,180916,2010,5
+60,Monsieur,ZimmermannÂ Marc,184342,2010,5
+61,Monsieur,ZÃ¼rnÂ Christophe,178942,2010,5

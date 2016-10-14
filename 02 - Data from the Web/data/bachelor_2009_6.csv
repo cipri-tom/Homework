@@ -1,61 +1,61 @@
-,Civilité,Nom Prénom,Orientation Bachelor,Orientation Master,Spécialisation,Filière opt.,Mineur,Statut,Type Echange,Ecole Echange,No Sciper,Unnamed: 11
-0,Monsieur,Arévalo Christian,,,,,,Présent,,,169569,
-1,Monsieur,Baeriswyl Jonathan,,,,,,Présent,,,179406,
-2,Monsieur,Balas Martin,,,,,,Présent,,,174774,
-3,Monsieur,Barroco Michael,,,,,,Présent,,,179428,
-4,Monsieur,Bindschaedler Vincent,,,,,,Présent,,,179449,
-5,Monsieur,Bloch Marc-Olivier,,,,,,Présent,,,178553,
-6,Monsieur,Bloch Remi,,,,,,Présent,,,179426,
-7,Monsieur,Boéchat Marc-Alexandre,,,,,,Congé,Bilatéral,Iowa State University Ames,178271,
-8,Monsieur,Bricola Jean-Charles,,,,,,Présent,,,180731,
-9,Monsieur,Buchschacher Nicolas,,,,,,Présent,,,171619,
-10,Monsieur,Calvert Thomas,,,,,,Présent,,,179157,
-11,Monsieur,Cino Emanuel,,,,,,Présent,,,178711,
-12,Monsieur,Coiro Andrea,,,,,,Présent,,,178786,
-13,Monsieur,Coppey Thierry,,,,,,Présent,,,170226,
-14,Monsieur,Cretton Gaetan,,,,,,Présent,,,170222,
-15,Monsieur,Curreli Alexandre,,,,,,Présent,,,178656,
-16,Monsieur,Dal Mas Gianluca,,,,,,Présent,,,178718,
-17,Monsieur,Del Colle Grégory,,,,,,Présent,,,167845,
-18,Monsieur,Ecuyer Adrien,,,,,,Présent,,,176061,
-19,Madame,Falbriard Stéphanie,,,,,,Congé,Bilatéral,Carnegie Mellon University Pittsburgh,178706,
-20,Monsieur,Fertani Mehdi,,,,,,Présent,,,174584,
-21,Monsieur,Frund Loïc,,,,,,Présent,,,181121,
-22,Madame,Grometto Cécile Sahoko,,,,,,Présent,,,174579,
-23,Monsieur,Gruner Samuel,,,,,,Présent,,,170235,
-24,Monsieur,Habegger Mathieu,,,,,,Présent,,,169942,
-25,Monsieur,Habfast Paul,,,,,,Congé,Bilatéral,Chinese University of Hong Kong,180570,
-26,Monsieur,Haefliger Roger,,,,,,Présent,,,178604,
-27,Monsieur,Hanser Valérian,,,,,,Présent,,,175190,
-28,Monsieur,Hayoz Thierry,,,,,,Présent,,,173345,
-29,Monsieur,Helfer Etienne,,,,,,Présent,,,181248,
-30,Monsieur,Houdemer Charles-Henry,,,,,,Présent,,,170239,
-31,Monsieur,Jutzeler Arnaud,,,,,,Présent,,,170827,
-32,Monsieur,Leuenberger Johan,,,,,,Congé,Bilatéral,Carnegie Mellon University Pittsburgh,178433,
-33,Monsieur,Lütolf Lukas,,,,,,Congé,Bilatéral,Instituto Tecnológico y de Estudios Superiores de Monterrey,181298,
-34,Monsieur,Lunang Pomkam Auguste Carmen,,,,,,Présent,,,161930,
-35,Monsieur,Ly Papa Alioune,,,,,,Présent,,,167007,
-36,Monsieur,Margot Alexandre,,,,,,Présent,,,170224,
-37,Monsieur,Martins Acacio,,,,,,Présent,,,181076,
-38,Monsieur,Miraglia Franco de Carvalho Pedro,,,,,,Présent,,,181115,
-39,Monsieur,Mirza Elias,,,,,,Présent,,,180094,
-40,Monsieur,Mortada Hamid,,,,,,Présent,,,171091,
-41,Monsieur,Nötzli Andres,,,,,,Congé,Bilatéral,Carnegie Mellon University Pittsburgh,181017,
-42,Monsieur,Obrist Damien,,,,,,Congé,Bilatéral,Carnegie Mellon University Pittsburgh,179194,
-43,Monsieur,Pache Christophe,,,,,,Présent,,,171735,
-44,Monsieur,Pamingle Michael Maurice Roger,,,,,,Présent,,,176382,
-45,Monsieur,Perrenoud Basile Samuel,,,,,,Congé,Erasmus,"Royal Institute of Technology, (KTH) Stockholm",179670,
-46,Madame,Portmann Joëlle,,,,,,Congé,Erasmus,Universidad Politecnica de Valencia,179988,
-47,Monsieur,Restani Stéphane,,,,,,Congé,Erasmus,"Royal Institute of Technology, (KTH) Stockholm",180959,
-48,Monsieur,Richter Arnaud,,,,,,Présent,,,171195,
-49,Madame,Sae-Tang Abson,,,,,,Présent,,,185042,
-50,Monsieur,Schädeli Andreas,,,,,,Présent,,,178948,
-51,Monsieur,Scheiben Pascal,,,,,,Présent,,,169795,
-52,Monsieur,Schild Christophe,,,,,,Présent,,,170980,
-53,Monsieur,Schwery Thomas,,,,,,Présent,,,178684,
-54,Monsieur,Sondag Pierre-Antoine,,,,,,Congé,Erasmus,"Royal Institute of Technology, (KTH) Stockholm",180241,
-55,Monsieur,Tabin Cédric,,,,,,Présent,,,176829,
-56,Monsieur,Uberti Quentin,,,,,,Présent,,,175280,
-57,Monsieur,Vautherin Jonas,,,,,,Congé,Erasmus,"Royal Institute of Technology, (KTH) Stockholm",180854,
-58,Monsieur,Zbinden Eric,,,,,,Présent,,,170267,
-59,Monsieur,Zoller Roman,,,,,,Congé,Erasmus,"Royal Institute of Technology, (KTH) Stockholm",178682,
+,CivilitÃ©,Nom PrÃ©nom,No Sciper,year,semester
+0,Monsieur,ArÃ©valoÂ Christian,169569,2009,6
+1,Monsieur,BaeriswylÂ Jonathan,179406,2009,6
+2,Monsieur,BalasÂ Martin,174774,2009,6
+3,Monsieur,BarrocoÂ Michael,179428,2009,6
+4,Monsieur,BindschaedlerÂ Vincent,179449,2009,6
+5,Monsieur,BlochÂ Marc-Olivier,178553,2009,6
+6,Monsieur,BlochÂ Remi,179426,2009,6
+7,Monsieur,BoÃ©chatÂ Marc-Alexandre,178271,2009,6
+8,Monsieur,BricolaÂ Jean-Charles,180731,2009,6
+9,Monsieur,BuchschacherÂ Nicolas,171619,2009,6
+10,Monsieur,CalvertÂ Thomas,179157,2009,6
+11,Monsieur,CinoÂ Emanuel,178711,2009,6
+12,Monsieur,CoiroÂ Andrea,178786,2009,6
+13,Monsieur,CoppeyÂ Thierry,170226,2009,6
+14,Monsieur,CrettonÂ Gaetan,170222,2009,6
+15,Monsieur,CurreliÂ Alexandre,178656,2009,6
+16,Monsieur,Dal MasÂ Gianluca,178718,2009,6
+17,Monsieur,Del ColleÂ GrÃ©gory,167845,2009,6
+18,Monsieur,EcuyerÂ Adrien,176061,2009,6
+19,Madame,FalbriardÂ StÃ©phanie,178706,2009,6
+20,Monsieur,FertaniÂ Mehdi,174584,2009,6
+21,Monsieur,FrundÂ LoÃ¯c,181121,2009,6
+22,Madame,GromettoÂ CÃ©cile Sahoko,174579,2009,6
+23,Monsieur,GrunerÂ Samuel,170235,2009,6
+24,Monsieur,HabeggerÂ Mathieu,169942,2009,6
+25,Monsieur,HabfastÂ Paul,180570,2009,6
+26,Monsieur,HaefligerÂ Roger,178604,2009,6
+27,Monsieur,HanserÂ ValÃ©rian,175190,2009,6
+28,Monsieur,HayozÂ Thierry,173345,2009,6
+29,Monsieur,HelferÂ Etienne,181248,2009,6
+30,Monsieur,HoudemerÂ Charles-Henry,170239,2009,6
+31,Monsieur,JutzelerÂ Arnaud,170827,2009,6
+32,Monsieur,LeuenbergerÂ Johan,178433,2009,6
+33,Monsieur,LÃ¼tolfÂ Lukas,181298,2009,6
+34,Monsieur,Lunang PomkamÂ Auguste Carmen,161930,2009,6
+35,Monsieur,LyÂ Papa Alioune,167007,2009,6
+36,Monsieur,MargotÂ Alexandre,170224,2009,6
+37,Monsieur,MartinsÂ Acacio,181076,2009,6
+38,Monsieur,Miraglia Franco de CarvalhoÂ Pedro,181115,2009,6
+39,Monsieur,MirzaÂ Elias,180094,2009,6
+40,Monsieur,MortadaÂ Hamid,171091,2009,6
+41,Monsieur,NÃ¶tzliÂ Andres,181017,2009,6
+42,Monsieur,ObristÂ Damien,179194,2009,6
+43,Monsieur,PacheÂ Christophe,171735,2009,6
+44,Monsieur,PamingleÂ Michael Maurice Roger,176382,2009,6
+45,Monsieur,PerrenoudÂ Basile Samuel,179670,2009,6
+46,Madame,PortmannÂ JoÃ«lle,179988,2009,6
+47,Monsieur,RestaniÂ StÃ©phane,180959,2009,6
+48,Monsieur,RichterÂ Arnaud,171195,2009,6
+49,Madame,Sae-TangÂ Abson,185042,2009,6
+50,Monsieur,SchÃ¤deliÂ Andreas,178948,2009,6
+51,Monsieur,ScheibenÂ Pascal,169795,2009,6
+52,Monsieur,SchildÂ Christophe,170980,2009,6
+53,Monsieur,SchweryÂ Thomas,178684,2009,6
+54,Monsieur,SondagÂ Pierre-Antoine,180241,2009,6
+55,Monsieur,TabinÂ CÃ©dric,176829,2009,6
+56,Monsieur,UbertiÂ Quentin,175280,2009,6
+57,Monsieur,VautherinÂ Jonas,180854,2009,6
+58,Monsieur,ZbindenÂ Eric,170267,2009,6
+59,Monsieur,ZollerÂ Roman,178682,2009,6

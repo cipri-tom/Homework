@@ -1,25 +1,25 @@
-,Civilité,Nom Prénom,Orientation Bachelor,Orientation Master,Spécialisation,Filière opt.,Mineur,Statut,Type Echange,Ecole Echange,No Sciper,Unnamed: 11
-0,Monsieur,Abate Bryan Jeremy,,,,,,Congé,Erasmus,University of Bristol,246671,
-1,Monsieur,Alami-Idrissi Ali,,,,5 - Signal and Image Processing,,Congé,Erasmus,Linköping University,251759,
-2,Monsieur,Aoun Leonardo,,,,,,Congé,Bilatéral,"University of Washington, Seattle",249498,
-3,Monsieur,Bachmann Roman Christian,,,,,,Congé,Erasmus,"Norwegian University of Science and Technology, Trondheim",234551,
-4,Monsieur,Beck Johannes Magnus,,,,,,Congé,Mobilité en Suisse,Eidgenössische Technische Hochschule Zürich,247328,
-5,Monsieur,Benlalah Ali,,,,,,Congé,Bilatéral,"Georgia Institute of Technology, Atlanta",251758,
-6,Monsieur,Bovel Matthieu Alexandre,,,,,,Congé,Mobilité en Suisse,Eidgenössische Technische Hochschule Zürich,250300,
-7,Monsieur,Burgelin Clément Louis Alexandre,,,,,,Congé,Bilatéral,"Johns Hopkins University, Baltimore",249954,
-8,Monsieur,Coudert Rémi Edouard,,,,,,Congé,Erasmus,Ecole Normale Supérieure de Lyon,249996,
-9,Madame,Evrova Gabriela,,,,,,Congé,Mobilité en Suisse,Eidgenössische Technische Hochschule Zürich,239489,
-10,Monsieur,Haefeli Simon Lucas,,,,,,Congé,Bilatéral,"University of British Columbia, Vancouver",246663,
-11,Monsieur,Lamonato Yves,,,,,,Congé,Bilatéral,Nanyang Technological University,245511,
-12,Monsieur,Madillo Raphael Frederic,,,,,,Congé,Erasmus,"Universitat Politècnica de Catalunya, Barcelona",250703,
-13,Monsieur,Massemin Lucas Christophe,,,,,,Congé,Erasmus,"Royal Institute of Technology, (KTH) Stockholm",245512,
-14,Monsieur,Mösching Guillaume Edouard Albert,,,,,,Congé,Bilatéral,Carnegie Mellon University Pittsburgh,247855,
-15,Madame,Mollier Lauriane Catherine Emilienne,,,,6 - Visual computing,,Congé,Erasmus,Rheinisch-Westfälische Technische Hochschule Aachen,227311,
-16,Monsieur,Perret Thibaud,,,,,,Congé,Erasmus,"Royal Institute of Technology, (KTH) Stockholm",245782,
-17,Monsieur,Ramirez Lucas,,,,,,Congé,Bilatéral,Carnegie Mellon University Pittsburgh,247233,
-18,Monsieur,Resin David,,,,,,Congé,Erasmus,Aalto University,225452,
-19,Monsieur,Rigori Valentin Joseph,,,,,,Congé,Erasmus,"Royal Institute of Technology, (KTH) Stockholm",250362,
-20,Monsieur,Sánchez Keller Aleixo,,,,,,Congé,,,235935,
-21,Monsieur,Soufi Raja,,,,,,Congé,Erasmus,"Royal Institute of Technology, (KTH) Stockholm",247680,
-22,Monsieur,Vaucher Timoté Pascal,,,,,,Congé,Bilatéral,National University of Singapore,246532,
-23,Monsieur,Weier Philippe,,,,,,Congé,Erasmus,Universidad de Granada,247891,
+,CivilitÃ©,Nom PrÃ©nom,No Sciper,year,semester
+0,Monsieur,AbateÂ Bryan Jeremy,246671,2016,6
+1,Monsieur,Alami-IdrissiÂ Ali,251759,2016,6
+2,Monsieur,AounÂ Leonardo,249498,2016,6
+3,Monsieur,BachmannÂ Roman Christian,234551,2016,6
+4,Monsieur,BeckÂ Johannes Magnus,247328,2016,6
+5,Monsieur,BenlalahÂ Ali,251758,2016,6
+6,Monsieur,BovelÂ Matthieu Alexandre,250300,2016,6
+7,Monsieur,BurgelinÂ ClÃ©ment Louis Alexandre,249954,2016,6
+8,Monsieur,CoudertÂ RÃ©mi Edouard,249996,2016,6
+9,Madame,EvrovaÂ Gabriela,239489,2016,6
+10,Monsieur,HaefeliÂ Simon Lucas,246663,2016,6
+11,Monsieur,LamonatoÂ Yves,245511,2016,6
+12,Monsieur,MadilloÂ Raphael Frederic,250703,2016,6
+13,Monsieur,MasseminÂ Lucas Christophe,245512,2016,6
+14,Monsieur,MÃ¶schingÂ Guillaume Edouard Albert,247855,2016,6
+15,Madame,MollierÂ Lauriane Catherine Emilienne,227311,2016,6
+16,Monsieur,PerretÂ Thibaud,245782,2016,6
+17,Monsieur,RamirezÂ Lucas,247233,2016,6
+18,Monsieur,ResinÂ David,225452,2016,6
+19,Monsieur,RigoriÂ Valentin Joseph,250362,2016,6
+20,Monsieur,SÃ¡nchez KellerÂ Aleixo,235935,2016,6
+21,Monsieur,SoufiÂ Raja,247680,2016,6
+22,Monsieur,VaucherÂ TimotÃ© Pascal,246532,2016,6
+23,Monsieur,WeierÂ Philippe,247891,2016,6

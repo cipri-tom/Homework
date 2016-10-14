@@ -1,58 +1,58 @@
-,Civilité,Nom Prénom,Orientation Bachelor,Orientation Master,Spécialisation,Filière opt.,Mineur,Statut,Type Echange,Ecole Echange,No Sciper,Unnamed: 11
-0,Monsieur,Arn Patrick,,,,,,Présent,,,174454,
-1,Monsieur,Balas Martin,,,,,,Présent,,,174774,
-2,Monsieur,Barras Florian,,,,,,Présent,,,170220,
-3,Monsieur,Beuret Thibaut,,,,,,Présent,,,166701,
-4,Monsieur,Bindschaedler Laurent,,,,,,Présent,,,170654,
-5,Monsieur,Biollay Jean Isaac Jamal Pachacutec,,,,,,Présent,,,161279,
-6,Monsieur,Blanc Régis William,,,,,,Présent,,,175339,
-7,Monsieur,Blatter Jérémy,,,,,,Présent,,,166344,
-8,Monsieur,Brunet Yorick,,,,,,Présent,,,178283,
-9,Monsieur,Burgener Raphaël,,,,,,Présent,,,170225,
-10,Monsieur,Candemir Mehmet,,,,,,Présent,,,161814,
-11,Monsieur,Certo Giuseppe,,,,,,Présent,,,170218,
-12,Monsieur,Chappuis Daniel,,,,,,Présent,,,170403,
-13,Monsieur,Cretton Gaetan,,,,,,Présent,,,170222,
-14,Monsieur,Del Colle Grégory,,,,,,Présent,,,167845,
-15,Monsieur,Ecuyer Adrien,,,,,,Présent,,,176061,
-16,Monsieur,Favre Ludovic,,,,,,Présent,,,175503,
-17,Monsieur,Fertani Mehdi,,,,,,Présent,,,174584,
-18,Monsieur,Follonier Wadeck,,,,,,Présent,,,174508,
-19,Monsieur,Girard Thomas,,,,,,Présent,,,175525,
-20,Madame,Grometto Cécile Sahoko,,,,,,Présent,,,174579,
-21,Monsieur,Gruner Samuel,,,,,,Présent,,,170235,
-22,Monsieur,Habegger Mathieu,,,,,,Présent,,,169942,
-23,Monsieur,Houdemer Charles-Henry,,,,,,Présent,,,170239,
-24,Madame,Javanmardy Khameneh Maryam,,,,,,Présent,,,173604,
-25,Monsieur,Jiekak Ndeutou Stève Aurélien,,,,,,Congé,Bilatéral,Carnegie Mellon University Pittsburgh,171073,
-26,Monsieur,Joneja Vishal,,,,,,Présent,,,170833,
-27,Monsieur,Jutzeler Arnaud,,,,,,Présent,,,170827,
-28,Monsieur,Kesici Omer,,,,,,Présent,,,174045,
-29,Monsieur,Kneuss Etienne,,,,,,Présent,,,175713,
-30,Monsieur,Köksal Ali Sinan,,,,,,Présent,,,171084,
-31,Monsieur,Kviatkevitch Ivan,,,,,,Présent,,,175880,
-32,Monsieur,Lunang Pomkam Auguste Carmen,,,,,,Présent,,,161930,
-33,Monsieur,Ly Papa Alioune,,,,,,Présent,,,167007,
-34,Monsieur,Margot Alexandre,,,,,,Présent,,,170224,
-35,Monsieur,Marquis Bastian,,,,,,Congé,Bilatéral,Carnegie Mellon University Pittsburgh,175012,
-36,Monsieur,Martin Steven-Anthony,,,,,,Présent,,,182377,
-37,Monsieur,Mortada Hamid,,,,,,Présent,,,171091,
-38,Monsieur,Pache Christophe,,,,,,Présent,,,171735,
-39,Monsieur,Pamingle Michael Maurice Roger,,,,,,Présent,,,176382,
-40,Monsieur,Perrin Alexandre,,,,,,Présent,,,170904,
-41,Monsieur,Pittet Jonathan,,,,,,Présent,,,170176,
-42,Monsieur,Putallaz Pierre-Dominique,,,,,,Présent,,,170245,
-43,Monsieur,Rensch Thomas,,,,,,Présent,,,175051,
-44,Monsieur,Rolewicz Ian,,,,,,Congé,Bilatéral,Carnegie Mellon University Pittsburgh,175775,
-45,Monsieur,Schaller Julien,,,,,,Présent,,,170246,
-46,Monsieur,Schellenbaum Gian,,,,,,Présent,,,170983,
-47,Monsieur,Schild Christophe,,,,,,Présent,,,170980,
-48,Monsieur,Spremic Lazar,,,,,,Présent,,,174456,
-49,Monsieur,Steiger Robin,,,,,,Congé,Bilatéral,Carnegie Mellon University Pittsburgh,175702,
-50,Monsieur,Stich Manuel,,,,,,Congé,Erasmus,Linköping University,175703,
-51,Monsieur,Sulc Jonathan,,,,,,Présent,,,175804,
-52,Monsieur,Testuz Stéphane,,,,,,Présent,,,171206,
-53,Monsieur,Tourino Pablo,,,,,,Présent,,,161220,
-54,Monsieur,Vallat Xavier,,,,,,Présent,,,167530,
-55,Monsieur,Verneau Loan,,,,,,Présent,,,170264,
-56,Monsieur,Zbinden Eric,,,,,,Présent,,,170267,
+,CivilitÃ©,Nom PrÃ©nom,No Sciper,year,semester
+0,Monsieur,ArnÂ Patrick,174454,2008,5
+1,Monsieur,BalasÂ Martin,174774,2008,5
+2,Monsieur,BarrasÂ Florian,170220,2008,5
+3,Monsieur,BeuretÂ Thibaut,166701,2008,5
+4,Monsieur,BindschaedlerÂ Laurent,170654,2008,5
+5,Monsieur,BiollayÂ Jean Isaac Jamal Pachacutec,161279,2008,5
+6,Monsieur,BlancÂ RÃ©gis William,175339,2008,5
+7,Monsieur,BlatterÂ JÃ©rÃ©my,166344,2008,5
+8,Monsieur,BrunetÂ Yorick,178283,2008,5
+9,Monsieur,BurgenerÂ RaphaÃ«l,170225,2008,5
+10,Monsieur,CandemirÂ Mehmet,161814,2008,5
+11,Monsieur,CertoÂ Giuseppe,170218,2008,5
+12,Monsieur,ChappuisÂ Daniel,170403,2008,5
+13,Monsieur,CrettonÂ Gaetan,170222,2008,5
+14,Monsieur,Del ColleÂ GrÃ©gory,167845,2008,5
+15,Monsieur,EcuyerÂ Adrien,176061,2008,5
+16,Monsieur,FavreÂ Ludovic,175503,2008,5
+17,Monsieur,FertaniÂ Mehdi,174584,2008,5
+18,Monsieur,FollonierÂ Wadeck,174508,2008,5
+19,Monsieur,GirardÂ Thomas,175525,2008,5
+20,Madame,GromettoÂ CÃ©cile Sahoko,174579,2008,5
+21,Monsieur,GrunerÂ Samuel,170235,2008,5
+22,Monsieur,HabeggerÂ Mathieu,169942,2008,5
+23,Monsieur,HoudemerÂ Charles-Henry,170239,2008,5
+24,Madame,Javanmardy KhamenehÂ Maryam,173604,2008,5
+25,Monsieur,Jiekak NdeutouÂ StÃ¨ve AurÃ©lien,171073,2008,5
+26,Monsieur,JonejaÂ Vishal,170833,2008,5
+27,Monsieur,JutzelerÂ Arnaud,170827,2008,5
+28,Monsieur,KesiciÂ Omer,174045,2008,5
+29,Monsieur,KneussÂ Etienne,175713,2008,5
+30,Monsieur,KÃ¶ksalÂ Ali Sinan,171084,2008,5
+31,Monsieur,KviatkevitchÂ Ivan,175880,2008,5
+32,Monsieur,Lunang PomkamÂ Auguste Carmen,161930,2008,5
+33,Monsieur,LyÂ Papa Alioune,167007,2008,5
+34,Monsieur,MargotÂ Alexandre,170224,2008,5
+35,Monsieur,MarquisÂ Bastian,175012,2008,5
+36,Monsieur,MartinÂ Steven-Anthony,182377,2008,5
+37,Monsieur,MortadaÂ Hamid,171091,2008,5
+38,Monsieur,PacheÂ Christophe,171735,2008,5
+39,Monsieur,PamingleÂ Michael Maurice Roger,176382,2008,5
+40,Monsieur,PerrinÂ Alexandre,170904,2008,5
+41,Monsieur,PittetÂ Jonathan,170176,2008,5
+42,Monsieur,PutallazÂ Pierre-Dominique,170245,2008,5
+43,Monsieur,RenschÂ Thomas,175051,2008,5
+44,Monsieur,RolewiczÂ Ian,175775,2008,5
+45,Monsieur,SchallerÂ Julien,170246,2008,5
+46,Monsieur,SchellenbaumÂ Gian,170983,2008,5
+47,Monsieur,SchildÂ Christophe,170980,2008,5
+48,Monsieur,SpremicÂ Lazar,174456,2008,5
+49,Monsieur,SteigerÂ Robin,175702,2008,5
+50,Monsieur,StichÂ Manuel,175703,2008,5
+51,Monsieur,SulcÂ Jonathan,175804,2008,5
+52,Monsieur,TestuzÂ StÃ©phane,171206,2008,5
+53,Monsieur,TourinoÂ Pablo,161220,2008,5
+54,Monsieur,VallatÂ Xavier,167530,2008,5
+55,Monsieur,VerneauÂ Loan,170264,2008,5
+56,Monsieur,ZbindenÂ Eric,170267,2008,5

@@ -1,53 +1,53 @@
-,Civilité,Nom Prénom,Orientation Bachelor,Orientation Master,Spécialisation,Filière opt.,Mineur,Statut,Type Echange,Ecole Echange,No Sciper,Unnamed: 11
-0,Monsieur,Aubelle Flavien,,,,,,Présent,,,174905,
-1,Monsieur,Augsburger Damien,,,,,,Présent,,,186595,
-2,Madame,Balmau Oana Maria,,,,,,Présent,,,192757,
-3,Monsieur,Barben Loïc,,,,,,Présent,,,189517,
-4,Monsieur,Blanvillain Olivier Eric Paul,,,,,,Présent,,,184098,
-5,Monsieur,Bliss Louis,,,,,,Présent,,,193046,
-6,Monsieur,Bottinelli Paul,,,,,,Congé,Bilatéral,University of Waterloo,194728,
-7,Monsieur,Bougacha Malik,,,,,,Présent,,,186264,
-8,Monsieur,Bourban Fabien,,,,,,Présent,,,194849,
-9,Monsieur,Bourqui Marc,,,,,,Présent,,,184264,
-10,Monsieur,Carballo Christopher,,,,,,Présent,,,186426,
-11,Monsieur,Chollet Yorick,,,,,,Congé,Erasmus,Linköping University,192647,
-12,Monsieur,Constantin Victor,,,,,,Présent,,,185283,
-13,Monsieur,Didot Bruno,,,,,,Présent,,,185934,
-14,Monsieur,Droxler Thomas,,,,,,Congé,,,185959,
-15,Monsieur,Edelmann Romain,,,,,,Congé,Bilatéral,National University of Singapore,193491,
-16,Monsieur,Fiaux Anaël,,,,,,Présent,,,181109,
-17,Monsieur,Fol Charles,,,,,,Congé,Erasmus,"Royal Institute of Technology, (KTH) Stockholm",184372,
-18,Monsieur,Fond Matthieu,,,,,,Présent,,,180816,
-19,Monsieur,Franscella Mattia,,,,,,Présent,,,184844,
-20,Monsieur,Gailly Nicolas,,,,,,Présent,,,195531,
-21,Monsieur,Gauthier Jean,,,,,,Congé,Bilatéral,National University of Singapore,193362,
-22,Monsieur,Genini Leonardo,,,,,,Présent,,,192309,
-23,Monsieur,Heiniger Sylvain,,,,,,Congé,Bilatéral,Iowa State University Ames,193505,
-24,Monsieur,Hobbs Michael,,,,,,Présent,,,187119,
-25,Monsieur,Hugonot Joachim,,,,,,Présent,,,186598,
-26,Monsieur,Jolidon Fabien,,,,,,Présent,,,181244,
-27,Monsieur,Kessel Alexis,,,,,,Présent,,,186872,
-28,Monsieur,Kromwijk Sander,,,,,,Présent,,,194430,
-29,Monsieur,Laurent Florian,,,,,,Présent,,,174847,
-30,Monsieur,Maître Nicolas,,,,,,Présent,,,194146,
-31,Monsieur,Martin Stéphane Bernard,,,,,,Présent,,,194127,
-32,Monsieur,Menétrey Jeremiah,,,,,,Présent,,,184258,
-33,Monsieur,Monney Mathieu,,,,,,Présent,,,196065,
-34,Monsieur,Mühlematter Thomas,,,,,,Présent,,,186193,
-35,Monsieur,Pellegrini Paul,,,,,,Congé,Bilatéral,Indian Institute of Technology Madras,196125,
-36,Monsieur,Rieder Jeremy,,,,,,Congé,Erasmus,"Universitat Politècnica de Catalunya, Barcelona",195950,
-37,Monsieur,Rodrigues Dinis,,,,,,Présent,,,180968,
-38,Monsieur,Rohrbach Jonathan,,,,,,Présent,,,184118,
-39,Monsieur,Rolland Cédric,,,,,,Présent,,,186870,
-40,Madame,Rollier Orianne,,,,,,Présent,,,184956,
-41,Monsieur,Sarfati Alexandre,,,,,,Présent,,,185301,
-42,Monsieur,Simond Florian,,,,,,Présent,,,195446,
-43,Madame,Sisto Maria,,,,,,Présent,,,184373,
-44,Monsieur,Tramèr Florian,,,,,,Congé,Bilatéral,Carnegie Mellon University Pittsburgh,193352,
-45,Monsieur,Vallone Joël,,,,,,Présent,,,183984,
-46,Monsieur,Vanini Erico,,,,,,Présent,,,192668,
-47,Monsieur,Vasta Rivo,,,,,,Congé,Erasmus,"Royal Institute of Technology, (KTH) Stockholm",186067,
-48,Monsieur,Viaccoz Thierry,,,,,,Présent,,,195916,
-49,Monsieur,Vion Roger,,,,,,Présent,,,175410,
-50,Monsieur,Wenger Amos,,,,,,Présent,,,184863,
-51,Monsieur,Zablotchi Mihail Igor,,,,,,Présent,,,192870,
+,CivilitÃ©,Nom PrÃ©nom,No Sciper,year,semester
+0,Monsieur,AubelleÂ Flavien,174905,2011,6
+1,Monsieur,AugsburgerÂ Damien,186595,2011,6
+2,Madame,BalmauÂ Oana Maria,192757,2011,6
+3,Monsieur,BarbenÂ LoÃ¯c,189517,2011,6
+4,Monsieur,BlanvillainÂ Olivier Eric Paul,184098,2011,6
+5,Monsieur,BlissÂ Louis,193046,2011,6
+6,Monsieur,BottinelliÂ Paul,194728,2011,6
+7,Monsieur,BougachaÂ Malik,186264,2011,6
+8,Monsieur,BourbanÂ Fabien,194849,2011,6
+9,Monsieur,BourquiÂ Marc,184264,2011,6
+10,Monsieur,CarballoÂ Christopher,186426,2011,6
+11,Monsieur,CholletÂ Yorick,192647,2011,6
+12,Monsieur,ConstantinÂ Victor,185283,2011,6
+13,Monsieur,DidotÂ Bruno,185934,2011,6
+14,Monsieur,DroxlerÂ Thomas,185959,2011,6
+15,Monsieur,EdelmannÂ Romain,193491,2011,6
+16,Monsieur,FiauxÂ AnaÃ«l,181109,2011,6
+17,Monsieur,FolÂ Charles,184372,2011,6
+18,Monsieur,FondÂ Matthieu,180816,2011,6
+19,Monsieur,FranscellaÂ Mattia,184844,2011,6
+20,Monsieur,GaillyÂ Nicolas,195531,2011,6
+21,Monsieur,GauthierÂ Jean,193362,2011,6
+22,Monsieur,GeniniÂ Leonardo,192309,2011,6
+23,Monsieur,HeinigerÂ Sylvain,193505,2011,6
+24,Monsieur,HobbsÂ Michael,187119,2011,6
+25,Monsieur,HugonotÂ Joachim,186598,2011,6
+26,Monsieur,JolidonÂ Fabien,181244,2011,6
+27,Monsieur,KesselÂ Alexis,186872,2011,6
+28,Monsieur,KromwijkÂ Sander,194430,2011,6
+29,Monsieur,LaurentÂ Florian,174847,2011,6
+30,Monsieur,MaÃ®treÂ Nicolas,194146,2011,6
+31,Monsieur,MartinÂ StÃ©phane Bernard,194127,2011,6
+32,Monsieur,MenÃ©treyÂ Jeremiah,184258,2011,6
+33,Monsieur,MonneyÂ Mathieu,196065,2011,6
+34,Monsieur,MÃ¼hlematterÂ Thomas,186193,2011,6
+35,Monsieur,PellegriniÂ Paul,196125,2011,6
+36,Monsieur,RiederÂ Jeremy,195950,2011,6
+37,Monsieur,RodriguesÂ Dinis,180968,2011,6
+38,Monsieur,RohrbachÂ Jonathan,184118,2011,6
+39,Monsieur,RollandÂ CÃ©dric,186870,2011,6
+40,Madame,RollierÂ Orianne,184956,2011,6
+41,Monsieur,SarfatiÂ Alexandre,185301,2011,6
+42,Monsieur,SimondÂ Florian,195446,2011,6
+43,Madame,SistoÂ Maria,184373,2011,6
+44,Monsieur,TramÃ¨rÂ Florian,193352,2011,6
+45,Monsieur,ValloneÂ JoÃ«l,183984,2011,6
+46,Monsieur,VaniniÂ Erico,192668,2011,6
+47,Monsieur,VastaÂ Rivo,186067,2011,6
+48,Monsieur,ViaccozÂ Thierry,195916,2011,6
+49,Monsieur,VionÂ Roger,175410,2011,6
+50,Monsieur,WengerÂ Amos,184863,2011,6
+51,Monsieur,ZablotchiÂ Mihail Igor,192870,2011,6

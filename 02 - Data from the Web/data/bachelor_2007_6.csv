@@ -1,39 +1,39 @@
-,Civilité,Nom Prénom,Orientation Bachelor,Orientation Master,Spécialisation,Filière opt.,Mineur,Statut,Type Echange,Ecole Echange,No Sciper,Unnamed: 11
-0,Monsieur,Barras Florian,,,,,,Présent,,,170220,
-1,Monsieur,Beuret Thibaut,,,,,,Présent,,,166701,
-2,Monsieur,Biollay Jean Isaac Jamal Pachacutec,,,,,,Présent,,,161279,
-3,Monsieur,Blatter Jérémy,,,,,,Présent,,,166344,
-4,Monsieur,Boksanyi Michael,,,,,,Présent,,,161634,
-5,Monsieur,Bolkensteyn Dinesh,,,,,,Présent,,,170451,
-6,Monsieur,Bornet Cyril Antoine Michel,,,,,,Présent,,,170219,
-7,Monsieur,Candemir Mehmet,,,,,,Présent,,,161814,
-8,Monsieur,Conus Johann,,,,,,Présent,,,153762,
-9,Monsieur,Delort Vincent,,,,,,Congé,Bilatéral,University of Tokyo,166548,
-10,Monsieur,Donzé Benjamin,,,,,,Présent,,,166746,
-11,Monsieur,Dos Santos Patrick,,,,,,Présent,,,166748,
-12,Monsieur,Droz Olivier,,,,,,Présent,,,166751,
-13,Monsieur,Eberle Julien,,,,,,Présent,,,170414,
-14,Monsieur,Genet Henry,,,,,,Présent,,,166889,
-15,Madame,Grivet Ekaterina,,,,,,Présent,,,161091,
-16,Madame,Javanmardy Khameneh Maryam,,,,,,Présent,,,173604,
-17,Madame,Jesse Julia,,,,,,Présent,,,159998,
-18,Monsieur,Joneja Vishal,,,,,,Présent,,,170833,
-19,Monsieur,Jonnalagedda Manohar,,,,,,Présent,,,170823,
-20,Monsieur,Laprade Philippe,,,,,,Présent,,,170241,
-21,Monsieur,Lauber Jonas,,,,,,Présent,,,170242,
-22,Monsieur,Lorch Daniel,,,,,,Présent,,,165562,
-23,Monsieur,Ly Papa Alioune,,,,,,Présent,,,167007,
-24,Monsieur,Mader Arnaud,,,,,,Présent,,,166260,
-25,Monsieur,Marfurt Nicolas,,,,,,Présent,,,167313,
-26,Monsieur,Neu Raoul,,,,,,Présent,,,171028,
-27,Monsieur,Nguyen-Xuan Jérémy,,,,,,Présent,,,167386,
-28,Monsieur,Raja Yanick,,,,,,Présent,,,159516,
-29,Monsieur,Sahy François,,,,,,Présent,,,161127,
-30,Monsieur,Smaga Jérémie,,,,,,Présent,,,170931,
-31,Monsieur,Tangui Achraf,,,,,,Présent,,,167045,
-32,Monsieur,Tourino Pablo,,,,,,Présent,,,161220,
-33,Monsieur,Treccani Adrien,,,,,,Présent,,,170975,
-34,Monsieur,Vallat Xavier,,,,,,Présent,,,167530,
-35,Monsieur,Vogt Pascal,,,,,,Présent,,,170265,
-36,Monsieur,Waldmeyer Marc,,,,,,Présent,,,167439,
-37,Monsieur,Züger Walter,,,,,,Présent,,,171042,
+,CivilitÃ©,Nom PrÃ©nom,No Sciper,year,semester
+0,Monsieur,BarrasÂ Florian,170220,2007,6
+1,Monsieur,BeuretÂ Thibaut,166701,2007,6
+2,Monsieur,BiollayÂ Jean Isaac Jamal Pachacutec,161279,2007,6
+3,Monsieur,BlatterÂ JÃ©rÃ©my,166344,2007,6
+4,Monsieur,BoksanyiÂ Michael,161634,2007,6
+5,Monsieur,BolkensteynÂ Dinesh,170451,2007,6
+6,Monsieur,BornetÂ Cyril Antoine Michel,170219,2007,6
+7,Monsieur,CandemirÂ Mehmet,161814,2007,6
+8,Monsieur,ConusÂ Johann,153762,2007,6
+9,Monsieur,DelortÂ Vincent,166548,2007,6
+10,Monsieur,DonzÃ©Â Benjamin,166746,2007,6
+11,Monsieur,Dos SantosÂ Patrick,166748,2007,6
+12,Monsieur,DrozÂ Olivier,166751,2007,6
+13,Monsieur,EberleÂ Julien,170414,2007,6
+14,Monsieur,GenetÂ Henry,166889,2007,6
+15,Madame,GrivetÂ Ekaterina,161091,2007,6
+16,Madame,Javanmardy KhamenehÂ Maryam,173604,2007,6
+17,Madame,JesseÂ Julia,159998,2007,6
+18,Monsieur,JonejaÂ Vishal,170833,2007,6
+19,Monsieur,JonnalageddaÂ Manohar,170823,2007,6
+20,Monsieur,LapradeÂ Philippe,170241,2007,6
+21,Monsieur,LauberÂ Jonas,170242,2007,6
+22,Monsieur,LorchÂ Daniel,165562,2007,6
+23,Monsieur,LyÂ Papa Alioune,167007,2007,6
+24,Monsieur,MaderÂ Arnaud,166260,2007,6
+25,Monsieur,MarfurtÂ Nicolas,167313,2007,6
+26,Monsieur,NeuÂ Raoul,171028,2007,6
+27,Monsieur,Nguyen-XuanÂ JÃ©rÃ©my,167386,2007,6
+28,Monsieur,RajaÂ Yanick,159516,2007,6
+29,Monsieur,SahyÂ FranÃ§ois,161127,2007,6
+30,Monsieur,SmagaÂ JÃ©rÃ©mie,170931,2007,6
+31,Monsieur,TanguiÂ Achraf,167045,2007,6
+32,Monsieur,TourinoÂ Pablo,161220,2007,6
+33,Monsieur,TreccaniÂ Adrien,170975,2007,6
+34,Monsieur,VallatÂ Xavier,167530,2007,6
+35,Monsieur,VogtÂ Pascal,170265,2007,6
+36,Monsieur,WaldmeyerÂ Marc,167439,2007,6
+37,Monsieur,ZÃ¼gerÂ Walter,171042,2007,6
