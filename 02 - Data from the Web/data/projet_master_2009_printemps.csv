@@ -1,9 +1,9 @@
-,Civilité,Nom Prénom,Orientation Bachelor,Orientation Master,Spécialisation,Filière opt.,Mineur,Statut,Type Echange,Ecole Echange,No Sciper,Unnamed: 11
-0,Monsieur,Bécholey Alexandre,,,,,,Congé,,,160213,
-1,Madame,Benabdallah Zeineb,,,Biocomputing,,,Présent,,,154573,
-2,Monsieur,Cunha Pedro Andre,,,Internet computing,,,Présent,,,185523,
-3,Madame,Kostic Teodora,,,,,,Présent,,,183605,
-4,Monsieur,Raja Yanick,,,,,,Présent,,,159516,
-5,Monsieur,Stroe Bogdan,,,Foundations of Software,,,Stage,,,186060,
-6,Monsieur,Stroe Dante,,,Internet computing,,,Stage,,,185522,
-7,Monsieur,Vogt Pascal,,,,,,Présent,,,170265,
+,Civilité,Nom Prénom,Spécialisation,Statut,No Sciper,year,semester
+0,Monsieur,Bécholey Alexandre,,Congé,160213,2009,printemps
+1,Madame,Benabdallah Zeineb,Biocomputing,Présent,154573,2009,printemps
+2,Monsieur,Cunha Pedro Andre,Internet computing,Présent,185523,2009,printemps
+3,Madame,Kostic Teodora,,Présent,183605,2009,printemps
+4,Monsieur,Raja Yanick,,Présent,159516,2009,printemps
+5,Monsieur,Stroe Bogdan,Foundations of Software,Stage,186060,2009,printemps
+6,Monsieur,Stroe Dante,Internet computing,Stage,185522,2009,printemps
+7,Monsieur,Vogt Pascal,,Présent,170265,2009,printemps

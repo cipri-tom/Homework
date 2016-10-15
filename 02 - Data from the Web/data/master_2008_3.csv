@@ -1,49 +1,49 @@
-,Civilité,Nom Prénom,Orientation Bachelor,Orientation Master,Spécialisation,Filière opt.,Mineur,Statut,Type Echange,Ecole Echange,No Sciper,Unnamed: 11
-0,Monsieur,Aeberhard François-Xavier,,,,,,Présent,,,153066,
-1,Monsieur,Anagnostaras David,,,,,"Mineur en Management, technologie et entrepreneuriat",Présent,,,152232,
-2,Monsieur,Auroux Damien,,,Internet computing,,,Présent,,,177395,
-3,Monsieur,Awalebo Joseph,,,,,,Stage,,,161970,
-4,Monsieur,Balet Ken,,,Internet computing,,,Présent,,,166258,
-5,Monsieur,Bayramoglu Ersoy,,,,,,Présent,,,178879,
-6,Madame,Benabdallah Zeineb,,,Biocomputing,,,Présent,,,154573,
-7,Monsieur,Billaud Joël,,,,,,Présent,,,172687,
-8,Monsieur,Brightwell Mark,,,,,,Présent,,,179802,
-9,Monsieur,Campora Simone,,,Internet computing,,,Présent,,,180072,
-10,Monsieur,Cantale Nicolas,,,,,,Présent,,,153324,
-11,Monsieur,Cardinaux Damien,,,,,,Présent,,,146330,
-12,Madame,Casati Nathalie,,,,,,Présent,,,160148,
-13,Monsieur,Cassata Alexandre,,,,,,Présent,,,160225,
-14,Monsieur,Copponnex Hadrien,,,Foundations of Software,,,Présent,,,160718,
-15,Monsieur,Dupasquier Benoît,,,,,,Stage,,,166772,
-16,Monsieur,Fardel Ludovic,,,,,,Présent,,,167168,
-17,Monsieur,Fomene Tierry Alain,,,Internet computing,,,Présent,,,154080,
-18,Monsieur,Galdos Andoni,,,,,,Présent,,,169702,
-19,Monsieur,Gascon Grégory,,,,,,Présent,,,160578,
-20,Monsieur,Gfeller Sebastian,,,Foundations of Software,,,Présent,,,161357,
-21,Monsieur,Heath Quentin,,,Foundations of Software,,,Présent,,,177399,
-22,Monsieur,Hofer Thomas,,,Foundations of Software,,,Présent,,,165819,
-23,Monsieur,Hottelier Thibaud,,,Foundations of Software,,,Présent,,,166229,
-24,Monsieur,Joaquim David,,,Foundations of Software,,,Congé,,,166124,
-25,Monsieur,Junod Cyril,,,Internet computing,,,Présent,,,154484,
-26,Monsieur,Khan Suleiman,,,,,,Présent,,,154503,
-27,Monsieur,Koganei Olivier,,,Internet computing,,,Présent,,,180313,
-28,Monsieur,Kohler Johann,,,Internet computing,,,Présent,,,160254,
-29,Monsieur,Koller Yannick,,,Biocomputing,,,Présent,,,169734,
-30,Monsieur,Kwanga Rodrigue,,,,,,Présent,,,172611,
-31,Monsieur,Lavanchy Cédric,,,Foundations of Software,,,Présent,,,166935,
-32,Monsieur,Marmori Federico,,,Foundations of Software,,,Présent,,,161794,
-33,Monsieur,Moulin François,,,Internet computing,,,Présent,,,167133,
-34,Monsieur,Muriel Hugo Marcelo,,,Internet computing,,,Présent,,,179878,
-35,Monsieur,Ngallemo Hever Patrick,,,,,,Stage,,,160893,
-36,Monsieur,Pakzad Pooya,,,Internet computing,,,Présent,,,180160,
-37,Monsieur,Pilchen Jerome,,,"Signals, Images and Interfaces",,,Présent,,,177636,
-38,Monsieur,Plancherel Pascal,,,Computer Engineering - SP,,,Présent,,,166262,
-39,Monsieur,Pollet Christophe,,,Internet computing,,,Présent,,,179716,
-40,Monsieur,Rabie Stéphane,,,Internet computing,,,Présent,,,177393,
-41,Monsieur,Ragnerstam Erik,,,,,,Présent,,,177476,
-42,Madame,Rochat Aurélia,,,Internet computing,,,Présent,,,166079,
-43,Monsieur,Roux Alexandre,,,Foundations of Software,,,Présent,,,166263,
-44,Monsieur,Schintgen Joël,,,Internet computing,,,Présent,,,160991,
-45,Monsieur,Suter François,,,,,,Stage,,,154706,
-46,Monsieur,Wei Zhe,,,,,,Présent,,,155097,
-47,Monsieur,Zufferey Damien,,,Foundations of Software,,,Présent,,,166264,
+,Civilité,Nom Prénom,Spécialisation,Mineur,Statut,No Sciper,year,semester
+0,Monsieur,Aeberhard François-Xavier,,,Présent,153066,2008,3
+1,Monsieur,Anagnostaras David,,"Mineur en Management, technologie et entrepreneuriat",Présent,152232,2008,3
+2,Monsieur,Auroux Damien,Internet computing,,Présent,177395,2008,3
+3,Monsieur,Awalebo Joseph,,,Stage,161970,2008,3
+4,Monsieur,Balet Ken,Internet computing,,Présent,166258,2008,3
+5,Monsieur,Bayramoglu Ersoy,,,Présent,178879,2008,3
+6,Madame,Benabdallah Zeineb,Biocomputing,,Présent,154573,2008,3
+7,Monsieur,Billaud Joël,,,Présent,172687,2008,3
+8,Monsieur,Brightwell Mark,,,Présent,179802,2008,3
+9,Monsieur,Campora Simone,Internet computing,,Présent,180072,2008,3
+10,Monsieur,Cantale Nicolas,,,Présent,153324,2008,3
+11,Monsieur,Cardinaux Damien,,,Présent,146330,2008,3
+12,Madame,Casati Nathalie,,,Présent,160148,2008,3
+13,Monsieur,Cassata Alexandre,,,Présent,160225,2008,3
+14,Monsieur,Copponnex Hadrien,Foundations of Software,,Présent,160718,2008,3
+15,Monsieur,Dupasquier Benoît,,,Stage,166772,2008,3
+16,Monsieur,Fardel Ludovic,,,Présent,167168,2008,3
+17,Monsieur,Fomene Tierry Alain,Internet computing,,Présent,154080,2008,3
+18,Monsieur,Galdos Andoni,,,Présent,169702,2008,3
+19,Monsieur,Gascon Grégory,,,Présent,160578,2008,3
+20,Monsieur,Gfeller Sebastian,Foundations of Software,,Présent,161357,2008,3
+21,Monsieur,Heath Quentin,Foundations of Software,,Présent,177399,2008,3
+22,Monsieur,Hofer Thomas,Foundations of Software,,Présent,165819,2008,3
+23,Monsieur,Hottelier Thibaud,Foundations of Software,,Présent,166229,2008,3
+24,Monsieur,Joaquim David,Foundations of Software,,Congé,166124,2008,3
+25,Monsieur,Junod Cyril,Internet computing,,Présent,154484,2008,3
+26,Monsieur,Khan Suleiman,,,Présent,154503,2008,3
+27,Monsieur,Koganei Olivier,Internet computing,,Présent,180313,2008,3
+28,Monsieur,Kohler Johann,Internet computing,,Présent,160254,2008,3
+29,Monsieur,Koller Yannick,Biocomputing,,Présent,169734,2008,3
+30,Monsieur,Kwanga Rodrigue,,,Présent,172611,2008,3
+31,Monsieur,Lavanchy Cédric,Foundations of Software,,Présent,166935,2008,3
+32,Monsieur,Marmori Federico,Foundations of Software,,Présent,161794,2008,3
+33,Monsieur,Moulin François,Internet computing,,Présent,167133,2008,3
+34,Monsieur,Muriel Hugo Marcelo,Internet computing,,Présent,179878,2008,3
+35,Monsieur,Ngallemo Hever Patrick,,,Stage,160893,2008,3
+36,Monsieur,Pakzad Pooya,Internet computing,,Présent,180160,2008,3
+37,Monsieur,Pilchen Jerome,"Signals, Images and Interfaces",,Présent,177636,2008,3
+38,Monsieur,Plancherel Pascal,Computer Engineering - SP,,Présent,166262,2008,3
+39,Monsieur,Pollet Christophe,Internet computing,,Présent,179716,2008,3
+40,Monsieur,Rabie Stéphane,Internet computing,,Présent,177393,2008,3
+41,Monsieur,Ragnerstam Erik,,,Présent,177476,2008,3
+42,Madame,Rochat Aurélia,Internet computing,,Présent,166079,2008,3
+43,Monsieur,Roux Alexandre,Foundations of Software,,Présent,166263,2008,3
+44,Monsieur,Schintgen Joël,Internet computing,,Présent,160991,2008,3
+45,Monsieur,Suter François,,,Stage,154706,2008,3
+46,Monsieur,Wei Zhe,,,Présent,155097,2008,3
+47,Monsieur,Zufferey Damien,Foundations of Software,,Présent,166264,2008,3

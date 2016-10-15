@@ -1,72 +1,72 @@
-,Civilité,Nom Prénom,Orientation Bachelor,Orientation Master,Spécialisation,Filière opt.,Mineur,Statut,Type Echange,Ecole Echange,No Sciper,Unnamed: 11
-0,Monsieur,Aeberhard François-Xavier,,,,,,Présent,,,153066,
-1,Madame,Agarwal Megha,,,,,,Présent,,,180027,
-2,Monsieur,Anagnostaras David,,,,,,Présent,,,152232,
-3,Monsieur,Auroux Damien,,,,,,Présent,,,177395,
-4,Monsieur,Awalebo Joseph,,,,,,Présent,,,161970,
-5,Monsieur,Balet Ken,,,,,,Présent,,,166258,
-6,Monsieur,Barazzutti Raphaël Pierre,,,,,,Présent,,,173600,
-7,Monsieur,Bayramoglu Ersoy,,,,,,Présent,,,178879,
-8,Madame,Benabdallah Zeineb,,,,,,Présent,,,154573,
-9,Monsieur,Bettex Marc,,,,,,Présent,,,160492,
-10,Monsieur,Billaud Joël,,,,,,Présent,,,172687,
-11,Monsieur,Brightwell Mark,,,,,,Présent,,,179802,
-12,Madame,Bucher Cécile,,,,,,Présent,,,162618,
-13,Monsieur,Campora Simone,,,Internet computing,,,Présent,,,180072,
-14,Monsieur,Cardinaux Damien,,,,,,Présent,,,146330,
-15,Madame,Casati Nathalie,,,,,,Présent,,,160148,
-16,Monsieur,Cassata Alexandre,,,,,,Présent,,,160225,
-17,Monsieur,Cassina Ilya,,,,,,Présent,,,153746,
-18,Monsieur,Copponnex Hadrien,,,,,,Présent,,,160718,
-19,Monsieur,Droz-dit-Busset Arnault,,,,,,Présent,,,138088,
-20,Monsieur,Dumont Loïc,,,,,,Présent,,,154643,
-21,Monsieur,Dupasquier Benoît,,,,,,Présent,,,166772,
-22,Monsieur,Fardel Ludovic,,,,,,Présent,,,167168,
-23,Monsieur,Fleury Marc-Olivier,,,,,,Présent,,,166805,
-24,Monsieur,Fomene Tierry Alain,,,,,,Congé,Erasmus,Linköping University,154080,
-25,Monsieur,Galdos Andoni,,,,,,Présent,,,169702,
-26,Monsieur,Garessus Samuel,,,,,,Présent,,,180161,
-27,Monsieur,Garg Nikhil,,,,,,Présent,,,172264,
-28,Monsieur,Gascon Grégory,,,,,,Présent,,,160578,
-29,Monsieur,Gfeller Sebastian,,,,,,Présent,,,161357,
-30,Monsieur,Heath Quentin,,,,,,Présent,,,177399,
-31,Monsieur,Heiniger Nicolas,,,,,,Présent,,,166921,
-32,Monsieur,Hofer Thomas,,,Foundations of Software,,,Présent,,,165819,
-33,Monsieur,Hottelier Thibaud,,,,,,Présent,,,166229,
-34,Monsieur,Ibarguren Ibai,,,,,,Présent,,,173902,
-35,Monsieur,Imperatori Alexandre,,,,,,Présent,,,166491,
-36,Monsieur,Joaquim David,,,,,,Présent,,,166124,
-37,Monsieur,Junod Antoine,,,,,,Présent,,,146929,
-38,Monsieur,Koganei Olivier,,,,,,Présent,,,180313,
-39,Monsieur,Kohler Johann,,,,,,Présent,,,160254,
-40,Monsieur,Koller Yannick,,,,,,Présent,,,169734,
-41,Madame,Krishnan Sukanya,,,,,,Présent,,,179800,
-42,Monsieur,Kwanga Rodrigue,,,Biocomputing,,,Présent,,,172611,
-43,Monsieur,Lavanchy Cédric,,,,,,Présent,,,166935,
-44,Monsieur,Losa Giuliano,,,,,,Présent,,,179339,
-45,Madame,Lotfi Jocelyne,,,,,,Présent,,,166029,
-46,Madame,Marian Ludmila,,,,,,Présent,,,179930,
-47,Monsieur,Marmori Federico,,,,,,Présent,,,161794,
-48,Madame,Meinen Jennifer,,,,,,Présent,,,161024,
-49,Monsieur,Moulin François,,,,,,Présent,,,167133,
-50,Monsieur,Muriel Hugo Marcelo,,,Internet computing,,,Présent,,,179878,
-51,Monsieur,Ngallemo Hever Patrick,,,,,,Présent,,,160893,
-52,Monsieur,Ninkovic Marko,,,,,,Présent,,,180269,
-53,Monsieur,Pakzad Pooya,,,Internet computing,,,Présent,,,180160,
-54,Monsieur,Pilchen Jerome,,,,,,Présent,,,177636,
-55,Monsieur,Plancherel Pascal,,,,,,Présent,,,166262,
-56,Monsieur,Pollet Christophe,,,,,,Présent,,,179716,
-57,Monsieur,Rabie Stéphane,,,,,,Présent,,,177393,
-58,Monsieur,Ragnerstam Erik,,,,,,Présent,,,177476,
-59,Madame,Rochat Aurélia,,,,,,Présent,,,166079,
-60,Monsieur,Roux Alexandre,,,Foundations of Software,,,Présent,,,166263,
-61,Monsieur,Sauthier Ludovic,,,,,,Présent,,,161138,
-62,Monsieur,Schintgen Joël,,,,,,Présent,,,160991,
-63,Monsieur,Signori Jean,,,,,,Présent,,,155018,
-64,Monsieur,Spiess Christophe,,,,,,Présent,,,167387,
-65,Monsieur,Stachowiak Robert,,,,,,Présent,,,174036,
-66,Monsieur,Suter François,,,,,,Présent,,,154706,
-67,Madame,Tomar Anmol,,,,,,Présent,,,178057,
-68,Monsieur,Wei Zhe,,,,,,Présent,,,155097,
-69,Monsieur,Zalakain Ilazki,,,,,,Présent,,,169839,
-70,Monsieur,Zufferey Damien,,,,,,Présent,,,166264,
+,Civilité,Nom Prénom,Spécialisation,Statut,Type Echange,Ecole Echange,No Sciper,year,semester
+0,Monsieur,Aeberhard François-Xavier,,Présent,,,153066,2007,1
+1,Madame,Agarwal Megha,,Présent,,,180027,2007,1
+2,Monsieur,Anagnostaras David,,Présent,,,152232,2007,1
+3,Monsieur,Auroux Damien,,Présent,,,177395,2007,1
+4,Monsieur,Awalebo Joseph,,Présent,,,161970,2007,1
+5,Monsieur,Balet Ken,,Présent,,,166258,2007,1
+6,Monsieur,Barazzutti Raphaël Pierre,,Présent,,,173600,2007,1
+7,Monsieur,Bayramoglu Ersoy,,Présent,,,178879,2007,1
+8,Madame,Benabdallah Zeineb,,Présent,,,154573,2007,1
+9,Monsieur,Bettex Marc,,Présent,,,160492,2007,1
+10,Monsieur,Billaud Joël,,Présent,,,172687,2007,1
+11,Monsieur,Brightwell Mark,,Présent,,,179802,2007,1
+12,Madame,Bucher Cécile,,Présent,,,162618,2007,1
+13,Monsieur,Campora Simone,Internet computing,Présent,,,180072,2007,1
+14,Monsieur,Cardinaux Damien,,Présent,,,146330,2007,1
+15,Madame,Casati Nathalie,,Présent,,,160148,2007,1
+16,Monsieur,Cassata Alexandre,,Présent,,,160225,2007,1
+17,Monsieur,Cassina Ilya,,Présent,,,153746,2007,1
+18,Monsieur,Copponnex Hadrien,,Présent,,,160718,2007,1
+19,Monsieur,Droz-dit-Busset Arnault,,Présent,,,138088,2007,1
+20,Monsieur,Dumont Loïc,,Présent,,,154643,2007,1
+21,Monsieur,Dupasquier Benoît,,Présent,,,166772,2007,1
+22,Monsieur,Fardel Ludovic,,Présent,,,167168,2007,1
+23,Monsieur,Fleury Marc-Olivier,,Présent,,,166805,2007,1
+24,Monsieur,Fomene Tierry Alain,,Congé,Erasmus,Linköping University,154080,2007,1
+25,Monsieur,Galdos Andoni,,Présent,,,169702,2007,1
+26,Monsieur,Garessus Samuel,,Présent,,,180161,2007,1
+27,Monsieur,Garg Nikhil,,Présent,,,172264,2007,1
+28,Monsieur,Gascon Grégory,,Présent,,,160578,2007,1
+29,Monsieur,Gfeller Sebastian,,Présent,,,161357,2007,1
+30,Monsieur,Heath Quentin,,Présent,,,177399,2007,1
+31,Monsieur,Heiniger Nicolas,,Présent,,,166921,2007,1
+32,Monsieur,Hofer Thomas,Foundations of Software,Présent,,,165819,2007,1
+33,Monsieur,Hottelier Thibaud,,Présent,,,166229,2007,1
+34,Monsieur,Ibarguren Ibai,,Présent,,,173902,2007,1
+35,Monsieur,Imperatori Alexandre,,Présent,,,166491,2007,1
+36,Monsieur,Joaquim David,,Présent,,,166124,2007,1
+37,Monsieur,Junod Antoine,,Présent,,,146929,2007,1
+38,Monsieur,Koganei Olivier,,Présent,,,180313,2007,1
+39,Monsieur,Kohler Johann,,Présent,,,160254,2007,1
+40,Monsieur,Koller Yannick,,Présent,,,169734,2007,1
+41,Madame,Krishnan Sukanya,,Présent,,,179800,2007,1
+42,Monsieur,Kwanga Rodrigue,Biocomputing,Présent,,,172611,2007,1
+43,Monsieur,Lavanchy Cédric,,Présent,,,166935,2007,1
+44,Monsieur,Losa Giuliano,,Présent,,,179339,2007,1
+45,Madame,Lotfi Jocelyne,,Présent,,,166029,2007,1
+46,Madame,Marian Ludmila,,Présent,,,179930,2007,1
+47,Monsieur,Marmori Federico,,Présent,,,161794,2007,1
+48,Madame,Meinen Jennifer,,Présent,,,161024,2007,1
+49,Monsieur,Moulin François,,Présent,,,167133,2007,1
+50,Monsieur,Muriel Hugo Marcelo,Internet computing,Présent,,,179878,2007,1
+51,Monsieur,Ngallemo Hever Patrick,,Présent,,,160893,2007,1
+52,Monsieur,Ninkovic Marko,,Présent,,,180269,2007,1
+53,Monsieur,Pakzad Pooya,Internet computing,Présent,,,180160,2007,1
+54,Monsieur,Pilchen Jerome,,Présent,,,177636,2007,1
+55,Monsieur,Plancherel Pascal,,Présent,,,166262,2007,1
+56,Monsieur,Pollet Christophe,,Présent,,,179716,2007,1
+57,Monsieur,Rabie Stéphane,,Présent,,,177393,2007,1
+58,Monsieur,Ragnerstam Erik,,Présent,,,177476,2007,1
+59,Madame,Rochat Aurélia,,Présent,,,166079,2007,1
+60,Monsieur,Roux Alexandre,Foundations of Software,Présent,,,166263,2007,1
+61,Monsieur,Sauthier Ludovic,,Présent,,,161138,2007,1
+62,Monsieur,Schintgen Joël,,Présent,,,160991,2007,1
+63,Monsieur,Signori Jean,,Présent,,,155018,2007,1
+64,Monsieur,Spiess Christophe,,Présent,,,167387,2007,1
+65,Monsieur,Stachowiak Robert,,Présent,,,174036,2007,1
+66,Monsieur,Suter François,,Présent,,,154706,2007,1
+67,Madame,Tomar Anmol,,Présent,,,178057,2007,1
+68,Monsieur,Wei Zhe,,Présent,,,155097,2007,1
+69,Monsieur,Zalakain Ilazki,,Présent,,,169839,2007,1
+70,Monsieur,Zufferey Damien,,Présent,,,166264,2007,1

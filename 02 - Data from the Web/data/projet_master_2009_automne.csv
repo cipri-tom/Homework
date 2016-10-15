@@ -1,4 +1,4 @@
-,Civilité,Nom Prénom,Orientation Bachelor,Orientation Master,Spécialisation,Filière opt.,Mineur,Statut,Type Echange,Ecole Echange,No Sciper,Unnamed: 11
-0,Madame,Aydin Ebru,,,,,,Stage,,,183512,
-1,Monsieur,Bécholey Alexandre,,,,,,Présent,,,160213,
-2,Madame,Kostic Teodora,,,,,,Présent,,,183605,
+,Civilité,Nom Prénom,Statut,No Sciper,year,semester
+0,Madame,Aydin Ebru,Stage,183512,2009,automne
+1,Monsieur,Bécholey Alexandre,Présent,160213,2009,automne
+2,Madame,Kostic Teodora,Présent,183605,2009,automne

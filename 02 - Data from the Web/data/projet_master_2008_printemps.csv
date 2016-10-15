@@ -1,7 +1,7 @@
-,Civilité,Nom Prénom,Orientation Bachelor,Orientation Master,Spécialisation,Filière opt.,Mineur,Statut,Type Echange,Ecole Echange,No Sciper,Unnamed: 11
-0,Monsieur,Billaud Joël,,,,,,Stage,,,172687,
-1,Monsieur,Campora Simone,,,Internet computing,,,Stage,,,180072,
-2,Monsieur,Cassata Alexandre,,,,,,Stage,,,160225,
-3,Monsieur,Hofer Thomas,,,Foundations of Software,,,Congé,,,165819,
-4,Monsieur,Muriel Hugo Marcelo,,,Internet computing,,,Stage,,,179878,
-5,Monsieur,Ragnerstam Erik,,,,,,Stage,,,177476,
+,Civilité,Nom Prénom,Spécialisation,Statut,No Sciper,year,semester
+0,Monsieur,Billaud Joël,,Stage,172687,2008,printemps
+1,Monsieur,Campora Simone,Internet computing,Stage,180072,2008,printemps
+2,Monsieur,Cassata Alexandre,,Stage,160225,2008,printemps
+3,Monsieur,Hofer Thomas,Foundations of Software,Congé,165819,2008,printemps
+4,Monsieur,Muriel Hugo Marcelo,Internet computing,Stage,179878,2008,printemps
+5,Monsieur,Ragnerstam Erik,,Stage,177476,2008,printemps
