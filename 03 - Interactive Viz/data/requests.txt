@@ -1,0 +1,2725 @@
+<?xml version="1.0" encoding="UTF-8"?><results><?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>ZERO_RESULTS</status>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>ZERO_RESULTS</status>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>ZERO_RESULTS</status>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>ZERO_RESULTS</status>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>University of Bern</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Hochschulstrasse 6, 3012 Bern, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.9504896</lat>
+    <lng>7.4381190</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.9503710</lat>
+     <lng>7.4369752</lng>
+    </southwest>
+    <northeast>
+     <lat>46.9508454</lat>
+     <lng>7.4385003</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.6</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAAP-QwS_go-DeUO8G_o88jPceO48WpZnI7vmVpJBNwcYfLpdWf6q6gom2qbHO5miL6tPJocVdYIl7Hw4RdjGFUhB_iwcnYMAUoOoxfbhUYXZ2zIJPF07nmdwuJV_QDO9pfEhCsvEnfz4bA93Xz9TcYdSdGGhQkrwNvrEmtFzHG88IXxKwc9fRjtg</reference>
+  <id>e40d464db0a6300d9256bbb90297e92fafd0acb4</id>
+  <photo>
+   <photo_reference>CoQBdwAAAPEpE15qyDfrPcTsNvECqbfeH5UEvSGEeGGVu7UVKBfiQtepeZHKHATVBXDwY6eqoi8JuUavMeeRZK_JPpI_Njy_yLg_Lu42dJkS4SJbBiyoM_iHFxQ3ttomKvrpxRtj5NT05JWhx58xTyAnhiaPlSuxVU-Xb8gW96AhSi6JEKzHEhBVES9WUkWwc7pk--uCJ2lMGhTvrSaphH3vLVdzcRM9EnBxsV_doQ</photo_reference>
+   <width>1024</width>
+   <height>768</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/101247879953540919465/photos&quot;&gt;AlmostSwiss&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJDWEotJ85jkcRRP-8NWlTN-E</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Berner Fachhochschule BFH, Architektur, Holz und Bau</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Pestalozzistrasse 20, 3401 Burgdorf, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.0574225</lat>
+    <lng>7.6213877</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.0569231</lat>
+     <lng>7.6211946</lng>
+    </southwest>
+    <northeast>
+     <lat>47.0575890</lat>
+     <lng>7.6219671</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAA4gXta09YIxtE4AWuEd97CQ9s90BTIP6fSPfmtzmykPj6v2nNlPBWBQn_3jOieSAGArZzWWLMhNRlLsh9wPzVgF-D_SOqxyFmOmV3DDYI959GoxvSeCUAKr49bchGB6EiEhAR7l01PotLvvxSd-2T0MaPGhQ75CSGX6Lh4ZY2yoNG9SncVO5oZA</reference>
+  <id>a130a34c668ad1446d6e93ea5fcaa169f858fbfd</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBdwAAAH5HWlsQCSUFACy4qc6c86EqtLuwF211HJP4Uswj1w0eMwI-6Tf1OxfrG0wBHakJLZl-EQAq93L8NSHUBx0IgRfV0saNkV6GcFA55fjicxPeCjwCX0Sund7Z7WObtwobb4f4lO3vVkhJ4CjsStcKdGvkf4U8_SKYqXDpBWyP1kXwEhCMwX4O15OHnVI76Jc_E-7kGhQhRXp3HwSZ-ZnfbaPG180D118_XA</photo_reference>
+   <width>1280</width>
+   <height>853</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/105561145766868824931/photos&quot;&gt;Berner Fachhochschule BFH, Architektur, Holz und Bau&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJ6bXhNJYtjkcRJlq1dt7PsFE</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Biotechnologie Institut Thurgau (BITg)</name>
+  <type>clothing_store</type>
+  <type>jewelry_store</type>
+  <type>furniture_store</type>
+  <type>home_goods_store</type>
+  <type>store</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Unterseestrasse 47, 8280 Kreuzlingen, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.6483273</lat>
+    <lng>9.1613030</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.6482784</lat>
+     <lng>9.1612785</lng>
+    </southwest>
+    <northeast>
+     <lat>47.6484741</lat>
+     <lng>9.1613766</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png</icon>
+  <reference>CmRRAAAANZoz5Z2CTvtYee2ZBHKNKcwMOKyBjvysm-xnUpFD78CdzUHeQg8XwQdsHzmpC4-hXNFKGUlAPfRGqX-9HoO1iXzACIIruBNxduqIoxx_zDq6olPkQX4Bnt6koP5Od_jEEhCL_x4Zo3Kq-Y46JOD5EAZ1GhRXj3QomAF-GzID_QHu6dXini1KrQ</reference>
+  <id>d31367348596c478587fb251dc432d9884da7ad1</id>
+  <place_id>ChIJj4vWuNv2mkcRfOGoYejYRVw</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>University of Basel</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Petersplatz 1, 4003 Basel, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.5602535</lat>
+    <lng>7.5826000</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.5576836</lat>
+     <lng>7.5816880</lng>
+    </southwest>
+    <northeast>
+     <lat>47.5611101</lat>
+     <lng>7.5852661</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.4</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAArVMGB7n_LFF4aqQitrjO889LqHGHFrwDWOZ0NsPl47CH94tlcQr6L9V8Oq1kAWaBE89bhZzXZX20DTVtaclWRRQiquStWIlcx5hs0kIGRxcHcvfRMaUEGBnJblMZgzO6EhCMbKxth9gsO0FkOFvlvE4JGhSWE5svHyxYANWaDYSE602VN9amMg</reference>
+  <id>c5d3b3582354281535520c32017454ee18ed3e5c</id>
+  <photo>
+   <photo_reference>CoQBcwAAAD2F47Oa88rFo2-xWdukI_ZTUT2Tu1uTI7Q_Twg5ERe-xxr8Vg36scx809tPH9YCw6HUqs70orMc4wxy3ZTgoELAy0m_Xrj5h0izgQIUmGw3sFl_Ov_EZngUDa_wq3dyzOsGfmNy_iOwcugszwjybVGgw_Gv-pjwmMg1nOlN7qUAEhA622hLu9EiG99UEpg3ejvZGhRTje_fBvAkrVChg75bqDWxJe7OQQ</photo_reference>
+   <width>1632</width>
+   <height>1224</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/117674120228154765674/photos&quot;&gt;Carneiro Manel&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJL83_P6i5kUcRi9jPK04l940</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Centre de Recherche sur l'Environnement Alpin (CREALP)</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Rue de l'Industrie 45, 1950 Sion, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.2285589</lat>
+    <lng>7.3674335</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.2275677</lat>
+     <lng>7.3671373</lng>
+    </southwest>
+    <northeast>
+     <lat>46.2288893</lat>
+     <lng>7.3683220</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAABzAxl_VJwk_jIItGrA4SXKqYMbdtIFRcpstTCUgEZ5Dqu_9GWzg8x-OAjH3i6BFiPe5_y5EwJRqDBsqEZ9ZqDsgXsFKX47TV6JgoCmLLmtIhQE6raZy6Fd0BljWJfnU6EhBCUNw57FlSukMN21hX81tDGhSz4rweHylF57k3HALo0SkrAkZMLg</reference>
+  <id>f67d1d8a59f8f881c7891546ae05a7d52403be22</id>
+  <place_id>ChIJ6croVybcjkcRKj6rSq6f50o</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>ZERO_RESULTS</status>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Eawag</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Überlandstrasse 133, 8600 Dübendorf, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.4037666</lat>
+    <lng>8.6095476</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.4036243</lat>
+     <lng>8.6094239</lng>
+    </southwest>
+    <northeast>
+     <lat>47.4038140</lat>
+     <lng>8.6099187</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAAqsno8Sa0XYjfBrefsYwQ6XSx-gXJOyXthx68nTPNsDo96Z-dY1SpfPOxhBZ8WK4mucqrVSstvDYKXM_WyO3ty3rmoo2PNqykgVmiRRunoQCXvyAV1biYxb6mvqjeJTCGEhD32qJUeL9ZhSR0Lqv2L7FUGhSjWqbX49ZZ8aPz2BvxlVU5dgek2g</reference>
+  <id>4a898a6632e8ffd88eb77289057e9707241b63c1</id>
+  <photo>
+   <photo_reference>CoQBcwAAAP6q1oh-HaVw0j3m_nYiWOCQXKfZWo_lBqXrErmqbACOmyNkzE4STlbw3mio-dQwZXsgwNAzEmjIj87a_e7T5E_YL-onQr1v6AHNkh5e81pGwbunSrbmRt40H3l_GfhrWpsbLx10cMA5QMPI0GB-24M0ZkI5yfohFaesffu4GV-kEhCE4onrn7c5iHT9CXC3KVvuGhQt0y43PngLBh3Zfe8JHTX3S4AMag</photo_reference>
+   <width>3600</width>
+   <height>2400</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/100950679946704667515/photos&quot;&gt;Anke Poiger&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJr-jr3qehmkcRMfRU__G-l2A</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Eidgenössisches Hochschulinstitut für Berufsbildung EHB</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Kirchlindachstrasse 79, 3052 Zollikofen, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.0015060</lat>
+    <lng>7.4506930</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.0010738</lat>
+     <lng>7.4505410</lng>
+    </southwest>
+    <northeast>
+     <lat>47.0028024</lat>
+     <lng>7.4511488</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAAdZA08PfL3fmE8ALIQ2y6LLADJrjXaSFYF7NodbY5r1J0rRk27RNJACocFXftDRhy9Is60SbVkJL4hXjkzjdtAo7GQ1Jv7Gdw4ydVZo5lM2l98bInnNu4cWrZvdAlbJxiEhBXqotqqddxXDWZHXQCs0wnGhRL5SvmZvfSx51xacWhuB66XpG6pw</reference>
+  <id>21aff99705753da8bc2d7882f861e3eee4097a13</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBdwAAAM1KAOdT9-Ud3qOuJQ1kHzo_V29jxpFAMTKbQWVRSTClcAKqS5sBD_mjfAakcQM0At-lZ5RbPAMUp-nNlJTUfOGZmcRBL6HQPoAwi2RHNLDDgaf9VBliLBkUA0tIKlWM-DQIVU4FvUzS2sNl-a0BAa8ggT9mwtlpbb95fUuzvDvQEhC_2synmBfrSoBD6kNNCzZKGhQvjM-Mf2Nu7J6Cx0L878Hboa5FBQ</photo_reference>
+   <width>1248</width>
+   <height>832</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/112212445904206729476/photos&quot;&gt;Eidgenössisches Hochschulinstitut für Berufsbildung EHB&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJf7RcrFw6jkcRJFfAt3K7mns</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Empa</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Überlandstrasse 129, 8600 Dübendorf, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.4022054</lat>
+    <lng>8.6122299</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.4019795</lat>
+     <lng>8.6110646</lng>
+    </southwest>
+    <northeast>
+     <lat>47.4022807</lat>
+     <lng>8.6126183</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.4</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAAE1Spz2KzT1dT1BXPPRJT1OiYqrW7UmCDrf36lDMEZidTY5gKrfuLet2xwoOUHHdk097WqBvayGxrwfOMRm7Z-XmDigBNuf7BQG2_KIbSkK0YSymRSZxlRnIVU2Qx--0oEhDOWCOR_akTH_BBEaU_lO_BGhTrrZYRJE8Iow0OK89E7ya5nCqWWA</reference>
+  <id>9460d947cce106bfae0ad2b114c70ea5740fbf5e</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBcwAAAMfW2UqbgxQE9G5lH-aKfqcbW5yHD9ZNGBlWQPnIIBq3ONugpwekUrpFCbndu8EYlABcHWqYh2dcQTbwbj0k9FtGmKrReAHSMDNMJEKO9xixZq_8X_IIgNpJQusOjmfy0w5tEGyKkq2EEK_4wFsnwRH6WgzzCfUw7223EX02Y3rjEhCRmVc0bAFj3f25e8sAl-K0GhTlGRPQpG5ydp3RsOUMKZ427lBtJw</photo_reference>
+   <width>450</width>
+   <height>450</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/106094778338833470763/photos&quot;&gt;Empa&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJsxOziaihmkcRJ_Rm4i2SByk</place_id>
+ </result>
+ <result>
+  <name>Empa - Materials Science &amp; Technology</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Lerchenfeldstrasse 5, 9014 St. Gallen, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.4126800</lat>
+    <lng>9.3410053</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.4123619</lat>
+     <lng>9.3398219</lng>
+    </southwest>
+    <northeast>
+     <lat>47.4136343</lat>
+     <lng>9.3413997</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAAH09HLKOJo-AKLS7_mGP2-J3N1MIQGQpxBRS3tjWlVThQSSq1GCYZbiTunV-PjfWK52Fkh3mC62-0py0fodZ-HBlYk3pqNUFC8KAN9xLs3ixgIWcJ1AsGhrHsMHO6yOsaEhCnUMst9E7YROtq0TNZc_ZUGhRmCGRapz08695R7ZW2P3qAnkb-Pw</reference>
+  <id>cc10c3b4edd14a8776fdd808ba854ac6e67dd7da</id>
+  <place_id>ChIJC6ue4tcfm0cRQlzh4BMfzyU</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Ente Ospedaliero Cantonale</name>
+  <type>hospital</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Viale Officina 3, Bellinzona, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.1968913</lat>
+    <lng>9.0266365</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.1967187</lat>
+     <lng>9.0265467</lng>
+    </southwest>
+    <northeast>
+     <lat>46.1969488</lat>
+     <lng>9.0269059</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png</icon>
+  <reference>CmRSAAAA9YNBwKR2Uck_-6OwSBFZEsX4YSXY7JHgd53yCkTWA-5o_yAQCNUQ8pa4n0FzZQnwaD6drR8kyuoABaWhMNemqTUUcalyMdwlzDwQtyT891O5ont1RlPfCJ9c_TscMvPPEhCJ_kZoXZUgp8H9IK1SbKsqGhRodtKUx0KIo59982w9KKBxZKtBKg</reference>
+  <id>a9a3d6bfc2b8c10377892588918227aa403b7fd9</id>
+  <photo>
+   <photo_reference>CoQBdwAAAIM714K-GAPCefy7eacs4eoXOZZ73hAThFR_FPLU215Z_I_1NmZ0apwUhayjaTs0Wnmyu3E60l64cpJa35NpBCkoAFE_INsijJkCdmfHrUJ4DIvr61CJUCOoyBu5_EbReeksgXKCe9byX9LURoCDzlvozf7W6OPgzr_L_uiiYm69EhDASGZsrhcj-fBw7E3JsOjNGhRqw9IYBhZ5rwe3XRnmExpaEtzP9Q</photo_reference>
+   <width>3200</width>
+   <height>2106</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/113223259282903616271/photos&quot;&gt;Daniel Vasile Tishchenko&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJe7akFTNKhEcRKvjBP5odqdA</place_id>
+ </result>
+ <result>
+  <name>Ospedale Regionale di Locarno La Carità</name>
+  <type>hospital</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Via Ospedale, 1, 6600 Locarno, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.1687610</lat>
+    <lng>8.7913086</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.1686143</lat>
+     <lng>8.7911724</lng>
+    </southwest>
+    <northeast>
+     <lat>46.1692011</lat>
+     <lng>8.7917172</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.3</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png</icon>
+  <reference>CmRSAAAATm-TdVVzpAU4KWkcRuVNHJgNIzp9bf8s21Kfl2714AJr2F4nu58kiBDzUKu_mp6ugGLcMnPHds6WG5TFYWktUDFWStto6bJ-TuZRiL69LI8oFRsAKpT1fqmuIs7sGNEBEhDq-n9MpyXQtiWg5wgvDmobGhRCAenCPgygcJgSl1yuAc3Co7HTow</reference>
+  <id>aeb375d4a122c96329b6730fd7ef945519e5c4ee</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJMTtSAi7IhUcRkP3tqw1thbg</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Swiss Federal Institute of Technology Lausanne</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Route Cantonale, 1015 Lausanne, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.5190557</lat>
+    <lng>6.5667576</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.5111760</lat>
+     <lng>6.5580529</lng>
+    </southwest>
+    <northeast>
+     <lat>46.5314022</lat>
+     <lng>6.5781663</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.7</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAAgOLf-7F1zWv_vQ4KrNpirUlpHpXbmdF7ntrB7_J7Qd9r_Nsxye-oymtS6szH0xEsXiukNccKrosju-BoG97UMGGxfMkfVF9DtthaWzKmaDYaD4SisxiNQWVw8Bvch1bkEhAeqDshaH-uObQw6I2BmNBtGhSGNydD193qT9huMsPFzHuzNAue-A</reference>
+  <id>2196b8e3286e20103001090b9c2a95a40c14679a</id>
+  <photo>
+   <photo_reference>CoQBdwAAAGtCxAGFaiYKKlM_U_FIEPKrBfYZJpBsMp5zDgLTDh_Ug6GpUK-V0wDXF733-Hsug23n8lSlTp7UBCqnXPe_qKYYRWv_Qg-6piUK3uaHo--B3FM5X1j2mXPqz_6F8zL2sInFzkykW0VB3ztXfJw1BKYXMj49PX-Ufl1QwHko23a2EhD2cZxnlYRM2qKwXsKr1BkcGhS-IzDe335A7RMJTi8TXg4jk_B90g</photo_reference>
+   <width>5984</width>
+   <height>3366</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/106017492741965351692/photos&quot;&gt;JM THOMAS&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJP6Ls3f0wjEcRcrKTf6s0zLs</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>ETH Zürich</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Rämistrasse 101, 8092 Zürich, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.3763130</lat>
+    <lng>8.5476699</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.3744943</lat>
+     <lng>8.5421617</lng>
+    </southwest>
+    <northeast>
+     <lat>47.3817691</lat>
+     <lng>8.5501401</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.8</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAAddZ4T9g_uQcntDNGPP1nWk0ABlGRY9ye2MCR7dePWiArqF3VBnYv9Wn-c2FCMAjc5lF2vEPNCn9Tn72_a-2idk_hlokMSYeFcB4PhKa3JqeZWy84YrqoP6L8iX3hw7okEhBmw2soE3z1sWRIgSOjf4bYGhRDQ4UMcyiWf0IwFOn0DVDBbDGYbg</reference>
+  <id>a264f646db0b59c630e91af59ea42bc1eb1292f7</id>
+  <photo>
+   <photo_reference>CoQBdwAAAHC9rsHTIszJyVhv19ktALYxY9LsAsr6lY3pMo9TsuD4fp315MfuHmuLQA_J373dgwUbxJjFG66PsORQ4YkaakAkpylMmDmFpG5EH8gNkrZyzPC71RIUR6Jo6CHEBWGeTrKKCsKSQlyj8c5_0xez-0fqozgep7vXdEwa2P-5kHcYEhDkthQj8SrYb6mcmnvVh9ubGhQ9DmcxPc035gUnnjp4mdJEPNr8Kg</photo_reference>
+   <width>960</width>
+   <height>720</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/107778637273482441058/photos&quot;&gt;Anirudh Ramesh&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJ94xuUaagmkcRB3Y3tij0YUs</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Fernfachhochschule Schweiz (FFHS)</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Überlandstrasse 12, 3900 Brig, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.3179230</lat>
+    <lng>7.9831770</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAAswPptufec98JYWMz8AiVSwwyiDBCeOCdtSnox8pMCnZ0q4ewIboBhJ2UoW_472XkwZ9oaSClCXl-vfBNZ4BZMxxD05HzpFi2BXyAgjxwm5KehFVevBtEnxxAtu_oOMf8EhC8tjsbu1NAh8XxsVIIs909GhTJNaoX0Gp0Oqe0QeHwDcET2Nb6Vw</reference>
+  <id>3b6f47ece964500562abac2785c724d6ee5bf5b1</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBdwAAAMmk9_wnMEWthJ0A4uNovXyu5nEATworrkkw7n0trwUwuTk0_V8bKQwvuECznCK-C6bBQpB3WcZ2VeRvFLtHtL7dLpj2DPwe8VAG0gUZCuQvtOOufeA3EGsL1IATePB50PojxTLTJL1dauUXrYvcokQIWR1vj-zKCd6JCDYJM9onEhDPfbD1X6daevYTBiHTIcXiGhT5_slz_ThNKsGqryEE0HeFQK-46A</photo_reference>
+   <width>1168</width>
+   <height>1165</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/102730127200208593336/photos&quot;&gt;Fernfachhochschule Schweiz (FFHS)&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJay-0u81uj0cRZ-EgOBlkHBs</place_id>
+ </result>
+ <result>
+  <name>Fernfachhochschule Schweiz (FFHS)</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Althardstrasse 60, 8105 Regensdorf, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.4380106</lat>
+    <lng>8.4711380</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.4376221</lat>
+     <lng>8.4705588</lng>
+    </southwest>
+    <northeast>
+     <lat>47.4381401</lat>
+     <lng>8.4713310</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAAXmPBLceQL-LwDZa06lQsEZRYJX0FtP3E-KTWnDjoRYKK_XBqTbxpvZkYvYtJWxJeFf3_6AuywyI_0-QLJ_cVn9FGjothcge3yoihR5a1rLcvzXvQqrAnfKoj_ZqFVNaZEhBGdwT2O5hPZL8VAZhHAI7PGhS8tSeEggg41-8C_5q1RsNb5_1rCQ</reference>
+  <id>43b5e641432abcf495e71ed11e374c4b1be6adaf</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBcwAAAKm62eine8nvv1pc6f-Y81ratlWNV8UNcWMiOGsqFIU3BykvNno77H5h14645r-EjiLDxc7V-8KD8lhfAPmPNIkkpVmvopQEKYaaU7_gn2gtRd-y1Pe3w8KfNmcusrfr_a7UW4WAVZHk_ph7Sosg4XotGBvEQH_J8_iZ9X8Z135REhB8NRfPJkx3p9MHwlj0esyEGhQLVNAcR_-PQikDFuTOvuw7vQoaSg</photo_reference>
+   <width>1193</width>
+   <height>1194</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/104518893852460311772/photos&quot;&gt;Fernfachhochschule Schweiz (FFHS)&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJ1wmq0VsLkEcRxR74-OdgJak</place_id>
+ </result>
+ <result>
+  <name>Fernfachhochschule Schweiz (FFHS)</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Beaulieustrasse 55, 3012 Bern, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.9596660</lat>
+    <lng>7.4343830</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.9595178</lat>
+     <lng>7.4338531</lng>
+    </southwest>
+    <northeast>
+     <lat>46.9601104</lat>
+     <lng>7.4345596</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAANcmT8IGyi5SuF-eny00MjV7hid4im9wEe6Y-6EdNOshWsQeA4k-VAMKjAk3n7BQFgfxr5YWOIj-fLNxp9bDZuH3e3UF1A-194y6I6Q8OkVaOPVjqe-rBSv5qOLi8H_HaEhA6Bot5krFUg3mS776BCt__GhQi_NY4EXZ4X7hgIdOep9iYBwQChA</reference>
+  <id>6c8fd432506c1c9bd8a2d79e2b0b47ed2d3c3222</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBdwAAAFvUmidNi281GJN1espvJvJ83JmR2iR11m5tI3mHBNSMzrCiR3udnC8NHLAAGSgNbSk7zEr1l3FM2Nah-YR5Xt0lbk9m42HDi6UQ86VCFMELxe5H_YB-vV7UMnd9FMdkhyHZLmf8vUdTlkxutgBuSE4APi8Wf_zrGvQ28KDoRD9aEhCmSozEOlvTa2NErcctz6R1GhTz7-bai6da_g4-rBY6YeDOicMggQ</photo_reference>
+   <width>1368</width>
+   <height>1366</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/107084600913210285290/photos&quot;&gt;Fernfachhochschule Schweiz (FFHS)&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJMfpwl5A5jkcRX9hd6FA9l3o</place_id>
+ </result>
+ <result>
+  <name>Fernfachhochschule Schweiz (FFHS)</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Elisabethenanlage 9, 4051 Basel, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.5491590</lat>
+    <lng>7.5892060</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.5491154</lat>
+     <lng>7.5891902</lng>
+    </southwest>
+    <northeast>
+     <lat>47.5492898</lat>
+     <lng>7.5892535</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAAZ2mQADV60bwfiyWSrO8z30UKyIEJYtFC9KxDu1_QWMRJVnJsK3lJT53dclVCfx6Dz9WSJ8w1FqilTYbiDf36FOgi5x-uod2HAHR_94omqE3iBKjyfBQc6kQD8i3mz1g2EhCaYFrwVJUiO_fHyll-9bVDGhTit29fpygg_cDxZy52q4TQPEm3tw</reference>
+  <id>4c4ac2c50bb4c2e55794f4083deeb8c6fdd2c4e4</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBdwAAAAh8UskuJ6nQ-y516ur8kDDZ35h7yoc4IJ-YpmexJEEqs98b5-hpijC6ZY7Q0fkr5xKbZODfAOxQMjhc5JO9uOI3By_I9eM5DoAzAJ7UYLP2jcnMxRNsg5JcYZE48MadFwFg261jV_2KyQ_CUUxm4nqOe2b-sp5Mh9wLZlVbbW4sEhCFbXQ0TjGZII2hUr9T6xTTGhS0fvAm7XPwRuIQ6KnyfCegQ8Il9g</photo_reference>
+   <width>1196</width>
+   <height>1197</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/103999578297943550722/photos&quot;&gt;Fernfachhochschule Schweiz (FFHS)&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJ2yisd1K4kUcR2QRuFmq0Eus</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Kalaidos Fachhochschule Schweiz</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Jungholzstrasse 43, 8050 Zürich, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.4154540</lat>
+    <lng>8.5438250</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.4154468</lat>
+     <lng>8.5436238</lng>
+    </southwest>
+    <northeast>
+     <lat>47.4154756</lat>
+     <lng>8.5444286</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAAYEZvZz2w9EY50zH-TetYZnknQtpgjH9YRVZ_Ri2wexk1_Ov52VGZA6JsaOMwjdQ-hcoYkn9YCMAOyfCyhozW_LFPRd7BBgiZX6T3o_C9DYaXOzUbqzgSA4-oxaXKBAXWEhCnixQPKzyliKJRyTrrQOCVGhR3OokiY9UeRGeL_23kFxn7za8-GQ</reference>
+  <id>ae3b108ea8deb9f2dea12df7b9d7b00a9e407bbb</id>
+  <place_id>ChIJ9wao_skLkEcRo4WeybwJAx8</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Fachhochschule Nordwestschweiz</name>
+  <type>university</type>
+  <type>school</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Von Rollstrasse 10, 4600 Olten, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.3480153</lat>
+    <lng>7.9078154</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.3476341</lat>
+     <lng>7.9077180</lng>
+    </southwest>
+    <northeast>
+     <lat>47.3491590</lat>
+     <lng>7.9081076</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.4</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAAL_giQnhhjYCoNndXl7AXIgJx7Po3DU2zKieTzf5wS__z0JFMwjeNZSzNvSQndAyDMeMZC8yv5wrpXltKG3-kkrpf6bK-SsVI-UQZk-C80FTaYOgO57iBV612CI-aZEnUEhDJ-QC6-pM0S8UCuc0uhbQJGhSoHUdv5nKlzW3dIMqzBkQfq7J_VQ</reference>
+  <id>f33f3f662433e7e362d8ca55ccd2473f50070aed</id>
+  <photo>
+   <photo_reference>CoQBcwAAABo4gUeMO0xoUBkMOn8I2zUqTkmwIHDp0YSetz0Eqz36iD4IzLmwE4nYJlcL3QEJO0lJt9Av041cyiwMd5WR9H1KAKDGrsEM_-OCd_q6_moatDYJeFc3bogI--zFt7ZYHqsnnZukdvasoaSyKKeRfBHQ8IvECa7kHG2OfTeos_tGEhA7y61gHbZ43K9OWaKQf0uVGhSg5u0ghZYoXoL-vU64NLDSETCHhQ</photo_reference>
+   <width>5434</width>
+   <height>3622</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/100488464602365329034/photos&quot;&gt;Luca Gaffuri&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJt9J5wzMwkEcRgWnc5loV14I</place_id>
+ </result>
+ <result>
+  <name>Fachhochschule Nordwestschweiz Pädagogische Hochschule Bibliothek</name>
+  <type>library</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Benzburweg 30, 4410 Liestal, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.4753062</lat>
+    <lng>7.7404422</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.4750959</lat>
+     <lng>7.7403408</lng>
+    </southwest>
+    <northeast>
+     <lat>47.4759371</lat>
+     <lng>7.7404760</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png</icon>
+  <reference>CmRRAAAABb9atSDasqJc1PkKNc-RoJQTZD_go9q72On_7BL5-yKM1Tg9I1v-k0wSTLFilNQ27_5ANVRFHSg6Ly7-99LCrhU94GW2V6e2X-Vmhlt9AIVSXugRL24ltr66pbp5RrSDEhC2fH7l_u9JtgLxmzDOEyAtGhQc3WU2v3vcqlbIMbJGZeT4ZUB_jQ</reference>
+  <id>5c8b09d6488ee60eedf7b26fc3e9f5122e9ee0ea</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJg0pIAFvKkUcR6FdK1YcZdTw</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>FHO Fachhochschule Ostschweiz</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>9000 St Gallen, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.4208058</lat>
+    <lng>9.3635750</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAA6uoZ4rcUlzhMuArWyC2bFsGgWjErx14cskdKTVH91G8A95pi4KALD1txitpuRYYQZ6t0a4HYgoUw-au_L9boA-S6_ySSp4Oh-ubqThMgiVGOMzwN3BKmElTiOng401NfEhA3vPaWCrNTFT-2ouJA4c-FGhRQOpWZv2BinV6tTi--2z2BCoLNfQ</reference>
+  <id>e8baef719544ed6c0130b957a6a542e12f503a77</id>
+  <place_id>ChIJ_TCgzTQem0cR46YGJGOqe8g</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Forschungsinstitut für biologischen Landbau FiBL</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Kasseler Str., 60486 Frankfurt am Main, Germany</formatted_address>
+  <geometry>
+   <location>
+    <lat>50.1206200</lat>
+    <lng>8.6381500</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>50.1202776</lat>
+     <lng>8.6376434</lng>
+    </southwest>
+    <northeast>
+     <lat>50.1207341</lat>
+     <lng>8.6383189</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAAwO1pcc8x-nbYdToiB_slm88rsR9Zm-0fS1wkB-8PG1u0xRjxChNGghHBCz8HCmMqcYhE6npUnExXwjpJZbmC0n4vkLIKYkGt9Sif72-Jbdb5kiM8sTOmx9RBLeaccvNwEhAS3AGj0P483b52KnOUU7h8GhSvKWiOfmPgXer__A5DrW7LqbuyLA</reference>
+  <id>33a9d5aec3dc63358126aad172fb091e386ec8f2</id>
+  <place_id>ChIJbYHlnWgJvUcRrFPg6Gkzo8s</place_id>
+ </result>
+ <result>
+  <name>FiBL - Forschungsinstitut für biologischen Landbau</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Ackerstrasse 113, 5070 Frick, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.5169390</lat>
+    <lng>8.0250830</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.5168367</lat>
+     <lng>8.0246313</lng>
+    </southwest>
+    <northeast>
+     <lat>47.5172460</lat>
+     <lng>8.0252336</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAA74csSff6ohHZyTUbqnZWFZeD2g2duq9TUleyAV6v2EohUFg1A42wlcam1Fo5OPiNY4JybqzWl6J_a9eB9LIrvEuelvh5hk1vJ-GKWiMMQ8NRp_kwc489FoKs0nenH6xsEhCuRAlVHeRifiY04YBYZF-nGhRKxdx-J8fwoeeI8tv3GYmMuAzYVw</reference>
+  <id>a28321e7dc47e4931324776894026623566eada7</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBcwAAAAXgR_edkwMRFASi0MgTbs5rY7VMWlmBF_jsy-e7hFJ0Wfsj78Cb-2xk2gPF0YrDqER4B2uAS6O7uczTuamk2C9_feskJhb09893si1-23hdFfZifnGkSsww_hziT1_oUr1yWU9NY7lU5WhxOJgRxnrk3HmFDVCbfCvI_GJ9yrVOEhDSXb1X7ejsSTgXy7n1jGPuGhTBoKvNPxiLYm0GEOHI8QsMqPw_vA</photo_reference>
+   <width>1364</width>
+   <height>1362</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/111937342551007470308/photos&quot;&gt;FiBL - Forschungsinstitut für biologischen Landbau&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJV2J9KrZHkEcRH1IKjqoKSH4</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>ZERO_RESULTS</status>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Friedrich Miescher Institute for Biomedical Research (FMI)</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Maulbeerstrasse 66, 4058 Basel, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.5677416</lat>
+    <lng>7.6035599</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.5677003</lat>
+     <lng>7.6034808</lng>
+    </southwest>
+    <northeast>
+     <lat>47.5678655</lat>
+     <lng>7.6035862</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAAifwQaHtgjU9jAkIIuZ1A6pQkvrlEK2hmLOu7QNHHIZAhoyh0pFA09jLVvDHdaOn37K_UXc1m5ZKuzxjTOdkSK3bVfGFoOglQqsQckpXnBCRc3_rJdefQTLPo01Hk178_EhBxhQTwqjE4xODFD8AlNqGSGhTFb4-2h9vJL3xcpTnbdJpzyAXZ7g</reference>
+  <id>37d4e1ecad53c7d856d41173ae76d5b5bf7e5f73</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJEzGiHr-5kUcR2Xu4QiOZLeY</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>ZERO_RESULTS</status>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>ZERO_RESULTS</status>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>University of Fribourg</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Avenue de l'Europe 20, 1700 Fribourg, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.8063570</lat>
+    <lng>7.1520060</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.8059924</lat>
+     <lng>7.1515247</lng>
+    </southwest>
+    <northeast>
+     <lat>46.8074508</lat>
+     <lng>7.1534498</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.3</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAAnPWKFnf8iqXzBCEJmvGcVKx5uQSPItg9qbN7eahxO7JTAUPopLnjOziS6daC4k12SH_bYaHgX7Jw3pBYMHGyEPqN9aRo4Z7kzw3N12-Kr6C6mR8RuMjFQt3LeloGhkYDEhAU25vHLdowthOioJ29qVgsGhQPfgzOOFbg6NQ69nCzVMQNGRbQZw</reference>
+  <id>3fa27d3dda007f2a2e6b3068eec7b425d27fbc26</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBdwAAAB2QF0hYFIYcI8v4mPeRaSJrdm0vYLI7AglmtVMbsX1qh7a6e5EQ4vG81FV2rpouLQ1CJEQB0Uc-07WyZH-XTqm1WCkDwmxvsoSftY-_9ahOpefq-PjpxHI7d_fkQ18r6vLeWkin5QAKoAujlXQeEoaGjtAu7AOhwYhjzVvAMr8AEhAMdF28lJ1eH7UKUGjpWan1GhTdlleJTqqlZOwnz7_-HeQXma0MzA</photo_reference>
+   <width>1620</width>
+   <height>1080</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/116838088273996557962/photos&quot;&gt;Federico Respini&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJVbSPbjJpjkcRGdtTo-6IwUw</place_id>
+ </result>
+ <result>
+  <name>Agef</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Avenue de l'Europe 20, 1700 Fribourg, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.8061087</lat>
+    <lng>7.1525933</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.8060300</lat>
+     <lng>7.1505583</lng>
+    </southwest>
+    <northeast>
+     <lat>46.8061350</lat>
+     <lng>7.1532716</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAA1SpH8N-_EO9DvtWa7Wg7EHQR1E2X3V9ruJDyanqeG8cd7yo887pBe3MGABmEbc74-a5YhDsY6Qz0XRMhmPct6QcvcaNLcexhF_JNEF39rMhi7sGEKx4mknqk12ILKnvZEhAgr5wtcfGgVmau33T28j0uGhStyWieFhVe1Go6-Qd-ytLzx-M-qQ</reference>
+  <id>4928d57b7879a2008f5d5856647cf7b733da7fb3</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJja1KfjJpjkcRifJo3JRtHeE</place_id>
+ </result>
+ <result>
+  <name>Faculté des Lettres</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Avenue de l'Europe 20, 1700 Fribourg, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.8064073</lat>
+    <lng>7.1518946</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.8063353</lat>
+     <lng>7.1516115</lng>
+    </southwest>
+    <northeast>
+     <lat>46.8066232</lat>
+     <lng>7.1519890</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAAubrJFmMecJtZw1Wxtl_XZtRP55hu_yN1V3jA5B6IRCI3bw3PFcYoQ5myW-y4P2yK_VAZ_oBbT7Hik2Fi2rkgNTpFie4CyZ2wfts0embYNt5uwildFXH-90yL0HFkB2hNEhDkGZDwG0_vUcClYTyDsG0SGhS7pEvrUVjISxcXFbQiBXvMnZCCGQ</reference>
+  <id>bd75ac4c8e21288843a0c9dc2b0d8d9289da4b29</id>
+  <place_id>ChIJYzpHezJpjkcR7vfVnCOtx_s</place_id>
+ </result>
+ <result>
+  <name>Faculté des sciences</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Chemin du Musée 8, 1700 Fribourg, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.7937797</lat>
+    <lng>7.1561146</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.7932818</lat>
+     <lng>7.1557303</lng>
+    </southwest>
+    <northeast>
+     <lat>46.7939456</lat>
+     <lng>7.1572675</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAA_AiSfnV5D6vIP_tPXZQMj3kw73Vz4dEvwaq5oN-4L0W8Tdgi9E1IkK9z967-Dz70neX2iVFiNEmrdTDBc77ap3NqKtqzPGDIGckbmchqowYl8Fpb_OnQMz1Arr2kkTCkEhCm38zdpeIYJL7IXbMxhPPCGhRZ1JYHSnyENtnKVI_NA91ecdtFug</reference>
+  <id>9fbeb78ec9a075ddf3cfbc0656598297b3dd9fd6</id>
+  <place_id>ChIJWyFxm9dojkcRPgWDQzmp4PU</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Fondazione DiReCom c/o Facoltà di Teologia di Lugano</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Via Giuseppe Buffi 13, 6900 Lugano, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.0106931</lat>
+    <lng>8.9579396</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.0101874</lat>
+     <lng>8.9578796</lng>
+    </southwest>
+    <northeast>
+     <lat>46.0108616</lat>
+     <lng>8.9581198</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAA0kTu3euh4Xrjwjbe4VKLF0YURsZPyz0LAGVYr--tCWqyWJMMrhW9-ubij5IOnphBrZre8RW1z9xBrkC97G00UomCHF1wPy9fTKMfYJp9IvH9ofnRa0Tx5HWo7pn_A3oiEhBMO7ai4Jb0XY-GWJZOz-lfGhT8wTrnETKE4jcwhExJk1GFFkHVcA</reference>
+  <id>bc6dfef0bde4c9b50b5988a519df0013721ac4ee</id>
+  <place_id>ChIJp_o0moothEcRwaukV499AiQ</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Franklin University Switzerland</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Via Ponte Tresa 29, 6924 Sorengo, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>45.9975880</lat>
+    <lng>8.9388190</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>45.9975533</lat>
+     <lng>8.9383746</lng>
+    </southwest>
+    <northeast>
+     <lat>45.9976922</lat>
+     <lng>8.9389671</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAAQD6pQ6IpxF0VPajuTUirZ1RZ1InAcqU_q-3hfud-KIdhLHNPT4VFcOuAB7uhYIPsq9x19RM4t9pZKR0rlHSPF7H4tzmpxm2ia8mWDGcLOGVamC64kO-jtNMdby-NI4nNEhCawc_PdONIVdxFwwy49YCYGhTKGifO5e4_bh08COYp9s4ZNIIOfA</reference>
+  <id>91721675dff135c76299bccec92c457ede321a8e</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBcwAAAGtCx1emq9UKIW6uBb_OusbnHx7vxInYhJQ7BV8AIDO23AvqCkHINi0o47i0-tiVImyFKgFsNTLVJgl2bLCdlfE5KFE047i9xVkxlJaQOtx3T-Lt7uJuB-26k7PTFEqj8w9X-6u52eCwaDs1-2-0L1ukWrT5K3nPGK5k2JCcme4mEhAfnScCsUzKyZ_keINxwUDfGhSvDReuwdguT-ZPAPLWDig3bsJ4KQ</photo_reference>
+   <width>3264</width>
+   <height>2448</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/112294644087860732027/photos&quot;&gt;Hani El Azem&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJB3auT5kthEcRN8kg8HtY6Hs</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>University of Geneva</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Geneva, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.1994440</lat>
+    <lng>6.1451157</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.1974758</lat>
+     <lng>6.1420042</lng>
+    </southwest>
+    <northeast>
+     <lat>46.2004579</lat>
+     <lng>6.1461529</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.3</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAAiDrtEjzL51mzUthscoCoXMWVgQ7vrOFGOjPXdiA2trFZa5NK7TZWZ21hGjE86FiKzUZYoA-JsLkfGdYLCYuXMiFFn7OJd0fIYJQjZvViYL1k4jzuVwNAcEzB66ashlEsEhAp8PPOGSGsEgDC9yVnFvaKGhQgfFpnEB55laV7SWMUNyf7ghZRYQ</reference>
+  <id>a9ef02f59afc7d055563beca4d1f509efa98cde8</id>
+  <photo>
+   <photo_reference>CoQBcwAAAFNvqyw5o9hdcAlcGzz423rnT6a3JhdE6LCmfG3gUESU2MwwBNlJ3iLR_5AoBWWh3_Xr6rQ2dhBYDnYS7RQh4u03yHTqIALjwyBKGo9z-At8n4U-CENctXqEbQrPYI78wowVER13yo4Zugv-D-7xjFU6KpktmFPGNi0_5ow-cyuOEhD3J8pCQXxJvSVPi6vX2FZFGhSVaSJ-tmXAgdCprlJamGRSA1SOkw</photo_reference>
+   <width>3840</width>
+   <height>2160</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/107958259135711194844/photos&quot;&gt;Balázs Fodor&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJ3yKsR1FkjEcRIpuYmmtbIq0</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Haute École Pédagogique BEJUNE</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Route de Moutier 14, 2800 Delémont, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.3625572</lat>
+    <lng>7.3520779</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAAQvV1_5TzJykzVG0mHaP_66fENOoKvJD_Mn56fOsWRb7lWykOLlStrndatRPNgShHdnv_fIpakuADSYrxM7YLSUlFufI_qugzlFQbBvjdIMPRfg_2pAUCGBFMN84Czp6-EhAYj9-3rgaNSfQrPAi_WY2tGhTI_qTZuZBmW-UA1BceWZsxDGrdug</reference>
+  <id>db6b3a4168f775ccb8ef7a1d4ee75c9f670a2afc</id>
+  <place_id>ChIJ13SMkQ33kUcR2u-UfO2hDFQ</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Pädagogische Hochschule (PH)</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Rue de Morat 36, 1700 Fribourg, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.8111769</lat>
+    <lng>7.1592084</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.8108218</lat>
+     <lng>7.1571195</lng>
+    </southwest>
+    <northeast>
+     <lat>46.8112953</lat>
+     <lng>7.1599047</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAAgkW8HkMhvCMybEusK7xeJ_iGgUzmEzxtHUD14jLfIC9raHfDsD4P2876eVFIQSlAopRjQm6OmFYBAk77s28Uqj2vfMjFcTOU6GZrJfB5sJFZCdWtWGahU487p4OsYKtEEhDVKPOBz-0Jd-8J1HyzIGi7GhQH5hVTu1x9oJXq7jguL-IUlVMmmQ</reference>
+  <id>d9a303c1e6889b4649ec8426ca5e754aec841689</id>
+  <place_id>ChIJsW6qPDdpjkcRPLwOH0-h2g4</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Haute école pédagogique du canton de Vaud</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>1014, Avenue de Cour 33, 1007 Lausanne, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.5128571</lat>
+    <lng>6.6215937</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.5127333</lat>
+     <lng>6.6214588</lng>
+    </southwest>
+    <northeast>
+     <lat>46.5132283</lat>
+     <lng>6.6219984</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAA5Ih0T7j6E3m7qldxApSf55RpOyLWNrABsDVj4tC6BAw_IarsdmQpfWCZLU2Un0OaI9eevjqNLoqfbih8ggmhk-aL5FgX7t5jxTYXv-ufREwQGaAVcMqrfh1A_MFS_e13EhChrv0tjnP-48BG9UuPccO1GhSZlrr7lcZa22L_KZJ8QhjBQq8JNA</reference>
+  <id>57d5eb4cdc23aaed9db0d7e4acd35924d46f377e</id>
+  <photo>
+   <photo_reference>CoQBcwAAAHdlh88z3DRXZCbiL-jxhj7dNubr-5SwY7kNOHEV7soLUV1SE8al6TxPmkn11P1q0xZZBBajsOzGstySOnX-6u0brF4tbB4Syc7Rd_T2k6PmyjdXUacBvwh1mCns71GaoRjCOE33A2UtEdG6MkgO0SZevTxCI54pV2d5WRUaxcVJEhCzZhZh2QhygKP8ASMsoU8TGhQ4cxL8BeeMIrIqy4NAn3n9h9n55w</photo_reference>
+   <width>2048</width>
+   <height>1305</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/105442847659123589017/photos&quot;&gt;Haute école pédagogique du canton de Vaud&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJ2T1xp9YvjEcRCAewNdCIey0</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>University of Applied Sciences Western Switzerland</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Route de Moutier 14, 2800 Delémont, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.3625918</lat>
+    <lng>7.3522363</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.3625490</lat>
+     <lng>7.3522121</lng>
+    </southwest>
+    <northeast>
+     <lat>47.3626723</lat>
+     <lng>7.3522492</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAAUFl5c0xU95FU-xY7mq3fhE4OYLPsYe3SNYohDSU3Lb3Rf8RvQDur5FxWAFuCrzcenyCZc71uBnaeMsMgRklzFMB1KVOLCNLZHCr1uOAkg8kcvX6gYpUUyivoYCAkLqMIEhBuMWtMBeVSrbT6_dqlBc1lGhQn-Rvdxnh1wx1B46LLHDoN55ZuTg</reference>
+  <id>b20699ce9885bf29699ed23c002fe7ff19709927</id>
+  <photo>
+   <photo_reference>CoQBdwAAAIby2j5-4RK-h2DlZ5_7GWVDIM-Xgz9JyG_yecVBrQYzVFb2X8eiXzVtcPztUpwjzN2U6CAlO5u5UVoVzMFEqvtTylnxTBXv9JvwTqSUWXLOBVT3gvwf5fw93-ZPFKRkgVp0F4xc9m1iEPlqfdcrDU_1BXQ0-GAt-6bi4yiW5hGsEhC8kW7N6CndItB2_-yl5IkqGhTTkeJzsOLTc0HVO2MwNtOqCprffw</photo_reference>
+   <width>4160</width>
+   <height>2340</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/106959601937325305526/photos&quot;&gt;Oliver Weinrich&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJB3zJ1NHnkUcRGJASnlQmxAk</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Hochschule Luzern (Rektorat &amp; Services)</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Werftestrasse, 6002 Luzern, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.0466810</lat>
+    <lng>8.3149120</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.0464799</lat>
+     <lng>8.3148648</lng>
+    </southwest>
+    <northeast>
+     <lat>47.0472843</lat>
+     <lng>8.3150535</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAAASAUbac0k_j1x5AYzrBccirifLijK4KCVIWf2Yj3r6pHMM56kEYLKS_cUDO2TEAZBNaK3szKwYnmLWqO6Pb9qvdHHjOeomK_voKgFvUrX_jLVL36DXezI9sMmauIoCEnEhBclQB22qmSwQVEjdlWojIGGhQpL6jTyI7VUa7Lfo1PzGykGKlWuw</reference>
+  <id>42ea172ffee831da83d0c91867d3f288b93bd470</id>
+  <photo>
+   <photo_reference>CoQBcwAAAFsRU_bDJjAeNUFxMKEH_bxsMvs649XnDN7Z0UsvyjJXV_nkLkIvJtSOSdVC0i58sNhxMrdyuvxduxbFk7V-CUOQV947wC2dZ4nP2yCo2zOCtz1RJaHFELXEUCbzkQ57z6_f6RwZsqfdNnhWoDla6MJ3ggdOM9GcDspHZEIUp67OEhAdVhUeNxbg6Aorgup_GVOwGhTAwZv0OaPLy004JzElSKBeX8gPrA</photo_reference>
+   <width>1848</width>
+   <height>861</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/106852679859133811933/photos&quot;&gt;Hochschule Luzern (Rektorat &amp;amp; Services)&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJdbKYEqL7j0cRP0RN6HuJ5SI</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Interkantonale Hochschule für Heilpädagogik (HfH)</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Schaffhauserstrasse 239, 8057 Zürich, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.4032152</lat>
+    <lng>8.5471186</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.4030366</lat>
+     <lng>8.5470459</lng>
+    </southwest>
+    <northeast>
+     <lat>47.4032747</lat>
+     <lng>8.5473365</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAANOx7RX-xN74C5zZYhgVo7w_y4He_gCxSE7VRFwfdvKlTxHknfxqD7MbyRcQx3_ldeGSsk6CxNgsz9EddX3l0GehriyC41qgdyXL_qV36nBD41G_ro685XueG-2AkrJ_0EhBGeIzogMZRsA-of79nrl8oGhTOnj9bVqBgC3QFWHLNERYbNjCVaQ</reference>
+  <id>ff57a44364eb29f28d61d24ca3cef80f32ffb755</id>
+  <photo>
+   <photo_reference>CoQBcwAAAF7rQijcYUC1hePctfqgbqBKu07mX5v0T5wMAuLDPjTsKsefAugj9_p9Ah5NRFKV8phDotYDwEh1fR5pKTNg-R7uxaGYEwwvHpZlgLmuxnJA8WtKN5ZPimnn2tKBkde7yt38oCevC4ZDMkZGhjDmVQ-P_xiahscoVxUxh613PfMlEhCxUluK3OYCbOvd3RvEU90OGhRgi_4R0Y4iUCitalcOpvSGZmr6ew</photo_reference>
+   <width>1366</width>
+   <height>2048</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/101104465586200623060/photos&quot;&gt;Interkantonale Hochschule für Heilpädagogik (HfH)&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJJ12QjX4KkEcRxktlnhgJZIs</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Idiap Research Institute</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Rue Marconi 19, 1920 Martigny, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.1093760</lat>
+    <lng>7.0844430</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.1091327</lat>
+     <lng>7.0837857</lng>
+    </southwest>
+    <northeast>
+     <lat>46.1094571</lat>
+     <lng>7.0846621</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAAMMepi3BMqvcqkUWElJ6yD2p4YntzPph7eRHf5u9lI9vMGt_SkL9feOforq3I1ucA9OzhtuX9zGVQCxzFjjBNRq3iHercKhxCUmV1v2rgB4N0c0aborggHnbGjVLEqqKeEhCy464LTBTDhs4P6x-wn8pJGhRJLoIQABakAm3rkRE926dNqIttpg</reference>
+  <id>1c27c701a26ebef434f3c1cd5640c1f5ee1bac5a</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBcwAAAAod37SXICfc8tiF5sZFZHm2LFymBHz08N0S_qVbfAdDM9v4COu1n_Uzbr9D0RSF13TcNuUI4LMDZ0o6wNSxt-hnZgW-z6FSSiniO9fwYzS0owNxd4J42Yv7KGAoPO7-Uvz8Z9kq0NTK7fr9lUuhYG7b7Xnca7tEvHx3MeORRaheEhBHt0DmuUUrg38fELIOGHWDGhSy14r7hFs0BcVulLlG3Ys2TswPxA</photo_reference>
+   <width>401</width>
+   <height>401</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/114502675013547321627/photos&quot;&gt;Idiap Research Institute&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJU3z_HDTIjkcR1zFyL-u2amg</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>L’Institut de hautes études internationales et du développement</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Maison de la Paix, Chemin Eugène-Rigot 2, 1202 Genève, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.2209163</lat>
+    <lng>6.1436916</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.2201002</lat>
+     <lng>6.1434000</lng>
+    </southwest>
+    <northeast>
+     <lat>46.2233646</lat>
+     <lng>6.1437888</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.5</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAApIfppplkY6EDjBhLfqpRVlZwpozIIybw_DefRK06rONTBjuK4DWUOfnjhfa9ASx7jz4JrTiG50Boqmn8GEukvZF_ufXVerZWpYLXq1_IMh9Vaof2xjNVTVJjCjGtkz3WEhCURfODM7e41iS9FXBk59DLGhR35bicRaCrgbIEy5MoWYfhn5iiGw</reference>
+  <id>658bbb3b4664bf252e52a8d0c4741f8b72a3a7c4</id>
+  <photo>
+   <photo_reference>CoQBdwAAAByfzyVqYZDThtdF2VbGrjFtYJ5FPsrmyEzvYXm2h-jR5vlRe_XRbrgnMUmMD8I29JxsqbsJ39XW-c8kabGXsnHVPrhpCNOARtaamPSrC91Jg9Xyh0j8Jff2144W_hsHhTQrlR93u7CUGvglRCOtGUry-j6atg1bQ3hhQ7t3Y3LHEhCAfa7HOyyUE683qjwjBTzeGhT1kUqouY-VNDU8bGLT80V7OCGzDQ</photo_reference>
+   <width>5184</width>
+   <height>3456</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/104310603386743706959/photos&quot;&gt;Seva Petrov&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJJ5vlO-JkjEcRuRHZyflX0XU</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Institut für Kulturforschung Graubünden</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Reichsgasse 10, 7000 Chur, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.8510998</lat>
+    <lng>9.5339243</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.8510939</lat>
+     <lng>9.5338285</lng>
+    </southwest>
+    <northeast>
+     <lat>46.8511063</lat>
+     <lng>9.5340117</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAAOgNQbjagTCeHkoE5JG_2QFpJyKYvBICDWRBAineV3JW5V-uFWypm0E1kPEDxV2peUo2MEN-b51_rR403_3ljTibGB9NLvekegWv1RmDPzYLeB_e1teEMgUXamX6xOvxPEhAOXcwu-vZ8j6qJdWedrIm9GhTXxVo-B5Fb41QmIp9QTlwHD8fDOw</reference>
+  <id>ca936e8dc96bb3fceff4706820bd5fcee0790f1b</id>
+  <place_id>ChIJRbTO_3nHhEcRccH8jxeyNaM</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>ZERO_RESULTS</status>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Ricerche Solari Locarno</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Via Patocchi 57, 6600 Locarno, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.1768822</lat>
+    <lng>8.7890820</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.1767629</lat>
+     <lng>8.7890515</lng>
+    </southwest>
+    <northeast>
+     <lat>46.1769220</lat>
+     <lng>8.7891734</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAA77Tqfb7BMWxpQxvW8hEw3-ulDoAFp4Bg5IzXGMEaCXtJsqcfgogtORA8j8K_1Bw9I4uUb_2u2fmf1jGywy_vWwd35EvNFndfUtcAPRGbnSGVEzKtnYNk3bn6v6as6uoOEhCditiFy5yWBC1ONoIoH3NqGhSi2a46Lx4xt1cr9CqIgNtg1fV-Ug</reference>
+  <id>5e87838e0cf582b9d925d55ed014fcdb8b8c136a</id>
+  <place_id>ChIJe_OFayjIhUcRQtZWnA20H1c</place_id>
+ </result>
+ <result>
+  <name>Specola Solare Ticinese</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Via ai Monti 146, 6605 Locarno, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.1726570</lat>
+    <lng>8.7874620</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.1726247</lat>
+     <lng>8.7874076</lng>
+    </southwest>
+    <northeast>
+     <lat>46.1727395</lat>
+     <lng>8.7874824</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAAY-LPCbbiPB57nR3lWvTpUwpJ5gM-Ai09MATk9HoU0fRtZJf8veUWDt3EJIN8EHTP_YRcnvWc58oHGjQxE8vLXvnYHPWbiEqlbMjTNjtYN8WkmRzBGg7f7hWWdR5fHzM9EhDi6JbCugpPK0i-oZUISaqSGhSNbL2jnsLmz6Dip0cyOcPQq5vnkQ</reference>
+  <id>72d7eebc7083c6fffacad07e81ea94e4d60254f0</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJ44EPQy_IhUcRI7ULkEjnJeI</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Istituto Svizzero di Roma</name>
+  <type>library</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Via Ludovisi, 48, 00187 Roma, Italy</formatted_address>
+  <geometry>
+   <location>
+    <lat>41.9063432</lat>
+    <lng>12.4876114</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>41.9062824</lat>
+     <lng>12.4873863</lng>
+    </southwest>
+    <northeast>
+     <lat>41.9065256</lat>
+     <lng>12.4882867</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAAQ5qtSh1iaTkJK6etdzwxzlsj3kfBdFByk9Y8zI10yoGgJqd_096F4VDcF_C63vJ6f9IqIWlAGsK_m5a_VlmR5ls5jyHVVWu2GAvffi6WDOcCzUvS8O6XrKyzssFbDfvSEhBXukuNtNE_Nl8hluH7hVEVGhTNA3Oz-oWPo2-NXL7RxEUx2pnukQ</reference>
+  <id>b1ea0672129c5a9bf09b604a44dbb3d5e4780a4c</id>
+  <photo>
+   <photo_reference>CoQBdwAAAGSAkSLG-F_mewQpa5-J2FrBNpGNnI5G1wo2vLPDykjoKOlFm9XgIwCzVz_tnhQ_5FDgUcEfZWKtX3xAZ3P2vW-Dbe3RDn63bfUEks1st5kdAuErN8BUqMaZpo2tZMWbE6zHe76mmERwfa5yiXfhQZxGHSkHw7eG7KvW7ocsU3O4EhAWeFNaXhnf_1siVAHEgMgpGhTgCulm-sH_lk_05aEy0MEBZRTO7g</photo_reference>
+   <width>2340</width>
+   <height>4160</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/118384294178312667815/photos&quot;&gt;Paolo Lai&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJT9xDbqphLxMRob4rmM9_AHw</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>ZERO_RESULTS</status>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Institut universitaire romand de santé au travail</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Route de la Corniche 2, 1066 Epalinges, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.5432643</lat>
+    <lng>6.6616789</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.5430279</lat>
+     <lng>6.6616154</lng>
+    </southwest>
+    <northeast>
+     <lat>46.5433431</lat>
+     <lng>6.6618696</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAAD18p6N4YprGKGFbZ0yJkBKg1Q7AknMtkMRe5x3hQlBMrhPc05ZqAE7IUcSQ5Ht4cLhf79PWeiwKOQJ3AOgqIuuKIucjw8SvDuvi_6zS8dVd3Ep0j94j_O11JsNSlZWTBEhBwRmdNkQlX8DjLwzSugC0iGhTnONBjBVCKTEDSHMkNz3W0FaPkwA</reference>
+  <id>bbc86f94d81549f293c03627a9fb4adb3a2943d6</id>
+  <place_id>ChIJEQJjpzcujEcRix7_L4mCcy8</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Institut Universitaire Kurt Bösch (IUKB)</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Chemin de l'Institut 18, 1967 Bramois, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.2301033</lat>
+    <lng>7.3987243</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.2300653</lat>
+     <lng>7.3987011</lng>
+    </southwest>
+    <northeast>
+     <lat>46.2302172</lat>
+     <lng>7.3987938</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAAK7XWZGEzqIA6UO7Cbw6RpQ2nTOxQZyE5sZEa1a-zo6e-VtvLrNG0J1R5neYCKDUC51HI2OCzRzTkoGtBqesbKnXH5d-zKr6qOWnKYSU3rOSxLXoo6P3MjuhZaipXwr6qEhCnt7fVodZUGwhOzmVVsruTGhS4d4d0m2Dt45yquPe1Uq6WDRtTEw</reference>
+  <id>3dc77b6fab79c7123f263e77b0ea431dc6c488f1</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJ______PejkcRyKqkB77Jo4s</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Kantonsspital St.Gallen</name>
+  <type>hospital</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Rorschacher Str. 95, 9007 St. Gallen, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.4303373</lat>
+    <lng>9.3868891</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.4299767</lat>
+     <lng>9.3868076</lng>
+    </southwest>
+    <northeast>
+     <lat>47.4314191</lat>
+     <lng>9.3871334</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>3.9</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png</icon>
+  <reference>CmRSAAAA-RYbXk56FOWSWn2I6oPWRN2b5GtwPGoBzc1tciC5Qv1i8nkiw2qtQynkEjes4GWmau-8VdCwb2ZyvsTEowEeViuuIc_OhE-JnSdzdX3MNRJpPyrvSUdbiaXXQG9inuHjEhDjjqBK5XteD6fDdyuZqR8HGhSz5SgOA2swFra7umaV7DLJ5KHc4A</reference>
+  <id>81152cfbcd0c8fa1c17a9be0c451048cd3cefdcf</id>
+  <photo>
+   <photo_reference>CoQBdwAAAPiB2KZlpfVpoNEPcRzqR_DAkGBGczyhIwy3RZKP8y9ThIlURgvmouR90hPLs_dkqbjOP-eYhEVmG7A_K_0x02j1_WGbP0SreGIWPK6_iyxAS6G7JuUv_UM5uoSVpAMW89ZViPBGKQirBT7szxedSPzSqAUEYClR6wZhSSgB89MtEhDoyEL5zDCJKzc6TGQWwomBGhQCHaRyxLGyM1udgrTyyjJcmPAUfw</photo_reference>
+   <width>5195</width>
+   <height>3898</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/117015793322983353455/photos&quot;&gt;Patrick Steinkuhl&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJT54riFkem0cRTTcq6SNYUI4</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>University of Lausanne</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>1015 Lausanne, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.5210895</lat>
+    <lng>6.5801606</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.5186955</lat>
+     <lng>6.5661225</lng>
+    </southwest>
+    <northeast>
+     <lat>46.5282163</lat>
+     <lng>6.5892473</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.5</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAAM29UiULFUp9WDpdezFPR8L9-IZcpyTnH9zerddjBGNsOWevJZmyiZrCOsYGZnSYZcTpbGzJQktvktTR4BG0H-TTbmDyc7jUiFjz18CtTRnT0lMJnfLsD_AvVr8lMri3DEhA25QO6J7pwlTL-KWnnSagBGhTi7Wx64i3vtR9YbhRE3zXMUybv7w</reference>
+  <id>924a30ca04f0d0e7c6ce9b9159ed785995e0cf03</id>
+  <photo>
+   <photo_reference>CoQBdwAAANjiavcZN_VZXQi_XSZVX6Zf9LW4dZz8kTcYApZI1rvy8judT3AchnbS_AimohipFG_rX9fjC7euEbJrHSW46LusSfHE91Oyxx9xUsDhdtFodaftaGn6G_KW7qRGl1Ex9kpbywuZaSrb7wQ9y52QeVqDCOwM3wumdovt0J9cV7Z5EhCR23t2BOVwntEyQq1hN-F0GhQvoZ8liT9dxYlTWN-RQx_wTDawNA</photo_reference>
+   <width>4160</width>
+   <height>3120</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/113141247285867836965/photos&quot;&gt;Saugata Bandyopadhyay&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJubx18aoxjEcRKKylyWpyNgk</place_id>
+ </result>
+ <result>
+  <name>UNIL - Ferme de la Mouline</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>1015 Lausanne, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.5256960</lat>
+    <lng>6.5809070</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAAOdWEJrNs3iyB6QEahhw7JGKRRvmUToz2Ca3mGJr98fTShbACtUitVdKOt5UOoeVzYtFYRk04z9MdB_fcI7-HkjtsM9-4ACKI3Z0d3QkC7lyzo_HPePiPJ7js8156zlLUEhALxos1TyaN0EFN8nCSreQcGhSKyLlbjNWvmRpwGdtdavqPJSqcug</reference>
+  <id>acf97a9700d2276e34c5f46a63599872aae373b8</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJnwyDu64xjEcR_Fi1fnQhQ6M</place_id>
+ </result>
+ <result>
+  <name>Faculty of Business and Economics</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>1015 Lausanne, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.5226132</lat>
+    <lng>6.5843985</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAADtEZtehsQUfxnEwiiqMqdaVVLSnUt3AXTPXgg-WOo7BChLeohmgBnocy6A0D_UlOIjG6ahj1jiy4fE7VQWcReU5DVerFa0_GCKXnWjOCe58YLd3vbpCYX9STYUPeSWNgEhAnYL9qXbATWP3f17_X45AjGhQMaKBbkqfv3Tl6eEIgePNiQObxQw</reference>
+  <id>6fec557d96612ee091af71889b28ce5df63cffe6</id>
+  <place_id>ChIJO9PnfKwxjEcRiY_qC9G2eok</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>University of Lucerne</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Frohburgstrasse 3, 6002 Luzern, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.0494042</lat>
+    <lng>8.3125215</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.0488746</lat>
+     <lng>8.3091225</lng>
+    </southwest>
+    <northeast>
+     <lat>47.0509930</lat>
+     <lng>8.3136545</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.4</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAAoau2hiG8VvzBkym3O-PuK4kQJLvkuH8dzDAUiIogNd906BEVcKVeRWThZlfx3L4ihGQXgdeoDt6LKHg7VPWU0WPOKzSVsbZyVM8OsFx2O1WZxR3Mg0cKB0vcaknL9y56EhDhijeCbLTOTtpP4DdFwDg0GhQw_u_H03jUCoCuFsefdEXkETFQww</reference>
+  <id>a2dc5ee7e5d377ad61d4bc17e30d0994663a198f</id>
+  <photo>
+   <photo_reference>CoQBdwAAAOIxvybETnWf7FpeDX6KGlOiByhn5iFgMqH0-fFHWOF-_0Uqu1QNRAyHgDf2_6H64NWDTMyKaLmVxkKbSHM9jYwvwJGWzuIY0hNc4hNlAWK6kWKoiLTA_39a4hnDblOmTw5BV1rvMAEw1RwDMKvWeMUp1ZP0kEJ0fGK2sr6I6vWiEhDVp8WFxF6fL0ggaJ6TT_YzGhTHPXbkjhS26ml-Y3K9M6WUoVrVcw</photo_reference>
+   <width>4032</width>
+   <height>3024</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/110086193069434129086/photos&quot;&gt;Sven Möller&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJS3qhAp_7j0cRrdH8IQzvZFE</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>ZERO_RESULTS</status>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>University of Neuchâtel</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Av. du 1er-Mars 26, 2000 Neuchâtel, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.9938549</lat>
+    <lng>6.9387031</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.9912194</lat>
+     <lng>6.9370333</lng>
+    </southwest>
+    <northeast>
+     <lat>46.9950720</lat>
+     <lng>6.9392597</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.3</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAAm4u9OJV8LOgtifN9vUyXhoCgGe4zx17-kDzcaxfIxqfbV5svw0lYZTfq-WaG0HlOqC6PZYCuQiNfc00n2WdiotYBrOe1rP0SI9l4v777kem7BPSwEr0TQBQ2IM7KHODcEhCmm9tu4n3t7JNpwrTxD7WjGhRYd4VsVI9kSeFPSefQ2tO0Rh7uMA</reference>
+  <id>1578eeae56c4aaf8f2a7fa72a5ad6c2c5026f3f8</id>
+  <photo>
+   <photo_reference>CoQBdwAAAHkkCuUiGni8XuWGCkhTKf9fxsLP45chIgAxMoYg-gaSFcSsbIeneV0PTc5R5D-PtTYM5gy64OaHv0fwe6zPui1DAtl_wpdyqZrt_pGNcCo8W4M-SCaZ5Qh71ilOG_LYhS1MdBq1SPDNevNP_sLOmZuGAdJm50ukJb_Cv1Pi779XEhDWC01plogeWtyLNOgLdIZRGhS5fPuDKZMA7psFeEKSU6iUgLHuLQ</photo_reference>
+   <width>3840</width>
+   <height>2160</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/118137958679512333310/photos&quot;&gt;Nir Aviv Shapir&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJV1NCwhAKjkcRfAeyqgbpmqs</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>ZERO_RESULTS</status>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Pädagogische Hochschule PHBern</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Fabrikstrasse 8, 3012 Bern, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.9522372</lat>
+    <lng>7.4226830</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.9521241</lat>
+     <lng>7.4225879</lng>
+    </southwest>
+    <northeast>
+     <lat>46.9522749</lat>
+     <lng>7.4229681</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAAKeGmVP7K4q39DegkMO1ySGnHSgjWFL0iQEaEQDuUd_8XBAtAu1bqfW7WJ9Ewccax0_ViugDRJ_UwRRs6pDzjGAXa1tou5RbAFOBQpW3fw0AXnqhQpFe6pS0zRoPEQ0HtEhBRBvRwXNtlik-sRJGlRkj1GhRQve0EPg3EUxyGWVSITfDCqB3OLg</reference>
+  <id>7e2ada519d7af4b3e2eb915839f76616041fd0f5</id>
+  <photo>
+   <photo_reference>CoQBdwAAAL7bUc3aFpRR9oRN5vnE0ly4s1jPq7BSJe8VG8l5lR-w8x8GFZmpa3KMpVWsD3PlR0xgDwJd9yeuMxyXOFaRGO4jfZvFYrZ7YQKeEGV-GtrGrWvcykQLBJxGM4QiN6vU30gq6b2k-iX08k4tP84feegi1XT0xdd0Cqq6-LwcgXiYEhChTaPkyqDErW_v-KO-BpSYGhSufeqF-DvKR9SEeFJusgnp5K64rQ</photo_reference>
+   <width>3024</width>
+   <height>4032</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/102473141840701466586/photos&quot;&gt;Svend Nielsen&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJXf_LrKE5jkcRflRxU18QSGY</place_id>
+ </result>
+ <result>
+  <name>Institut für Weiterbildung und Medienbildung</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Helvetiapl. 2, 3005 Bern, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.9441619</lat>
+    <lng>7.4485858</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.9439249</lat>
+     <lng>7.4485355</lng>
+    </southwest>
+    <northeast>
+     <lat>46.9442409</lat>
+     <lng>7.4487368</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAA-YXD9VbZzXbH1WeuTdN-e6O0ezpoQuBKItD3Zs7CDbV4ku8sm0Kff7ZLN3jQ9thfWcktlZGFfz0nWsWxCA5YPsxVLlp5Tee6ZDFkDQz8EInu6ZgOQc252YjWGmYBpA5YEhCychRrhzhI9xTxX4HRsWhaGhTAfTSH7L92GQ3DWrJfSkJCpknmJg</reference>
+  <id>859403ecbf173b79c6b0bf38223b5b26e3b61ddf</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJ58iYv8U5jkcRDB0_yfOHj6s</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Fachhochschule Nordwestschweiz Pädagogische Hochschule Bibliothek</name>
+  <type>library</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Benzburweg 30, 4410 Liestal, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.4753062</lat>
+    <lng>7.7404422</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.4750959</lat>
+     <lng>7.7403408</lng>
+    </southwest>
+    <northeast>
+     <lat>47.4759371</lat>
+     <lng>7.7404760</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png</icon>
+  <reference>CmRRAAAAv1l3ARuaKJK0iE55HNcNYgSqipF96Oa1OXlMbcuuKMNfAkxk9EINL1Ds9O8ikJnQlSPD4f_gIwAD16xbOrgsg368Cm4qFb-ojcxFS22rF8E79IeF86AoSGudHk_hoKxgEhBAZLFHKVqJbw-TMpvY-nQIGhTZy81TSiGT8XS3g6Ke9OzcfAnhIg</reference>
+  <id>5c8b09d6488ee60eedf7b26fc3e9f5122e9ee0ea</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJg0pIAFvKkUcR6FdK1YcZdTw</place_id>
+ </result>
+ <result>
+  <name>Bibliothek der Pädagogischen Hochschule FHNW</name>
+  <type>library</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Obere Sternengasse 7, 4502 Solothurn, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.2125060</lat>
+    <lng>7.5435090</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.2122950</lat>
+     <lng>7.5432518</lng>
+    </southwest>
+    <northeast>
+     <lat>47.2131390</lat>
+     <lng>7.5442808</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png</icon>
+  <reference>CmRSAAAAaNLAvG87rtcj3Zjdi3YjtWq1pT9TuedVeMPRkjxvdsUJ4x43U7apcqvhVVC4xCmfmX46fRRU-tZ7MmIbYs531rnWsuByWDSWpPXrLzTREw8xSCR42_bmx4Qe5bXESwiqEhD3uUHGdUmqQxwBVP4R6iFHGhTSVytomP78d2UiTmoCxRPcA_7HSg</reference>
+  <id>a251fb0de98a6624f3af14cfbf908eb9bd154405</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBcwAAAI42MIh2jvs6sWW1mSaastPqAKQu6K955PgvVl3SDa-BQOQZyCa1iDbr_uF2rzgBhN7EEk7aMpVmSoXkeF6ublmoI9STA73_Rr_vSh5J1-Uh3vIA0pR1u5577GhSf1eEwJOKqmXUbpXA8YUyWtxDhiSwuHhSDqm6vVd0Xh6CqmbhEhBV4ffcsQFhw-5tPZHL9RxgGhRFfW8AMKdz0RViCEne0528lJeuzA</photo_reference>
+   <width>574</width>
+   <height>574</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/106113563710646100592/photos&quot;&gt;Bibliothek der Pädagogischen Hochschule FHNW&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJ28Ko_PDXkUcRTdYBqW9PZ9c</place_id>
+ </result>
+ <result>
+  <name>Fachhochschule Nordwestschweiz</name>
+  <type>university</type>
+  <type>school</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Von Rollstrasse 10, 4600 Olten, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.3480153</lat>
+    <lng>7.9078154</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.3476341</lat>
+     <lng>7.9077180</lng>
+    </southwest>
+    <northeast>
+     <lat>47.3491590</lat>
+     <lng>7.9081076</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.4</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAA5Q4AXRsOz-mjp-qVySRr--E3ePsc7JNpOTpJs8A9oM_-noRYpJfjPofYcrA5j4JKIZu_bUQKanLsqDuo43PLAjtLb9kR5qyI2mgaNpOPMrLbIqm4EIZToxMcTUuTmZheEhCB0C6FATCxch848tyhxdqFGhQI78irTsav-7W5XMAyrgwWLH2LSA</reference>
+  <id>f33f3f662433e7e362d8ca55ccd2473f50070aed</id>
+  <photo>
+   <photo_reference>CoQBcwAAACjqF9_lXULf3fd0AlJ4OZgEsecki4TvJFI4lxr4s6QYeMGSe9Gdrg4gZdv0vAoHz-TJfd8t_2EEJB-DYUtYdvKL_SzkyelBPZ1oFxZfMJj1FyLX-Wv7jJvT1U5eEyB55k1OIvfYMIg-2UPQfMol2jWQMamF9grDQVe5VHsfgwkiEhCEfcV5P_8NXPEip3bG4QKuGhT3gHxRNuXBhaCBpKjkJqcoocVjHA</photo_reference>
+   <width>5434</width>
+   <height>3622</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/100488464602365329034/photos&quot;&gt;Luca Gaffuri&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJt9J5wzMwkEcRgWnc5loV14I</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Pädagogische Hochschule Graubünden (PHGR)</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Scalärastrasse 17, 7000 Chur, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.8669842</lat>
+    <lng>9.5367209</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.8667657</lat>
+     <lng>9.5363187</lng>
+    </southwest>
+    <northeast>
+     <lat>46.8676397</lat>
+     <lng>9.5379274</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAAVaVzZRrxUosFqp5kjjTaAxzfuVoED1kBL5Tgl1xPkO5ktfBmUSnrOlr5CsSrqu-3F7eDMNn4VVj30fCKS4segYf3-T2tlFhLtE4xs8IGWA9LLZ990GTC3XZR929RapmsEhCe6eSimyDrmF2VQ5vQBIahGhSXJ342hz2erxVjpbmCwRALF0j3lA</reference>
+  <id>ce3ef2810434778d2af1cbd0fb56af70cd5826ba</id>
+  <place_id>ChIJawx4W5DHhEcRTeEE5gFvg8U</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>PH Luzern</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Pfistergasse 20, 6003 Luzern, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.0510453</lat>
+    <lng>8.3023319</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.0509756</lat>
+     <lng>8.3022042</lng>
+    </southwest>
+    <northeast>
+     <lat>47.0510685</lat>
+     <lng>8.3023745</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAADqDr4CKzcxdErE2mCnjE3xfjG4zAbw7NycdF--UASKGg0NrMVa5US5jnJzUhOgQHAztex6AJD_wB512UQ1oSYVO6TBpomjatP_KRIojQf-IIUqEnZxpsuF548yl2-MgGEhAaGbb_Gg8_7xpsOF4aTKIhGhRd7YuTh0wl3vUtX81r_HBeyKHrGQ</reference>
+  <id>73fb9ee3d91443f7a6967df681f1909b576743e3</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBcwAAAGh92qKGKs2GB5PbzgxVbOnZ0Ogr0Zb2bz-BVp2D9XxG5zcnSwHVG-04YihKLkMzawHJnqadI8aAAf8kz-J79PRTpl2oCqxFZNcSHqPjbf4fKtw5yUpX-ZXAM_5HmniIxgq6xOoG2FK41SgN9hMs66M9p_aZ0sxf8W698Bk1dMXpEhCkQ_-hiqw79qNcVk_rshPUGhQW17Lu8VBYXMsL0OtAXM3EuU44Hg</photo_reference>
+   <width>2048</width>
+   <height>1365</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/109549956731042667182/photos&quot;&gt;PH Luzern&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJbwh3CZj7j0cRoo4D_Z1CfNs</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Pädagogische Hochschule St. Gallen</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Notkerstrasse 27, 9000 St. Gallen, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.4302829</lat>
+    <lng>9.3824689</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.4296761</lat>
+     <lng>9.3822178</lng>
+    </southwest>
+    <northeast>
+     <lat>47.4304851</lat>
+     <lng>9.3832221</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAA24Oq2hScJL9zgbmrJTvfLHsT7j3YEZ6lHxF_0v9DS7YV-BAH3KrI-w_pPgN0KnI5EGmjAz2mPxhHJCfI6eRMTAj40sZ9ddLbWllegtbPZnh1C16DFYLIX_0bQc-qI63REhA4b4vLAbrh1EKYPbVRK69KGhSbpjB8ZwFhdlZjuFKM02MUXWGLug</reference>
+  <id>9e5cfca2f01624a2c70b08aa06725e3f7d940450</id>
+  <place_id>ChIJu93y_8fgmkcR-Mhdp2otz94</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Pädagogische Hochschule Schaffhausen (PHSH)</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Ebnatstrasse 80, 8200 Schaffhausen, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.7073984</lat>
+    <lng>8.6452862</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.7072677</lat>
+     <lng>8.6449829</lng>
+    </southwest>
+    <northeast>
+     <lat>47.7077906</lat>
+     <lng>8.6453873</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAAl_St1A3jnfA1IxlOX-9kRU_C7HuhZKUbg1zGbQtX_cuhYvGUImnMkJ1je7O7atFKFR9pujwc2XsEVGFYI5_hALUmhS1umsBg-CT-4hxJjq5GOTJiECdMgOnS5BFrDhe0EhDooZx6eGnGukRMRMSr5Kr-GhTMuhEtqC8pFl_aBEaGdwuIU37twQ</reference>
+  <id>2dd708f308987b7b0155b763b1f39ee53e03cdc0</id>
+  <place_id>ChIJaz2FyteBmkcRVaBtCVv5Zqg</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Pädagogische Hochschule Schwyz</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Zaystrasse 42, 6410 Goldau, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.0450543</lat>
+    <lng>8.5532354</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.0448057</lat>
+     <lng>8.5529162</lng>
+    </southwest>
+    <northeast>
+     <lat>47.0458000</lat>
+     <lng>8.5533418</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAAKfmyDSOhrNSMJpZ-8tIueskv9WPcCXdl0lK87VbkVFjwV0I3uXFz-O9QEeSZeUo8FbR0USn7UfpUZP839nDbl7HAWwJrzYGUkz2aXWs_RljVXhxuCZiSqpsA4zMcjS7wEhBIO7M-jeYqNnVNmsyFYZGBGhTsvOjrDdJHV-h9V7Vu-pWG9v4tVQ</reference>
+  <id>c12e4b81612df5e4e83801693c0be65613d48c3b</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBcwAAAIa_p5vuyW-p_nsxfncBFj9pcxdhsBSyNdL087ljM2iwakMKuAchYQynIdFeeJAmMSGpydwg2tepfwVmoHf8HrT3gXwSGTzBX7R-r80SCm5K847rWcpRHgbuizkXF87nT_-8k08r5yDgarnF9TVuLwbkZwjJddnjVXRN02VT7v24EhCPzV4nrR5u4XGl-zjN-HZSGhQR64QclyF_qvsCQzTNpklg6V_grw</photo_reference>
+   <width>2959</width>
+   <height>1067</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/110349508243327286409/photos&quot;&gt;Iwan Schrackmann&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJs984bVpRhUcRvv4r2APXRTI</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Pädagogische Hochschule Thurgau</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Unterer Schulweg 3, 8280 Kreuzlingen, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.6475771</lat>
+    <lng>9.1806833</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.6474673</lat>
+     <lng>9.1802340</lng>
+    </southwest>
+    <northeast>
+     <lat>47.6479063</lat>
+     <lng>9.1808331</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAAsubV6I1PWMSa--kQp4f2lsneUeTNOt8mAJvi9EHqfgs_vRQoHxlc6heA55tV5C9843hm2f5-WblmEQ28uW5V7JILpJs4Mnx8vprgf3aTcihu9PZK_O-ig8Rc_qsWngidEhBAmwI_vTmp_5SF98svd_LpGhQMzK5hMK8wesrSKFyESN4lVrFH9A</reference>
+  <id>eb53991133f87a7ea67bcb002ea13e9d281774e6</id>
+  <photo>
+   <photo_reference>CoQBcwAAAGrI3WSYPnx3hphKrM70sZMdeggxxdy6b1_rtAW89jlwg65seNZPaiN5WXxcyTv7Eh0Ik03BrEaK1I7nk_uc1sb3pNGwzsUgIfS1AUPyVKWJV6NPhPh_-BdGJT8GXjmgujnYWSBxNn1tf04HTg9CtneAn1Wvr27Q1_1JjU1WUxAEEhCyMFG5T9UUMB6nAT_3NNMLGhSaUZJg4PaaLXCNAQDizyvkl6X8xA</photo_reference>
+   <width>1000</width>
+   <height>666</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/104078692794549712022/photos&quot;&gt;Claudio Zingg&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJOQhlV9_2mkcRKqX61TYdgYo</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>ZERO_RESULTS</status>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Pädagogische Hochschule Zürich</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Lagerstrasse 2, 8090 Zürich, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.3776241</lat>
+    <lng>8.5346572</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.3769181</lat>
+     <lng>8.5334360</lng>
+    </southwest>
+    <northeast>
+     <lat>47.3778594</lat>
+     <lng>8.5350643</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAAwKSa68-Af5gdojRs9fbTZ-xV3Pbp-uQ0H0GFdrAZEWQEFJy_Bb6GmIsn5OwqL280eA3oHK4v6ow_JOrV6QK3a3xu1_Bktr5_D-kKFPdy0TXLlp2oWv7iYY5V-AFCm9N8EhDDHUdMbyfjqPbsGdvphOfbGhS_ihdHAVOKOMmzyEm8y7pq9YQr_w</reference>
+  <id>52823bd165a7acfbe507981fe1db23412b9c9cd3</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBcwAAABph6N9CN-0dqH3DThtOJt9I5sxcvTAnDazMvEAMDtslZd5K-TN13wWEOwbyYcOiUTROGBOGy4XVi9-F3jMU-gr2y9a9FOAAtgqWZ-AAKzbJjBby1Hp8T3dk-ekwkhMoH-W43KbE9oc6hOdq8fdmZgToJDveBQMnjR1T9Yc6gdd_EhDt81e34O6fh7--X1JrmQKhGhRTgE3IK_SqWXEE7u-7V16XqxpGDw</photo_reference>
+   <width>5616</width>
+   <height>3102</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/105906710950521748873/photos&quot;&gt;Pädagogische Hochschule Zürich&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJTythk66gmkcRuOvvXWxmIA8</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Pädagogische Hochschule Zug</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Zugerbergstrasse 3, 6301 Zug, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.1622109</lat>
+    <lng>8.5188031</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.1619035</lat>
+     <lng>8.5183794</lng>
+    </southwest>
+    <northeast>
+     <lat>47.1623134</lat>
+     <lng>8.5189443</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>ClRQAAAAZrUOoboDjyDX8OOXKQHbHGgf5dz_1xm0okiOoqk3DldSE0bUwqZhsB8P0-qF_WLUP37HL5e24hPAdnIgg460dWw3bzUnwtgXT6qih3-DSFQSEAAmJgO0fYnfF99efvk-2Y4aFAo4bZEIidolCAELsVyPnPf2ll4J</reference>
+  <id>2b01b74c775efd53fbaa4f820fb32d0f4d004f1d</id>
+  <place_id>ChIJ5xiO3PqqmkcRcOIPuM2oOwA</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>ZERO_RESULTS</status>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Paul Scherrer Institute</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>5232 Villigen, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.5385720</lat>
+    <lng>8.2299080</lng>
+   </location>
+  </geometry>
+  <rating>4.5</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAAURfR7_kolLx-CHiWRxvy4Jg5faO2KnOhdWh6CqjZOoxcMfmDM7DLB3oGeFsNhzs9IR5RvtidPZokeJBw_-5KAXN2hya-lLzSkVL3qmm0F-iCPK1-0BaYZQR-_2oqVCpFEhCgDVqLaKG0jm8pphL6KV5MGhQW9_mgaKWU-ogRP8VH_E0puUAslQ</reference>
+  <id>dc8eb0121bc864d415e3c95935b19d0dc1d6c043</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBdwAAAPOz0lb_i18HQu7YF3H4mCAIDjsHiuMcBo_csGSPOXq6sokURZ5-k2bJlD2K749JELzjMB92RJPHgWMHHB2b2zaDxsoc7wJRJzFXkois0XYPKvNw_ZeBjmDx7IrU5h1h7z9pQXDpGE1R6HCkc1ZByVPhVdo_RdeDAx8Ugn6Mi-mIEhB1XsqmDVYQ797vfhP24yl1GhQZRmGWmikF5JIW-JajjhkzQwnsWw</photo_reference>
+   <width>401</width>
+   <height>400</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/108834217131474200489/photos&quot;&gt;Paul Scherrer Institut&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJLUxr1hlqkEcRMwOOImSblh4</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Robert Walser-Zentrum</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Marktgasse 45, 3011 Bern, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.9479385</lat>
+    <lng>7.4451122</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.9478944</lat>
+     <lng>7.4450996</lng>
+    </southwest>
+    <northeast>
+     <lat>46.9480710</lat>
+     <lng>7.4451499</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAARlKVpl6dvqdE35wgtmTjMhl-40h6pJft3Zgtlhn6_XUQYFQmypOMcgahXEstJZxnju8LgbSehUlI6NjgDvE8m1fI9SLmRw830M0r8Z-kOruU1PbC10icICku6OQbUS6REhAs7tFfIzhA2H5sFWIIo37CGhTkXcYZTJiOGXU1K9ru0ZN9rrWW8A</reference>
+  <id>79be2b998deb0fbb413913333debabb6c752baee</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJySu6KsE5jkcRLXy91MDUyhM</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>ZERO_RESULTS</status>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>University of St. Gallen</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Dufourstrasse 50, 9000 St. Gallen, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.4321575</lat>
+    <lng>9.3755673</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.4276851</lat>
+     <lng>9.3720216</lng>
+    </southwest>
+    <northeast>
+     <lat>47.4359028</lat>
+     <lng>9.3792944</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.8</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAACDEI2Ke3aCZp_gXzf8cp9Jq_4JeYAtnP2RlKE_Pm3ZHcg7JpuwgnwSkpKzn5K3rv-Ok19f1WWCZO7aPLBo12hFEg0UIu5244nRW3F91qWX08absTJrrYtEeJF4QNa9ABEhCOD2HoMWUAF2N8aWetsvepGhQKDmQHkbT2X5EiMbQTYAbsRQnMyA</reference>
+  <id>20ba7a060f7799ba6ac0ab861c621fd250dfb04c</id>
+  <photo>
+   <photo_reference>CoQBdwAAAAsZ0LEUGGrvknYxiH2lJkHqbWJCzoIkiF50ibv7cjAW6MW77hrjVidX_4V4VugsGFjrdmNpX_hBDhABS4bgMsbu1DuXl7B_ILXy3slTcXezI5bgFOEQAFnHhtsNudq_5c1XfDly-MQAdJ7afqy-9z6PyPtDXZCsMm7sKEsGIFyNEhBBOmxczDD79NaXITOIfGYTGhQEQb9YVSCovFi0bv9WWe5LMAnPvQ</photo_reference>
+   <width>3264</width>
+   <height>1836</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/117076128288977481057/photos&quot;&gt;Peter Traurig&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJud_ySkYem0cR1APJCqJflqw</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Schweizer Hochschule für Logopädie Rorschach</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Seminarstrasse 27, 9400 Rorschach, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.4726127</lat>
+    <lng>9.4948635</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.4725009</lat>
+     <lng>9.4946300</lng>
+    </southwest>
+    <northeast>
+     <lat>47.4729483</lat>
+     <lng>9.4949413</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAAoHah8rAjdr2kmnVe6h9aMuaLhd-tsM3WriFkpZG2yMZDO6G_75pxhFTVRXM2NHWjCjtMkQNmv93u1Fjq2HDkFSwTgwrCL5RKXnrbTtGQ6sOemm08Vc1ioz8k023BrXaJEhCG4SNURnwVlZ7CnjngaFLDGhSrrohDzNQzGOfsAy15tI3FU_bS9Q</reference>
+  <id>db05cefdaff11f84b2a8b2511cbdd1ce8f658e3f</id>
+  <place_id>ChIJ1VN6wLkbm0cRVM9YRZU6UPw</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Schweiz. Institut f. Allergie- u. Asthmaforschung</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Obere Str. 22, 7270 Davos Platz, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.7954192</lat>
+    <lng>9.8200409</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.7953202</lat>
+     <lng>9.8193186</lng>
+    </southwest>
+    <northeast>
+     <lat>46.7957162</lat>
+     <lng>9.8202817</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAAW7lPvcVLE7yzVX-rUnKdlcoWf79tBZpmgw1j0gFFLzOhPqghOFkIofb8N8pFb2KTLQw60MQ6ANd20uaSh6enbN6liZtwHYTxz5ccIE_DMKcyqBU51GBLSV1r6Bg2ufZcEhCZVMlHTZWEGfF7Fnj6SGEeGhSnRvRPr9mZLZ1lqueUBm7i-0ilUQ</reference>
+  <id>ea435d78b7507556ed24683ca26f040f93a8d840</id>
+  <place_id>ChIJL3RyxgGkhEcR24v33tCoi5A</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Institute Suisse De Bioinformatique (Isb)</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Rue Michel-Servet 1, 1206 Genève, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.1935442</lat>
+    <lng>6.1511582</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.1934731</lat>
+     <lng>6.1511169</lng>
+    </southwest>
+    <northeast>
+     <lat>46.1935679</lat>
+     <lng>6.1512493</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAAqyNo2l787BwnqP6Do35kUoQbqlPfElw8bK5w6y5gRoINxyC5tejni7UUUCZj6SXjbvYXeo9ylnwlPQFL1xnbfrypsU9Taw-sEfiWnRnQsehpb4AI55VeD5YuH-oXtcRSEhBodZp36_jsUEsdgvqCQ5q7GhTxxYuRajmaN30MjSMcnY-4Ls-8gg</reference>
+  <id>752a599029cd090e3d6b46b8960fce95d60ec9bc</id>
+  <place_id>ChIJCXjIv816jEcR9Drcpl-n0sU</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Stiftung Schweizerisches Institut für Kunstwissenschaft</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Zollikerstrasse 32, 8032 Zürich, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.3624920</lat>
+    <lng>8.5552749</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.3624763</lat>
+     <lng>8.5552127</lng>
+    </southwest>
+    <northeast>
+     <lat>47.3625391</lat>
+     <lng>8.5554615</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAAzSgTXyP0QoqDOBY3H5HsKYTTERCsuwnKv2iWfEY3_wiQcAAQ6zsrXD73oXPcbnOnrUEQtY_LneKqvQ-bdEbNR6DN3mFE7n5EvpehbkAzI7H5MOtoTRR-IIKEA0ZROtIHEhC1xBH6OopUI3x9spKikKNdGhT-XXOlnu1JnYh_I1sbgHCH0-fG5w</reference>
+  <id>9f3e77d127dc70c475473913f44a479c427e91f7</id>
+  <photo>
+   <photo_reference>CoQBcwAAAPNmanBDNWWGwTtgDbCTBJdat_PnRDYb1rwFxJ781PF4P4oqEykcvC_T2c5lljdSusDdu__kldpl0Dp78TFuPfW-xU7UtYlY9lH6av6ZIM2R4rZ7TdFWP9y5pO_Akp72Vcr2CIq4wKTA_MGqVAhIM8SnYguEr6pno4ZXXEKMtexREhBLqnun7TbZbn6iUlSFmgXeGhS-0Rqa4KP9e-k-_u_s-E2RvJE6Ow</photo_reference>
+   <width>2048</width>
+   <height>1538</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/113192922215136222051/photos&quot;&gt;Olivier Monnet&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJKTPVREynmkcRRgunrTGtAqg</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Schweizer Paraplegiker-Forschung AG</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Guido A. Zäch Str. 4, 6207 Nottwil, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.1399843</lat>
+    <lng>8.1310359</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.1396406</lat>
+     <lng>8.1302730</lng>
+    </southwest>
+    <northeast>
+     <lat>47.1410153</lat>
+     <lng>8.1312902</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAAwD0v2Hw2fvXlT8QwLDpUk7ZOe8Cz3ld7F0kF9N2Sz2yiQRmzM8RO5y9OTJHC10HP8iV0NEwNNgkHaN3ENzIPYP03LtHVUmE3v23NbSgaYyGpKMGsYBveEA47_whw8uhrEhCavi8vNl37s_RJ2fuRUoJTGhSzjRFZKZz_s8R9-crn9ndxFMJa7A</reference>
+  <id>d19ea9cf5b99208bc8bb2ba0fa148ebfd6a6adeb</id>
+  <place_id>ChIJhXmCFErgj0cRHF5Hqn-KntE</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>ZERO_RESULTS</status>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Scuola universitaria professionale della Svizzera italiana (SUPSI)</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Via pobiette 11, 6928 Manno, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.0316097</lat>
+    <lng>8.9243305</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAAbUrc3PkO3JmcHfO52VVuxZNCJFHMHPXfQM2IPqQK1AOITl_pKaWwBs07resxBNcLBSlG-gsPsUJhPPCYvS0C99mghwS8OBZQJDFJBX0nv9p-Y48f5uOqPBU3ErEYXfFbEhBqkaqTKfIIC0eL7XoT26NFGhQS1FoIt__SdxMZFoN8ie0vRN8RPg</reference>
+  <id>5942f333f88da04872d06b85c69c7577127ea1c5</id>
+  <place_id>ChIJO_r9ycxLhEcRNn45mBh8y2E</place_id>
+ </result>
+ <result>
+  <name>SUPSI - Dipartimento tecnologie innovative (DTI)</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Via Cantonale 2C, 6928 Manno, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.0233459</lat>
+    <lng>8.9171287</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.0232704</lat>
+     <lng>8.9162510</lng>
+    </southwest>
+    <northeast>
+     <lat>46.0235723</lat>
+     <lng>8.9174213</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.0</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAAhsM1-VRHgBZkpsOp6KnafYPwprztlea5OMCp9-BHbODJdVz8LnZv_f9tR6wCPEuTzpFnv-m8Bp06A6SIJYJnwioSXWw714qsEG9wmjT0uH9SLb2OcvCOR3GeVvypf9avEhD_ex2GICwHXURUgD3cuyYKGhScRQpnUyQr8to793qAPfJLDdj8Xw</reference>
+  <id>ddc3e8744c15431758985d7ad09eee593f547785</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBcwAAAKQS3cmh_4QvQxpI0C2bHoPu1hUmwBRUy6z0rN7xzprT7vN2mje-ogTbAgRhexB6Au-2yk9TKyWIZhhTity3UJbSAW4LURgBVaAk8LYII8MIXd9C95BXs_tiefQLswHoMVvz9DPMbOe0E9DKIBaO_som0d8S8nVVxnrtV_P7Dh72EhDdZLDbdUspv180lWrO1kKmGhQ5gY39YjGGtqpGPS164ngjlHvN2w</photo_reference>
+   <width>648</width>
+   <height>486</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/110954921955323914000/photos&quot;&gt;Lorenzo Sommaruga&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJa9ruCZgyhEcRKBxQF-sal_s</place_id>
+ </result>
+ <result>
+  <name>Università della Svizzera italiana</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Via Giuseppe Buffi 13, 6900 Lugano, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.0109603</lat>
+    <lng>8.9582572</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.0098030</lat>
+     <lng>8.9549783</lng>
+    </southwest>
+    <northeast>
+     <lat>46.0119950</lat>
+     <lng>8.9612170</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.6</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAAXdg2LzxfDztYwGXEUsPvsmd1Z9j9HP-tJdwo8mWjwKPNn5FPpeRYIHS0SfbgSrj9bUbiW687ulVsudDpRSEc7ZepR7GS9Bh_m8nqEC7T-J5stuUEMjMNzAWomECw-XPUEhAChswVQFQwSzzZmiEmgcujGhQ60gGeCGOM1Ql5lq41oqNV6P4tVQ</reference>
+  <id>a8095cf53f80dc762219c95ec9d41b9fc10be314</id>
+  <photo>
+   <photo_reference>CoQBdwAAACUk4yh6YgzdobgGZMsh55zs2hOc49bLRBqtWLzfzwlNj3gxAwacNaQfb-SddB4-yZht5p0q_OA_aTFbL3Fa-fH6LWrCNk7s3V0CxYgB5rDDTRovgZ9sN13zXYIOqiAhAqhrFYp-ExD_i8FI7hmFj7v1TdxNKtRlDJ-vIf52h4PoEhCjQnGQ_0alzazlgXGz32o9GhS3XVOyi4NfzFs_8j69ln2LIaad5A</photo_reference>
+   <width>4618</width>
+   <height>3464</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/112750375262132765910/photos&quot;&gt;Costanza Volpini&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJ4USdfYothEcRYG1WqHl9FFE</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Università della Svizzera italiana</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Via Giuseppe Buffi 13, 6900 Lugano, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.0109603</lat>
+    <lng>8.9582572</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.0098030</lat>
+     <lng>8.9549783</lng>
+    </southwest>
+    <northeast>
+     <lat>46.0119950</lat>
+     <lng>8.9612170</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.6</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAAGYMY52lIjjXpdX7fpGj69X00gpaOUTfJJchxkXvyXs6d3Hmhi86G8l91P12J95r0Pf7i-biTKGenCh63l7vPXDFTPr850sT5iXkbYbDpQTPZSA-q1qclZAwSJlK2jdLjEhDYUAgVYaxcVMbhsZlQdk10GhRWCVuPwruT7sBz6vL8wyYGUxizig</reference>
+  <id>a8095cf53f80dc762219c95ec9d41b9fc10be314</id>
+  <photo>
+   <photo_reference>CoQBdwAAALApa31qtOg_CMqHN0tNk4tVhBuYru6S6RtLyYDqem1LF6gbE0PnSzQRFWgQdeqMd1_KA9sncUNKeEgwUpBxYwszQVgKx4zOjJOnHkigLBIva1lRzojlHSnRiSlAzd5_RJJWDardOvYFNZosnX30szN4uJlcNWYpwQ1W-GwhRKx2EhDl6IMw1f_Uh9v6y221qf7hGhTLgFUHZ6pNlH37C4oKInYp03Gnhw</photo_reference>
+   <width>4618</width>
+   <height>3464</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/112750375262132765910/photos&quot;&gt;Costanza Volpini&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJ4USdfYothEcRYG1WqHl9FFE</place_id>
+ </result>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>ZERO_RESULTS</status>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>ZERO_RESULTS</status>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>University of Zurich</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Rämistrasse 71, 8006 Zürich, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.3743221</lat>
+    <lng>8.5509812</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.3683111</lat>
+     <lng>8.5445064</lng>
+    </southwest>
+    <northeast>
+     <lat>47.3814213</lat>
+     <lng>8.5556125</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.4</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAAP83QR24iewqtwcaRFOHpSMt0KlXXccewBhoX7gUW1aWf8O_F7vUl7K1EByK_o9oX7HBNLt7sJpzEHC9LqyNnoos_5fr0fi6WhczXei1Ww2FWKgAvo8yZEWMPGFmPxnIREhCMIPwU8YbSSoe92_AIh5S4GhRbTlHmwaYQL1nQjsfNJ_IRxms-jg</reference>
+  <id>a724e9f1467096b09e9da3cce46be7a90970243a</id>
+  <photo>
+   <photo_reference>CoQBcwAAAL_IKLg3a7uhVTIdWZrOpy-7p9nDtS4eiDX2JxoLKY5BtQjKiIwWDrVPpBpv4UzmJHzt8KVTub2aYWqicblrQRLjfsbAYDa1AlCFdctYL_sXwIZbZb2L9dQ0K5ds5rz-ehbXvHYo8TIa51oHLDIHuhS6uzb0oFn4dSxR-61e1G6DEhDlFlqBlJg1uTuteVR6r3JVGhTYlkKvPKqevzADirNygTw3OyvYKQ</photo_reference>
+   <width>1772</width>
+   <height>1071</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/100717325153424508580/photos&quot;&gt;Universität Zürich&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJi4WVWJ-gmkcRz9p-0FL6ULo</place_id>
+ </result>
+</PlaceSearchResponse>
+</results>
