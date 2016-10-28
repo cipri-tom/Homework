@@ -216,7 +216,7 @@
   <name>Eawag</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>‹berlandstrasse 133, 8600 D¸bendorf, Switzerland</formatted_address>
+  <formatted_address>?berlandstrasse 133, 8600 D?bendorf, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.4037666</lat>
@@ -250,7 +250,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Eidgenˆssisches Hochschulinstitut f¸r Berufsbildung EHB</name>
+  <name>Eidgen?ssisches Hochschulinstitut f?r Berufsbildung EHB</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>Kirchlindachstrasse 79, 3052 Zollikofen, Switzerland</formatted_address>
@@ -280,7 +280,7 @@
    <photo_reference>CoQBdwAAAM1KAOdT9-Ud3qOuJQ1kHzo_V29jxpFAMTKbQWVRSTClcAKqS5sBD_mjfAakcQM0At-lZ5RbPAMUp-nNlJTUfOGZmcRBL6HQPoAwi2RHNLDDgaf9VBliLBkUA0tIKlWM-DQIVU4FvUzS2sNl-a0BAa8ggT9mwtlpbb95fUuzvDvQEhC_2synmBfrSoBD6kNNCzZKGhQvjM-Mf2Nu7J6Cx0L878Hboa5FBQ</photo_reference>
    <width>1248</width>
    <height>832</height>
-   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/112212445904206729476/photos&quot;&gt;Eidgenˆssisches Hochschulinstitut f¸r Berufsbildung EHB&lt;/a&gt;</html_attribution>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/112212445904206729476/photos&quot;&gt;Eidgen?ssisches Hochschulinstitut f?r Berufsbildung EHB&lt;/a&gt;</html_attribution>
   </photo>
   <place_id>ChIJf7RcrFw6jkcRJFfAt3K7mns</place_id>
  </result>
@@ -293,7 +293,7 @@
   <name>Empa</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>‹berlandstrasse 129, 8600 D¸bendorf, Switzerland</formatted_address>
+  <formatted_address>?berlandstrasse 129, 8600 D?bendorf, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.4022054</lat>
@@ -390,7 +390,7 @@
   <place_id>ChIJe7akFTNKhEcRKvjBP5odqdA</place_id>
  </result>
  <result>
-  <name>Ospedale Regionale di Locarno La Carit‡</name>
+  <name>Ospedale Regionale di Locarno La Carit?</name>
   <type>hospital</type>
   <type>point_of_interest</type>
   <type>establishment</type>
@@ -465,10 +465,10 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>ETH Z¸rich</name>
+  <name>ETH Z?rich</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>R‰mistrasse 101, 8092 Z¸rich, Switzerland</formatted_address>
+  <formatted_address>R?mistrasse 101, 8092 Z?rich, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.3763130</lat>
@@ -507,7 +507,7 @@
   <type>university</type>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>‹berlandstrasse 12, 3900 Brig, Switzerland</formatted_address>
+  <formatted_address>?berlandstrasse 12, 3900 Brig, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.3179230</lat>
@@ -645,7 +645,7 @@
   <name>Kalaidos Fachhochschule Schweiz</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Jungholzstrasse 43, 8050 Z¸rich, Switzerland</formatted_address>
+  <formatted_address>Jungholzstrasse 43, 8050 Z?rich, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.4154540</lat>
@@ -708,7 +708,7 @@
   <place_id>ChIJt9J5wzMwkEcRgWnc5loV14I</place_id>
  </result>
  <result>
-  <name>Fachhochschule Nordwestschweiz P‰dagogische Hochschule Bibliothek</name>
+  <name>Fachhochschule Nordwestschweiz P?dagogische Hochschule Bibliothek</name>
   <type>library</type>
   <type>point_of_interest</type>
   <type>establishment</type>
@@ -765,7 +765,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Forschungsinstitut f¸r biologischen Landbau FiBL</name>
+  <name>Forschungsinstitut f?r biologischen Landbau FiBL</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>Kasseler Str., 60486 Frankfurt am Main, Germany</formatted_address>
@@ -791,7 +791,7 @@
   <place_id>ChIJbYHlnWgJvUcRrFPg6Gkzo8s</place_id>
  </result>
  <result>
-  <name>FiBL - Forschungsinstitut f¸r biologischen Landbau</name>
+  <name>FiBL - Forschungsinstitut f?r biologischen Landbau</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>Ackerstrasse 113, 5070 Frick, Switzerland</formatted_address>
@@ -821,7 +821,7 @@
    <photo_reference>CoQBcwAAAAXgR_edkwMRFASi0MgTbs5rY7VMWlmBF_jsy-e7hFJ0Wfsj78Cb-2xk2gPF0YrDqER4B2uAS6O7uczTuamk2C9_feskJhb09893si1-23hdFfZifnGkSsww_hziT1_oUr1yWU9NY7lU5WhxOJgRxnrk3HmFDVCbfCvI_GJ9yrVOEhDSXb1X7ejsSTgXy7n1jGPuGhTBoKvNPxiLYm0GEOHI8QsMqPw_vA</photo_reference>
    <width>1364</width>
    <height>1362</height>
-   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/111937342551007470308/photos&quot;&gt;FiBL - Forschungsinstitut f¸r biologischen Landbau&lt;/a&gt;</html_attribution>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/111937342551007470308/photos&quot;&gt;FiBL - Forschungsinstitut f?r biologischen Landbau&lt;/a&gt;</html_attribution>
   </photo>
   <place_id>ChIJV2J9KrZHkEcRH1IKjqoKSH4</place_id>
  </result>
@@ -946,7 +946,7 @@
   <place_id>ChIJja1KfjJpjkcRifJo3JRtHeE</place_id>
  </result>
  <result>
-  <name>FacultÈ des Lettres</name>
+  <name>Facult? des Lettres</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>Avenue de l'Europe 20, 1700 Fribourg, Switzerland</formatted_address>
@@ -972,10 +972,10 @@
   <place_id>ChIJYzpHezJpjkcR7vfVnCOtx_s</place_id>
  </result>
  <result>
-  <name>FacultÈ des sciences</name>
+  <name>Facult? des sciences</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Chemin du MusÈe 8, 1700 Fribourg, Switzerland</formatted_address>
+  <formatted_address>Chemin du Mus?e 8, 1700 Fribourg, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.7937797</lat>
@@ -1003,7 +1003,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Fondazione DiReCom c/o Facolt‡ di Teologia di Lugano</name>
+  <name>Fondazione DiReCom c/o Facolt? di Teologia di Lugano</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>Via Giuseppe Buffi 13, 6900 Lugano, Switzerland</formatted_address>
@@ -1104,7 +1104,7 @@
    <photo_reference>CoQBcwAAAFNvqyw5o9hdcAlcGzz423rnT6a3JhdE6LCmfG3gUESU2MwwBNlJ3iLR_5AoBWWh3_Xr6rQ2dhBYDnYS7RQh4u03yHTqIALjwyBKGo9z-At8n4U-CENctXqEbQrPYI78wowVER13yo4Zugv-D-7xjFU6KpktmFPGNi0_5ow-cyuOEhD3J8pCQXxJvSVPi6vX2FZFGhSVaSJ-tmXAgdCprlJamGRSA1SOkw</photo_reference>
    <width>3840</width>
    <height>2160</height>
-   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/107958259135711194844/photos&quot;&gt;Bal·zs Fodor&lt;/a&gt;</html_attribution>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/107958259135711194844/photos&quot;&gt;Bal?zs Fodor&lt;/a&gt;</html_attribution>
   </photo>
   <place_id>ChIJ3yKsR1FkjEcRIpuYmmtbIq0</place_id>
  </result>
@@ -1114,10 +1114,10 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Haute …cole PÈdagogique BEJUNE</name>
+  <name>Haute ?cole P?dagogique BEJUNE</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Route de Moutier 14, 2800 DelÈmont, Switzerland</formatted_address>
+  <formatted_address>Route de Moutier 14, 2800 Del?mont, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.3625572</lat>
@@ -1135,7 +1135,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>P‰dagogische Hochschule (PH)</name>
+  <name>P?dagogische Hochschule (PH)</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>Rue de Morat 36, 1700 Fribourg, Switzerland</formatted_address>
@@ -1166,7 +1166,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Haute Ècole pÈdagogique du canton de Vaud</name>
+  <name>Haute ?cole p?dagogique du canton de Vaud</name>
   <type>university</type>
   <type>point_of_interest</type>
   <type>establishment</type>
@@ -1194,7 +1194,7 @@
    <photo_reference>CoQBcwAAAHdlh88z3DRXZCbiL-jxhj7dNubr-5SwY7kNOHEV7soLUV1SE8al6TxPmkn11P1q0xZZBBajsOzGstySOnX-6u0brF4tbB4Syc7Rd_T2k6PmyjdXUacBvwh1mCns71GaoRjCOE33A2UtEdG6MkgO0SZevTxCI54pV2d5WRUaxcVJEhCzZhZh2QhygKP8ASMsoU8TGhQ4cxL8BeeMIrIqy4NAn3n9h9n55w</photo_reference>
    <width>2048</width>
    <height>1305</height>
-   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/105442847659123589017/photos&quot;&gt;Haute Ècole pÈdagogique du canton de Vaud&lt;/a&gt;</html_attribution>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/105442847659123589017/photos&quot;&gt;Haute ?cole p?dagogique du canton de Vaud&lt;/a&gt;</html_attribution>
   </photo>
   <place_id>ChIJ2T1xp9YvjEcRCAewNdCIey0</place_id>
  </result>
@@ -1208,7 +1208,7 @@
   <type>university</type>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Route de Moutier 14, 2800 DelÈmont, Switzerland</formatted_address>
+  <formatted_address>Route de Moutier 14, 2800 Del?mont, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.3625918</lat>
@@ -1280,10 +1280,10 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Interkantonale Hochschule f¸r Heilp‰dagogik (HfH)</name>
+  <name>Interkantonale Hochschule f?r Heilp?dagogik (HfH)</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Schaffhauserstrasse 239, 8057 Z¸rich, Switzerland</formatted_address>
+  <formatted_address>Schaffhauserstrasse 239, 8057 Z?rich, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.4032152</lat>
@@ -1307,7 +1307,7 @@
    <photo_reference>CoQBcwAAAF7rQijcYUC1hePctfqgbqBKu07mX5v0T5wMAuLDPjTsKsefAugj9_p9Ah5NRFKV8phDotYDwEh1fR5pKTNg-R7uxaGYEwwvHpZlgLmuxnJA8WtKN5ZPimnn2tKBkde7yt38oCevC4ZDMkZGhjDmVQ-P_xiahscoVxUxh613PfMlEhCxUluK3OYCbOvd3RvEU90OGhRgi_4R0Y4iUCitalcOpvSGZmr6ew</photo_reference>
    <width>1366</width>
    <height>2048</height>
-   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/101104465586200623060/photos&quot;&gt;Interkantonale Hochschule f¸r Heilp‰dagogik (HfH)&lt;/a&gt;</html_attribution>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/101104465586200623060/photos&quot;&gt;Interkantonale Hochschule f?r Heilp?dagogik (HfH)&lt;/a&gt;</html_attribution>
   </photo>
   <place_id>ChIJJ12QjX4KkEcRxktlnhgJZIs</place_id>
  </result>
@@ -1357,11 +1357,11 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>LíInstitut de hautes Ètudes internationales et du dÈveloppement</name>
+  <name>L?Institut de hautes ?tudes internationales et du d?veloppement</name>
   <type>university</type>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Maison de la Paix, Chemin EugËne-Rigot 2, 1202 GenËve, Switzerland</formatted_address>
+  <formatted_address>Maison de la Paix, Chemin Eug?ne-Rigot 2, 1202 Gen?ve, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.2209163</lat>
@@ -1396,7 +1396,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Institut f¸r Kulturforschung Graub¸nden</name>
+  <name>Institut f?r Kulturforschung Graub?nden</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>Reichsgasse 10, 7000 Chur, Switzerland</formatted_address>
@@ -1535,7 +1535,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Institut universitaire romand de santÈ au travail</name>
+  <name>Institut universitaire romand de sant? au travail</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>Route de la Corniche 2, 1066 Epalinges, Switzerland</formatted_address>
@@ -1566,7 +1566,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Institut Universitaire Kurt Bˆsch (IUKB)</name>
+  <name>Institut Universitaire Kurt B?sch (IUKB)</name>
   <type>university</type>
   <type>point_of_interest</type>
   <type>establishment</type>
@@ -1744,7 +1744,7 @@
    <photo_reference>CoQBdwAAAOIxvybETnWf7FpeDX6KGlOiByhn5iFgMqH0-fFHWOF-_0Uqu1QNRAyHgDf2_6H64NWDTMyKaLmVxkKbSHM9jYwvwJGWzuIY0hNc4hNlAWK6kWKoiLTA_39a4hnDblOmTw5BV1rvMAEw1RwDMKvWeMUp1ZP0kEJ0fGK2sr6I6vWiEhDVp8WFxF6fL0ggaJ6TT_YzGhTHPXbkjhS26ml-Y3K9M6WUoVrVcw</photo_reference>
    <width>4032</width>
    <height>3024</height>
-   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/110086193069434129086/photos&quot;&gt;Sven Mˆller&lt;/a&gt;</html_attribution>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/110086193069434129086/photos&quot;&gt;Sven M?ller&lt;/a&gt;</html_attribution>
   </photo>
   <place_id>ChIJS3qhAp_7j0cRrdH8IQzvZFE</place_id>
  </result>
@@ -1752,13 +1752,18 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
 <PlaceSearchResponse>
+ <status>ZERO_RESULTS</status>
+</PlaceSearchResponse>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>University of Neuch‚tel</name>
+  <name>University of Neuch?tel</name>
   <type>university</type>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Av. du 1er-Mars 26, 2000 Neuch‚tel, Switzerland</formatted_address>
+  <formatted_address>Av. du 1er-Mars 26, 2000 Neuch?tel, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.9938549</lat>
@@ -1793,7 +1798,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>P‰dagogische Hochschule PHBern</name>
+  <name>P?dagogische Hochschule PHBern</name>
   <type>university</type>
   <type>point_of_interest</type>
   <type>establishment</type>
@@ -1826,7 +1831,7 @@
   <place_id>ChIJXf_LrKE5jkcRflRxU18QSGY</place_id>
  </result>
  <result>
-  <name>Institut f¸r Weiterbildung und Medienbildung</name>
+  <name>Institut f?r Weiterbildung und Medienbildung</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>Helvetiapl. 2, 3005 Bern, Switzerland</formatted_address>
@@ -1860,7 +1865,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Fachhochschule Nordwestschweiz P‰dagogische Hochschule Bibliothek</name>
+  <name>Fachhochschule Nordwestschweiz P?dagogische Hochschule Bibliothek</name>
   <type>library</type>
   <type>point_of_interest</type>
   <type>establishment</type>
@@ -1890,7 +1895,7 @@
   <place_id>ChIJg0pIAFvKkUcR6FdK1YcZdTw</place_id>
  </result>
  <result>
-  <name>Bibliothek der P‰dagogischen Hochschule FHNW</name>
+  <name>Bibliothek der P?dagogischen Hochschule FHNW</name>
   <type>library</type>
   <type>point_of_interest</type>
   <type>establishment</type>
@@ -1921,7 +1926,7 @@
    <photo_reference>CoQBcwAAAI42MIh2jvs6sWW1mSaastPqAKQu6K955PgvVl3SDa-BQOQZyCa1iDbr_uF2rzgBhN7EEk7aMpVmSoXkeF6ublmoI9STA73_Rr_vSh5J1-Uh3vIA0pR1u5577GhSf1eEwJOKqmXUbpXA8YUyWtxDhiSwuHhSDqm6vVd0Xh6CqmbhEhBV4ffcsQFhw-5tPZHL9RxgGhRFfW8AMKdz0RViCEne0528lJeuzA</photo_reference>
    <width>574</width>
    <height>574</height>
-   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/106113563710646100592/photos&quot;&gt;Bibliothek der P‰dagogischen Hochschule FHNW&lt;/a&gt;</html_attribution>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/106113563710646100592/photos&quot;&gt;Bibliothek der P?dagogischen Hochschule FHNW&lt;/a&gt;</html_attribution>
   </photo>
   <place_id>ChIJ28Ko_PDXkUcRTdYBqW9PZ9c</place_id>
  </result>
@@ -1966,11 +1971,11 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>P‰dagogische Hochschule Graub¸nden (PHGR)</name>
+  <name>P?dagogische Hochschule Graub?nden (PHGR)</name>
   <type>university</type>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Scal‰rastrasse 17, 7000 Chur, Switzerland</formatted_address>
+  <formatted_address>Scal?rastrasse 17, 7000 Chur, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.8669842</lat>
@@ -2039,7 +2044,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>P‰dagogische Hochschule St. Gallen</name>
+  <name>P?dagogische Hochschule St. Gallen</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>Notkerstrasse 27, 9000 St. Gallen, Switzerland</formatted_address>
@@ -2070,7 +2075,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>P‰dagogische Hochschule Schaffhausen (PHSH)</name>
+  <name>P?dagogische Hochschule Schaffhausen (PHSH)</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>Ebnatstrasse 80, 8200 Schaffhausen, Switzerland</formatted_address>
@@ -2101,7 +2106,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>P‰dagogische Hochschule Schwyz</name>
+  <name>P?dagogische Hochschule Schwyz</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>Zaystrasse 42, 6410 Goldau, Switzerland</formatted_address>
@@ -2141,7 +2146,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>P‰dagogische Hochschule Thurgau</name>
+  <name>P?dagogische Hochschule Thurgau</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>Unterer Schulweg 3, 8280 Kreuzlingen, Switzerland</formatted_address>
@@ -2183,11 +2188,11 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>P‰dagogische Hochschule Z¸rich</name>
+  <name>P?dagogische Hochschule Z?rich</name>
   <type>university</type>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Lagerstrasse 2, 8090 Z¸rich, Switzerland</formatted_address>
+  <formatted_address>Lagerstrasse 2, 8090 Z?rich, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.3776241</lat>
@@ -2214,7 +2219,7 @@
    <photo_reference>CoQBcwAAABph6N9CN-0dqH3DThtOJt9I5sxcvTAnDazMvEAMDtslZd5K-TN13wWEOwbyYcOiUTROGBOGy4XVi9-F3jMU-gr2y9a9FOAAtgqWZ-AAKzbJjBby1Hp8T3dk-ekwkhMoH-W43KbE9oc6hOdq8fdmZgToJDveBQMnjR1T9Yc6gdd_EhDt81e34O6fh7--X1JrmQKhGhRTgE3IK_SqWXEE7u-7V16XqxpGDw</photo_reference>
    <width>5616</width>
    <height>3102</height>
-   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/105906710950521748873/photos&quot;&gt;P‰dagogische Hochschule Z¸rich&lt;/a&gt;</html_attribution>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/105906710950521748873/photos&quot;&gt;P?dagogische Hochschule Z?rich&lt;/a&gt;</html_attribution>
   </photo>
   <place_id>ChIJTythk66gmkcRuOvvXWxmIA8</place_id>
  </result>
@@ -2224,7 +2229,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>P‰dagogische Hochschule Zug</name>
+  <name>P?dagogische Hochschule Zug</name>
   <type>university</type>
   <type>point_of_interest</type>
   <type>establishment</type>
@@ -2370,7 +2375,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Schweizer Hochschule f¸r Logop‰die Rorschach</name>
+  <name>Schweizer Hochschule f?r Logop?die Rorschach</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>Seminarstrasse 27, 9400 Rorschach, Switzerland</formatted_address>
@@ -2435,7 +2440,7 @@
   <name>Institute Suisse De Bioinformatique (Isb)</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Rue Michel-Servet 1, 1206 GenËve, Switzerland</formatted_address>
+  <formatted_address>Rue Michel-Servet 1, 1206 Gen?ve, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.1935442</lat>
@@ -2463,10 +2468,10 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Stiftung Schweizerisches Institut f¸r Kunstwissenschaft</name>
+  <name>Stiftung Schweizerisches Institut f?r Kunstwissenschaft</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Zollikerstrasse 32, 8032 Z¸rich, Switzerland</formatted_address>
+  <formatted_address>Zollikerstrasse 32, 8032 Z?rich, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.3624920</lat>
@@ -2503,7 +2508,7 @@
   <name>Schweizer Paraplegiker-Forschung AG</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Guido A. Z‰ch Str. 4, 6207 Nottwil, Switzerland</formatted_address>
+  <formatted_address>Guido A. Z?ch Str. 4, 6207 Nottwil, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.1399843</lat>
@@ -2590,7 +2595,7 @@
   <place_id>ChIJa9ruCZgyhEcRKBxQF-sal_s</place_id>
  </result>
  <result>
-  <name>Universit‡ della Svizzera italiana</name>
+  <name>Universit? della Svizzera italiana</name>
   <type>university</type>
   <type>point_of_interest</type>
   <type>establishment</type>
@@ -2629,7 +2634,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Universit‡ della Svizzera italiana</name>
+  <name>Universit? della Svizzera italiana</name>
   <type>university</type>
   <type>point_of_interest</type>
   <type>establishment</type>
@@ -2682,7 +2687,7 @@
   <type>university</type>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>R‰mistrasse 71, 8006 Z¸rich, Switzerland</formatted_address>
+  <formatted_address>R?mistrasse 71, 8006 Z?rich, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.3743221</lat>
@@ -2707,7 +2712,7 @@
    <photo_reference>CoQBcwAAAL_IKLg3a7uhVTIdWZrOpy-7p9nDtS4eiDX2JxoLKY5BtQjKiIwWDrVPpBpv4UzmJHzt8KVTub2aYWqicblrQRLjfsbAYDa1AlCFdctYL_sXwIZbZb2L9dQ0K5ds5rz-ehbXvHYo8TIa51oHLDIHuhS6uzb0oFn4dSxR-61e1G6DEhDlFlqBlJg1uTuteVR6r3JVGhTYlkKvPKqevzADirNygTw3OyvYKQ</photo_reference>
    <width>1772</width>
    <height>1071</height>
-   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/100717325153424508580/photos&quot;&gt;Universit‰t Z¸rich&lt;/a&gt;</html_attribution>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/100717325153424508580/photos&quot;&gt;Universit?t Z?rich&lt;/a&gt;</html_attribution>
   </photo>
   <place_id>ChIJi4WVWJ-gmkcRz9p-0FL6ULo</place_id>
  </result>
@@ -2836,7 +2841,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Biozentrum der Universit√§t Basel</name>
+  <name>Biozentrum der Universit‰t Basel</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>Klingelbergstrasse 70, 4056 Basel, Switzerland</formatted_address>
@@ -2863,7 +2868,7 @@
    <photo_reference>CoQBcwAAAIJmnUMlaIKEq7kRTwiyIExMkoqC9xrVykL0EkKxfbOaAfFuTUy5GEQ5euWid4rEhtNHWsGekA5igJUoPJYBwsbbOzoBRx7JZuBrufZBLIPukVD6iCERTL03xaBOga75f2iXyoD1XC22nrwNAHZF8ILwqQjKshXIAnd2cIq00TDMEhDzTnrAfHj-08Z_zo9SNZI5GhT89AGl5IUZP4IwwqwPnEfarjXlWw</photo_reference>
    <width>738</width>
    <height>330</height>
-   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/111832716604554535764/photos&quot;&gt;Biozentrum der Universit√§t Basel&lt;/a&gt;</html_attribution>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/111832716604554535764/photos&quot;&gt;Biozentrum der Universit‰t Basel&lt;/a&gt;</html_attribution>
   </photo>
   <place_id>ChIJ3_hdEwi5kUcRdBqvEfmNC4U</place_id>
  </result>
@@ -2947,7 +2952,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Biozentrum der Universit√§t Basel</name>
+  <name>Biozentrum der Universit‰t Basel</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>Klingelbergstrasse 70, 4056 Basel, Switzerland</formatted_address>
@@ -2974,7 +2979,7 @@
    <photo_reference>CoQBcwAAANhtQFWKutyB8ilVK51deqBEn6cIcfWPpMzQtJex2CO5u4UBUVlonnF07mPcGbRgi-Fx3luVoQlrsJM_pNahwo4bW45VB8GHHtgpgidV4-Wvn4SLNzqWJYtk4DIM-PFyPskz2NqpQD5tdjKeJKw05XFUzH50FdGjWGzvekzIvfNKEhCxME6Mcj3lwTjk6Z47KjbPGhTDWiO7ruaSp6LTOCxF6gxBUZxWIg</photo_reference>
    <width>738</width>
    <height>330</height>
-   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/111832716604554535764/photos&quot;&gt;Biozentrum der Universit√§t Basel&lt;/a&gt;</html_attribution>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/111832716604554535764/photos&quot;&gt;Biozentrum der Universit‰t Basel&lt;/a&gt;</html_attribution>
   </photo>
   <place_id>ChIJ3_hdEwi5kUcRdBqvEfmNC4U</place_id>
  </result>
@@ -3527,7 +3532,7 @@
    <photo_reference>CoQBdwAAAJmdkEwcmWr0SVAU0ce3kfB_P_chDRXrv0zd3VjtSyDc5FDGqBHuJdH1nK_OVyNyAjjSx1eVe0IacpkrRakk8kwiDQr3A5mj-nRnCTvkxryAuvs60b7SaISF7Ng4LEP4a9lElq8j5_jwK4xADJkw0DZ16_N910wOXpXoNCr39YRTEhAQWOkzpqplNqz-8kr7I1OoGhTTzLtfgT2vbbPmK9sn8v2CJK69MA</photo_reference>
    <width>1080</width>
    <height>720</height>
-   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/102550732352784644522/photos&quot;&gt;Mikl√≥s Friss&lt;/a&gt;</html_attribution>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/102550732352784644522/photos&quot;&gt;MiklÛs Friss&lt;/a&gt;</html_attribution>
   </photo>
   <place_id>ChIJxa4F4GzcQUcRkTg_tMC6FW4</place_id>
  </result>
@@ -3696,7 +3701,7 @@
    <photo_reference>CoQBcwAAABFa9SHF202RHfVh4yl3ONErT0ou2nl1MrXneBYvbZk5oiW9JMabyg_FuU3azwa4DV-jhgavvSa45rq5bR_cafkENwNsEFwfSwGKOmFj5Ar_wdSMQSLt0xLyttltIFobNy8W9mgPU87mGYgr_Uu4ixJomvrzpO6_y67zaRUbLi69EhBLwJe3amCJOLQ21miGXDNPGhSKINd7HvJlsx3_WfxHvfVK7i-mYQ</photo_reference>
    <width>5472</width>
    <height>3648</height>
-   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/106255866708063119302/photos&quot;&gt;–ê–Ω—Ç–æ–Ω –§–æ–º–∏–Ω&lt;/a&gt;</html_attribution>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/106255866708063119302/photos&quot;&gt;????? ?????&lt;/a&gt;</html_attribution>
   </photo>
   <place_id>ChIJQ3Ip2mCTkkYRxt5qEEBjqMA</place_id>
  </result>
@@ -3781,10 +3786,10 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Amt f√ºr Arch√§ologie</name>
+  <name>Amt f¸r Arch‰ologie</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Schlossm√ºhlestrasse 15, 8510 Frauenfeld Kant. Verwaltung, Switzerland</formatted_address>
+  <formatted_address>Schlossm¸hlestrasse 15, 8510 Frauenfeld Kant. Verwaltung, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.5534296</lat>
@@ -3811,7 +3816,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Baudirektion Kanton Z√ºrich</name>
+  <name>Baudirektion Kanton Z¸rich</name>
   <type>general_contractor</type>
   <type>point_of_interest</type>
   <type>establishment</type>
@@ -3838,10 +3843,10 @@
   <place_id>ChIJcQV820YGkEcRReiwDikh550</place_id>
  </result>
  <result>
-  <name>Kantonale Verwaltung ARV Amt f√ºr Raumordnung und Vermessung</name>
+  <name>Kantonale Verwaltung ARV Amt f¸r Raumordnung und Vermessung</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Stampfenbachstrasse 14, 8001 Z√ºrich, Switzerland</formatted_address>
+  <formatted_address>Stampfenbachstrasse 14, 8001 Z¸rich, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.3784586</lat>
@@ -3864,10 +3869,10 @@
   <place_id>ChIJk6Z5KQgKkEcR9Hxui6hMHXM</place_id>
  </result>
  <result>
-  <name>Baudirektion Kanton Z√ºrich</name>
+  <name>Baudirektion Kanton Z¸rich</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Postadresse: Postfach, 8090 Z√ºrich, Walchepl. 2, 8001 Z√ºrich, Switzerland</formatted_address>
+  <formatted_address>Postadresse: Postfach, 8090 Z¸rich, Walchepl. 2, 8001 Z¸rich, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.3787288</lat>
@@ -3890,7 +3895,7 @@
   <place_id>ChIJi4tIKAgKkEcRCpJ1FVOP_Ig</place_id>
  </result>
  <result>
-  <name>Amt f√ºr Raumplanung</name>
+  <name>Amt f¸r Raumplanung</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>Aabachstrasse 5, 6300 Zug, Switzerland</formatted_address>
@@ -3916,10 +3921,10 @@
   <place_id>ChIJFZkyHV-qmkcRXLisb7B3VAw</place_id>
  </result>
  <result>
-  <name>Baudirektion Kanton Z√ºrich - Hochbauamt</name>
+  <name>Baudirektion Kanton Z¸rich - Hochbauamt</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Stampfenbachstrasse 110, 8090 Z√ºrich, Switzerland</formatted_address>
+  <formatted_address>Stampfenbachstrasse 110, 8090 Z¸rich, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.3836834</lat>
@@ -3951,7 +3956,7 @@
   <name>Kantonale Verwaltung Denkmalpflege</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Stettbachstrasse 7, 8600 D√ºbendorf, Switzerland</formatted_address>
+  <formatted_address>Stettbachstrasse 7, 8600 D¸bendorf, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.3945342</lat>
@@ -3978,11 +3983,11 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Amt f√ºr St√§dtebau</name>
+  <name>Amt f¸r St‰dtebau</name>
   <type>local_government_office</type>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Lindenhofstrasse 19, 8021 Z√ºrich, Switzerland</formatted_address>
+  <formatted_address>Lindenhofstrasse 19, 8021 Z¸rich, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.3742070</lat>
@@ -4009,7 +4014,7 @@
    <photo_reference>CoQBdwAAAOl4qKRbgfAjUZ7tymPjvI0t-3R5vhs5OPMpazsgbyLsKbSKiypZkjNNZouIoiIMXgJGbLu5eN_VqlGwBoxe3o7ijFt609JdfQQZjqwrKQqfSQRbOB0XhdLEGDnY0x6agN0g3RHtt3AX2Yg4PYMi0DJi42OzPozVhUzLMaNmGiPoEhCfsrozJPeDK4cMtqV4WCYZGhRmlYR7iGEs6Cj3MTLFTkln2J3fFw</photo_reference>
    <width>2362</width>
    <height>1577</height>
-   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/100970997437775282294/photos&quot;&gt;Amt f√ºr St√§dtebau&lt;/a&gt;</html_attribution>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/100970997437775282294/photos&quot;&gt;Amt f¸r St‰dtebau&lt;/a&gt;</html_attribution>
   </photo>
   <place_id>ChIJxdy2qQcKkEcRC__RvU8YcsE</place_id>
  </result>
@@ -4066,7 +4071,7 @@
   <name>Appellationsgericht Basel-Stadt</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>B√§umleingasse 1, 4051 Basel, Switzerland</formatted_address>
+  <formatted_address>B‰umleingasse 1, 4051 Basel, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.5549206</lat>
@@ -4097,11 +4102,11 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Arbeitsgemeinschaft zur F√∂rderung des Futterbaus AGFF</name>
+  <name>Arbeitsgemeinschaft zur Fˆrderung des Futterbaus AGFF</name>
   <type>food</type>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Reckenholzstrasse 191, 8046 Z√ºrich, Switzerland</formatted_address>
+  <formatted_address>Reckenholzstrasse 191, 8046 Z¸rich, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.4289180</lat>
@@ -4165,7 +4170,7 @@
   <name>Arche Literatur Verlag AG</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Heinrichstrasse 249, 8005 Z√ºrich, Switzerland</formatted_address>
+  <formatted_address>Heinrichstrasse 249, 8005 Z¸rich, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.3882756</lat>
@@ -4191,7 +4196,7 @@
   <name>Arche Kalender Verlag GmbH</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Niederdorfstrasse 90, 8001 Z√ºrich, Switzerland</formatted_address>
+  <formatted_address>Niederdorfstrasse 90, 8001 Z¸rich, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.3763446</lat>
@@ -4316,7 +4321,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Archiv f√ºr Agrargeschichte</name>
+  <name>Archiv f¸r Agrargeschichte</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>Villettemattstrasse 9, 3007 Bern, Switzerland</formatted_address>
@@ -4348,7 +4353,7 @@
   <name>Archives d'Etat</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Rue de l'HÙtel-de-Ville 1, 1204 GenËve, Switzerland</formatted_address>
+  <formatted_address>Rue de l'H?tel-de-Ville 1, 1204 Gen?ve, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.2011326</lat>
@@ -4384,7 +4389,7 @@
   <name>Archives d'Etat</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Rue de l'HÙtel-de-Ville 1, 1204 GenËve, Switzerland</formatted_address>
+  <formatted_address>Rue de l'H?tel-de-Ville 1, 1204 Gen?ve, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.2011326</lat>
@@ -4450,10 +4455,10 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Archives de l'…tat de Neuch‚tel</name>
+  <name>Archives de l'?tat de Neuch?tel</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Rue de la CollÈgiale 12, Ch‚teau, 2000 Neuch‚tel, Switzerland</formatted_address>
+  <formatted_address>Rue de la Coll?giale 12, Ch?teau, 2000 Neuch?tel, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.9921498</lat>
@@ -4489,10 +4494,10 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>du VÈnÈrable Chapitre</name>
+  <name>du V?n?rable Chapitre</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Place de la CathÈdrale 1, 1950 Sion, Switzerland</formatted_address>
+  <formatted_address>Place de la Cath?drale 1, 1950 Sion, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.2338415</lat>
@@ -4550,7 +4555,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Arch‰ologie Schweiz</name>
+  <name>Arch?ologie Schweiz</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>Petersgraben 51, 4051 Basel, Switzerland</formatted_address>
@@ -4584,7 +4589,7 @@
   <type>museum</type>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Museumstrasse 2, 8001 Z¸rich, Switzerland</formatted_address>
+  <formatted_address>Museumstrasse 2, 8001 Z?rich, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.3790558</lat>
@@ -4630,7 +4635,7 @@
   <type>place_of_worship</type>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>7537 M¸stair, Switzerland</formatted_address>
+  <formatted_address>7537 M?stair, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.6296006</lat>
@@ -4663,10 +4668,10 @@
   <place_id>ChIJxRRXeIgXg0cRAuIMjbok8d8</place_id>
  </result>
  <result>
-  <name>Pro Kloster St. Johann in M¸stair</name>
+  <name>Pro Kloster St. Johann in M?stair</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Via Maistra 18, 7537 M¸nster, Switzerland</formatted_address>
+  <formatted_address>Via Maistra 18, 7537 M?nster, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.6336369</lat>
@@ -4697,7 +4702,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Kantonale Verwaltung Kulturfˆrderung</name>
+  <name>Kantonale Verwaltung Kulturf?rderung</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>Loestrasse 26, 7000 Chur, Switzerland</formatted_address>
@@ -4727,7 +4732,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Kantonale Verwaltung Kulturfˆrderung</name>
+  <name>Kantonale Verwaltung Kulturf?rderung</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>Loestrasse 26, 7000 Chur, Switzerland</formatted_address>
@@ -4812,7 +4817,7 @@
   <type>food</type>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Wartensteinstrasse 22, 7312 Pf‰fers, Switzerland</formatted_address>
+  <formatted_address>Wartensteinstrasse 22, 7312 Pf?fers, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.9939428</lat>
@@ -4887,7 +4892,7 @@
   <type>food</type>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Schlossgass 77, 7414 F¸rstenau, Switzerland</formatted_address>
+  <formatted_address>Schlossgass 77, 7414 F?rstenau, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.7213317</lat>
@@ -5025,10 +5030,10 @@
   <place_id>ChIJRdU-NhxHg0cR80Yl9cbgc-w</place_id>
  </result>
  <result>
-  <name>Schloss Gr¸nenstein</name>
+  <name>Schloss Gr?nenstein</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Gr¸nensteinerstrasse 12, 9436 Balgach, Switzerland</formatted_address>
+  <formatted_address>Gr?nensteinerstrasse 12, 9436 Balgach, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.4060921</lat>
@@ -5082,10 +5087,10 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Arch‰ologischer Dienst des Kantons Bern</name>
+  <name>Arch?ologischer Dienst des Kantons Bern</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Br¸nnenstrasse 66, 3018 Bern, Switzerland</formatted_address>
+  <formatted_address>Br?nnenstrasse 66, 3018 Bern, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.9429836</lat>
@@ -5128,10 +5133,10 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Association Internationale de la SÈcuritÈ Sociale AISS</name>
+  <name>Association Internationale de la S?curit? Sociale AISS</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Route des Morillons 4, 1202 GenËve, Switzerland</formatted_address>
+  <formatted_address>Route des Morillons 4, 1202 Gen?ve, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.2293164</lat>
@@ -5168,7 +5173,7 @@
   <type>finance</type>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>G¸terstrasse 82, 4053 Basel, Switzerland</formatted_address>
+  <formatted_address>G?terstrasse 82, 4053 Basel, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.5463489</lat>
@@ -5272,10 +5277,10 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Baudirektion Kanton Z¸rich</name>
+  <name>Baudirektion Kanton Z?rich</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Postadresse: Postfach, 8090 Z¸rich, Walchepl. 2, 8001 Z¸rich, Switzerland</formatted_address>
+  <formatted_address>Postadresse: Postfach, 8090 Z?rich, Walchepl. 2, 8001 Z?rich, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.3787288</lat>
@@ -5301,7 +5306,7 @@
   <name>Kantonale Verwaltung Denkmalpflege</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Stettbachstrasse 7, 8600 D¸bendorf, Switzerland</formatted_address>
+  <formatted_address>Stettbachstrasse 7, 8600 D?bendorf, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.3945342</lat>
@@ -5406,11 +5411,11 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Staatsarchiv des Kanton Z¸rich</name>
+  <name>Staatsarchiv des Kanton Z?rich</name>
   <type>library</type>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>8057 Z¸rich, Switzerland</formatted_address>
+  <formatted_address>8057 Z?rich, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.3973245</lat>
@@ -5440,7 +5445,7 @@
   <type>library</type>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Papierm¸hlestrasse 21a, 3003 Bern, Switzerland</formatted_address>
+  <formatted_address>Papierm?hlestrasse 21a, 3003 Bern, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.9592388</lat>
@@ -5505,7 +5510,7 @@
    <photo_reference>CoQBcwAAAAwuxEp33ubsZdjpUq5TqGjfOoK0blCj0W8ZE-TGxXmf4jKTnfwZqt_YXbdtWlRcSYtPB67HnC9VcDJ4GQOpAAI91Ntd6rnza977q7cdWaI4dCVfdpGDc2r0utARq4bn8LvHVuETt1re7Eg2alfyyfZne7ALYCbcmeAVZW6qCa2FEhBRbQFT4XjAK4EtYcKYsPBVGhRUJ84QQyL1DltQCQXGBMZ9siZcMg</photo_reference>
    <width>598</width>
    <height>599</height>
-   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/102965650911177634537/photos&quot;&gt;BibliothËque cantonale et universitaire - Lausanne&lt;/a&gt;</html_attribution>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/102965650911177634537/photos&quot;&gt;Biblioth?que cantonale et universitaire - Lausanne&lt;/a&gt;</html_attribution>
   </photo>
   <place_id>ChIJL1blCDEujEcRrSTuhxnJ9oM</place_id>
  </result>
@@ -5565,7 +5570,7 @@
    <photo_reference>CoQBcwAAAGOyoxtZdQ9_2NenoNpERmllE6LgStRrS0H7GNjDXEaO36oWi0X0IOCeNaxjbwGPFAIubB76dFNScFFqHcbB3UoKxIk8Redi6qPu4zlkq8GHwWp7DgMuCC7hAu8fSiobZ30FVqwRHCU-dXnbg4L_5JOvV7cL-YzHrTMC0acBq5CKEhBsxNwtjXB-XXsIoVVacChoGhTdZvA9-8BZvQQDbnYhFHPUVlJXww</photo_reference>
    <width>598</width>
    <height>599</height>
-   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/102965650911177634537/photos&quot;&gt;BibliothËque cantonale et universitaire - Lausanne&lt;/a&gt;</html_attribution>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/102965650911177634537/photos&quot;&gt;Biblioth?que cantonale et universitaire - Lausanne&lt;/a&gt;</html_attribution>
   </photo>
   <place_id>ChIJL1blCDEujEcRrSTuhxnJ9oM</place_id>
  </result>
@@ -5574,11 +5579,11 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>BibliothËque de GenËve</name>
+  <name>Biblioth?que de Gen?ve</name>
   <type>library</type>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Prom. des Bastions 1, 1211 GenËve, Switzerland</formatted_address>
+  <formatted_address>Prom. des Bastions 1, 1211 Gen?ve, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.1988398</lat>
@@ -5605,7 +5610,7 @@
    <photo_reference>CoQBcwAAAKDXUPox3hXgIp_AcNi2azCf5N4GijEm-P7UChM-dF7JD9GvVXxJ74tt9boKJ5VsBxboWAbTOxVZuL6-tK9n4-onQ428FdbHImqOZsSiCmxuVyLPk9aLtL1_LjTGT3ISEr2JKsgV4-dIwmnxFxrgPTG6Jc0p_elZ9TITjTXbcqtGEhCjh0TvqpcL045__itOkpV0GhSDkN3D2eZ3Vb6hVF1VgT68CleNxg</photo_reference>
    <width>4896</width>
    <height>3672</height>
-   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/113230323113610737697/photos&quot;&gt;JosÈ Otavio Baldinato&lt;/a&gt;</html_attribution>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/113230323113610737697/photos&quot;&gt;Jos? Otavio Baldinato&lt;/a&gt;</html_attribution>
   </photo>
   <place_id>ChIJ7d-efitljEcR72qhtiF6JRA</place_id>
  </result>
@@ -5614,11 +5619,11 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>BibliothËque de GenËve</name>
+  <name>Biblioth?que de Gen?ve</name>
   <type>library</type>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Prom. des Bastions 1, 1211 GenËve, Switzerland</formatted_address>
+  <formatted_address>Prom. des Bastions 1, 1211 Gen?ve, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.1988398</lat>
@@ -5645,17 +5650,17 @@
    <photo_reference>CoQBcwAAAIRDTC4ghVUI1CHUa_yHftf1jL0SOO4IixWQnvUvhef7hEsu1fSAIi0VpfGRfuOaJIWg8JszMyZnfbDy2j1nJiMd_jV1DxuQX2NOzhZ6fb2CHbOSmvP-F2nXA3M3HPUj2A64vpsYzptv7LEu_bycZN8TQIXqKv8EyL15msdqnXekEhBWUj2QG_CRHqfoF4UCZf9gGhSskCBhsQg8u93eu4RKufGna8M6xA</photo_reference>
    <width>4896</width>
    <height>3672</height>
-   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/113230323113610737697/photos&quot;&gt;JosÈ Otavio Baldinato&lt;/a&gt;</html_attribution>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/113230323113610737697/photos&quot;&gt;Jos? Otavio Baldinato&lt;/a&gt;</html_attribution>
   </photo>
   <place_id>ChIJ7d-efitljEcR72qhtiF6JRA</place_id>
  </result>
  <result>
-  <name>BibliothËque publique et universitaire de Neuch‚tel</name>
+  <name>Biblioth?que publique et universitaire de Neuch?tel</name>
   <type>university</type>
   <type>library</type>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Place Numa-Droz 3, 2000 Neuch‚tel, Switzerland</formatted_address>
+  <formatted_address>Place Numa-Droz 3, 2000 Neuch?tel, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.9901270</lat>
@@ -5692,10 +5697,10 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Bildungsdirektion Kanton Z¸rich - Bildungsplanung</name>
+  <name>Bildungsdirektion Kanton Z?rich - Bildungsplanung</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>8090, Walchepl. 2, 8001 Z¸rich, Switzerland</formatted_address>
+  <formatted_address>8090, Walchepl. 2, 8001 Z?rich, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.3788391</lat>
@@ -5719,7 +5724,7 @@
    <photo_reference>CoQBdwAAACmmVtY36PdxIY7PixtfCYSjVgAA-SZTr2cF-J7ZpmPjjjwQ4ULX-Qgn_O9rsdXAC799R39-Z2HT_8qpCXiXKX6guL1OlfFHxPkdeNIs_7XAvvkpjGPJ_iEcVd7mLrjRpk3eCqTSMvmNxG4fPkaAyUQJIwzVaafjcK9siQjDgUZYEhBsZ82M85eHIrTMQoH0M1GYGhTKastY6IASV7z_WOrsFsxrNwthPw</photo_reference>
    <width>1024</width>
    <height>680</height>
-   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/114116386102341816613/photos&quot;&gt;Bildungsdirektion Kanton Z¸rich - Bildungsplanung&lt;/a&gt;</html_attribution>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/114116386102341816613/photos&quot;&gt;Bildungsdirektion Kanton Z?rich - Bildungsplanung&lt;/a&gt;</html_attribution>
   </photo>
   <place_id>ChIJzW_ZFQkKkEcRkqQ00S2lzxY</place_id>
  </result>
@@ -5732,7 +5737,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Bundesamt f¸r Justiz</name>
+  <name>Bundesamt f?r Justiz</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>Adenauerallee 99 -103, 53113 Bonn, Germany</formatted_address>
@@ -5769,7 +5774,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Bundesamt f¸r Kultur</name>
+  <name>Bundesamt f?r Kultur</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>Hallwylstrasse 15, 3005 Bern, Switzerland</formatted_address>
@@ -5799,7 +5804,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Bundesamt f¸r Landestopographie swisstopo</name>
+  <name>Bundesamt f?r Landestopographie swisstopo</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>Seftigenstrasse 264, 3084 Wabern, Switzerland</formatted_address>
@@ -5833,11 +5838,11 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Bundesanstalt f¸r Landwirtschaft u. Ern‰hrung</name>
+  <name>Bundesanstalt f?r Landwirtschaft u. Ern?hrung</name>
   <type>finance</type>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Marktstraﬂe 10, 50968 Kˆln, Germany</formatted_address>
+  <formatted_address>Marktstra?e 10, 50968 K?ln, Germany</formatted_address>
   <geometry>
    <location>
     <lat>50.9116647</lat>
@@ -5860,7 +5865,7 @@
   <place_id>ChIJ14GvTUAkv0cRjHQmjRpdG6g</place_id>
  </result>
  <result>
-  <name>Bundesanstalt f¸r Landwirtschaft und Ern‰hrung (BLE)</name>
+  <name>Bundesanstalt f?r Landwirtschaft und Ern?hrung (BLE)</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>Deichmanns Aue 29, 53179 Bonn, Germany</formatted_address>
@@ -5890,12 +5895,12 @@
    <photo_reference>CoQBdwAAAPoDhu8qKGh7kr8pTETU0JGgZ2NRuaYDjRuXnWCi0qFGrAepBKtGDWdiLutLFbkhbwTSpLoca6ENBdw1H7oDvaeV2XESYQgU5lEoeRSXgVLVl0BfGsKKRBOMxxjqRpkJ3uHR36iWgUx0lDQO3mt0k4Hd2RpF9kdyBrIpuGArTX5LEhASW-YDfV7IH5CQLN5UTBUaGhRDoj42YV1hni99ac6CKqHAz5jugg</photo_reference>
    <width>1111</width>
    <height>1110</height>
-   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/111367171424023129630/photos&quot;&gt;Bundesanstalt f¸r Landwirtschaft und Ern‰hrung (BLE)&lt;/a&gt;</html_attribution>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/111367171424023129630/photos&quot;&gt;Bundesanstalt f?r Landwirtschaft und Ern?hrung (BLE)&lt;/a&gt;</html_attribution>
   </photo>
   <place_id>ChIJKULWE1HkvkcRrUodcBgAwkw</place_id>
  </result>
  <result>
-  <name>Landwirtschaft, Bundesamt f¸r</name>
+  <name>Landwirtschaft, Bundesamt f?r</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>Mattenhofstrasse 5, 3007 Bern, Switzerland</formatted_address>
@@ -5921,7 +5926,7 @@
   <place_id>ChIJWTsL8rA5jkcRfJMWS65cnuo</place_id>
  </result>
  <result>
-  <name>Bundesanstalt f¸r Landwirtschaft und Ern‰hrung</name>
+  <name>Bundesanstalt f?r Landwirtschaft und Ern?hrung</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>August-Baudert-Platz 4, 99423 Weimar, Germany</formatted_address>
@@ -5947,10 +5952,10 @@
   <place_id>ChIJaZ9j4esapEcR6p-7oo_03dc</place_id>
  </result>
  <result>
-  <name>Bundesministerium f¸r Ern‰hrung und Landwirtschaft</name>
+  <name>Bundesministerium f?r Ern?hrung und Landwirtschaft</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Wilhelmstraﬂe 54, 10117 Berlin, Germany</formatted_address>
+  <formatted_address>Wilhelmstra?e 54, 10117 Berlin, Germany</formatted_address>
   <geometry>
    <location>
     <lat>52.5138359</lat>
@@ -5974,7 +5979,7 @@
    <photo_reference>CoQBdwAAAOHRocU9mfFJ6y1fbcLV7juRUM4fWT3Ksc98Dce399gmQ-4sX34DhUzVTpKozJKIqloBor0FV2oznAMW_tMGbIXW0Wr7gpC2fdMeJbYhFkIITbZOLZGDnsnuTiN8YFY_0m2s9xYm6zk3b8sCShlt5UJc4CT5SsgLt8Rwt_urpVntEhAwmZBzbyDzno9Cq_XYV_aOGhSwDU970FVBGvcsQYohj5RxK3sgDQ</photo_reference>
    <width>2816</width>
    <height>2112</height>
-   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/104452066550704699477/photos&quot;&gt;Daniel B¸chner&lt;/a&gt;</html_attribution>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/104452066550704699477/photos&quot;&gt;Daniel B?chner&lt;/a&gt;</html_attribution>
   </photo>
   <place_id>ChIJqa0DksVRqEcRGfxNxww6WSE</place_id>
  </result>
@@ -5983,10 +5988,10 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Bundesamt f¸r Meteorologie und Klimatologie MeteoSchweiz</name>
+  <name>Bundesamt f?r Meteorologie und Klimatologie MeteoSchweiz</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>OperationCenter 1, Frachtstrasse, 8058 Z¸rich, Switzerland</formatted_address>
+  <formatted_address>OperationCenter 1, Frachtstrasse, 8058 Z?rich, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.4540617</lat>
@@ -6014,7 +6019,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Bundesamt f¸r Sozialversicherungen</name>
+  <name>Bundesamt f?r Sozialversicherungen</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>Effingerstrasse 20, 3008 Bern, Switzerland</formatted_address>
@@ -6044,7 +6049,7 @@
    <photo_reference>CoQBcwAAADqsW_xiUBmXUVXzgK-u3dtnAcSXxupVY8Own44w_Gkss6hkkWUaABfJf2f4fu-B0ivZSDuIo2HWdsb7AUj0IepAsgQ2dOL7C9wTAKJlALbIzhNWkjCpFrOTW0ysajd9Odyp5nTTsogF7Jng8Htigk7QM20PgXkTukKY968722qlEhDZ5bPZXl81vFb32pLUOi5HGhRGzREcVikhzEMJHqKNyjhnSZW7XA</photo_reference>
    <width>400</width>
    <height>595</height>
-   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/115297191301236723481/photos&quot;&gt;Bundesamt f¸r Sozialversicherungen&lt;/a&gt;</html_attribution>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/115297191301236723481/photos&quot;&gt;Bundesamt f?r Sozialversicherungen&lt;/a&gt;</html_attribution>
   </photo>
   <place_id>ChIJReQry7s5jkcR9T2lwOIYzuA</place_id>
  </result>
@@ -6053,10 +6058,10 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Bundesamt f¸r Umwelt</name>
+  <name>Bundesamt f?r Umwelt</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Papierm¸hlestrasse 172, 3063 Ittigen, Switzerland</formatted_address>
+  <formatted_address>Papierm?hlestrasse 172, 3063 Ittigen, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.9744460</lat>
@@ -6132,7 +6137,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Bureau de l'ÈgalitÈ entre les femmes et les hommes (BEFH)</name>
+  <name>Bureau de l'?galit? entre les femmes et les hommes (BEFH)</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>Rue Caroline 11, 1003 Lausanne, Switzerland</formatted_address>
@@ -6166,7 +6171,7 @@
   <type>library</type>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>M¸nstergasse 63, 3000 Bern, Switzerland</formatted_address>
+  <formatted_address>M?nstergasse 63, 3000 Bern, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.9473549</lat>
@@ -6193,7 +6198,7 @@
    <photo_reference>CoQBcwAAAAs8Ir-FQb7lNt_81zL5Xpf1su8zJBAGjou6gd_DW7d3cZyIl3OkcTBCvVmNT8dZCco2r4nXb0afbM7eRzHMUURl8ZKxZBIZXREErYehrt0Kj2UHS3ijaGNk9LJZQTRCYRhPRURjribCP1L91pc4vpvZ9t_EtnEoTwP7HZSOHwRLEhCotZx7Gf4HQv_dx1hLi5ANGhSv0lWAus_p0-IK094zOTzfUwWEeQ</photo_reference>
    <width>2048</width>
    <height>1536</height>
-   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/108970324090966364175/photos&quot;&gt;Botond KilyÈn&lt;/a&gt;</html_attribution>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/108970324090966364175/photos&quot;&gt;Botond Kily?n&lt;/a&gt;</html_attribution>
   </photo>
   <place_id>ChIJvcUrBMQ5jkcR3k4m1Kj-M-I</place_id>
  </result>
@@ -6206,7 +6211,7 @@
   <type>library</type>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>M¸nstergasse 63, 3000 Bern, Switzerland</formatted_address>
+  <formatted_address>M?nstergasse 63, 3000 Bern, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.9473549</lat>
@@ -6233,7 +6238,7 @@
    <photo_reference>CoQBcwAAAM0TQklfKpKDwjkP3BXt3c21Jo4g87VgSZk7e_p5mPjtOqiOvVbVn9boEB3ev7JM2qwo3PBqNLrK6q9nxcNpzL8Daa0q73mdin_3E4cPUZNHGnEw7v7Nw6MP_3ElMq3yZQEYXMcvaiojWkctllUBCeXvJILc25dXScPIbpiYRp03EhC_gKpPF7SinT9YWGoMVyH6GhQzBy-nEv_Kp2cridScc0d1XOxDLA</photo_reference>
    <width>2048</width>
    <height>1536</height>
-   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/108970324090966364175/photos&quot;&gt;Botond KilyÈn&lt;/a&gt;</html_attribution>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/108970324090966364175/photos&quot;&gt;Botond Kily?n&lt;/a&gt;</html_attribution>
   </photo>
   <place_id>ChIJvcUrBMQ5jkcR3k4m1Kj-M-I</place_id>
  </result>
@@ -6242,7 +6247,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>B¸ndner Naturmuseum</name>
+  <name>B?ndner Naturmuseum</name>
   <type>museum</type>
   <type>point_of_interest</type>
   <type>establishment</type>
@@ -6273,7 +6278,7 @@
   <place_id>ChIJ5ShpjnfHhEcR9IRutbqQhlU</place_id>
  </result>
  <result>
-  <name>Kantonsbibliothek Graub¸nden</name>
+  <name>Kantonsbibliothek Graub?nden</name>
   <type>library</type>
   <type>point_of_interest</type>
   <type>establishment</type>
@@ -6491,11 +6496,11 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>HÙpital Universitaire de GenËve</name>
+  <name>H?pital Universitaire de Gen?ve</name>
   <type>hospital</type>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Rue Gabrielle-Perret-Gentil 4, 1205 GenËve, Switzerland</formatted_address>
+  <formatted_address>Rue Gabrielle-Perret-Gentil 4, 1205 Gen?ve, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.1935970</lat>
@@ -6528,7 +6533,7 @@
   <name>Campus Biotech</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Chemin des Mines 9, 1202 GenËve, Switzerland</formatted_address>
+  <formatted_address>Chemin des Mines 9, 1202 Gen?ve, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.2222943</lat>
@@ -6557,10 +6562,10 @@
   <place_id>ChIJFzvjoR5ljEcRk75_LhNfOhY</place_id>
  </result>
  <result>
-  <name>Fondation Centre de recherches mÈdicales Carlos et Elsie de Reuter</name>
+  <name>Fondation Centre de recherches m?dicales Carlos et Elsie de Reuter</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Rue Michel-Servet 1, 1206 GenËve, Switzerland</formatted_address>
+  <formatted_address>Rue Michel-Servet 1, 1206 Gen?ve, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.1935442</lat>
@@ -6583,10 +6588,10 @@
   <place_id>ChIJCXjIv816jEcR7IAjp4spqiU</place_id>
  </result>
  <result>
-  <name>NoÍsis</name>
+  <name>No?sis</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Rue des Voisins 30, 1205 GenËve, Switzerland</formatted_address>
+  <formatted_address>Rue des Voisins 30, 1205 Gen?ve, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.1946155</lat>
@@ -6613,7 +6618,7 @@
   <type>general_contractor</type>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Rue du Mont-Blanc 16, 1201 GenËve, Switzerland</formatted_address>
+  <formatted_address>Rue du Mont-Blanc 16, 1201 Gen?ve, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.2080936</lat>
@@ -6665,7 +6670,7 @@
    <photo_reference>CoQBcwAAAOgrb0dI5173IQjxKA6QMcMP65YDiJyZPSyoRHfDsNH2-52z-MElxrF5CEvuBSp6SrWdH0-H7YVpjddz3wcKDRNLxuZfM2omVY29GHD93uS3kQol2iWtSwhLSpc2M8eCnMAA_3BAQxZ-qK3I8yFtyCttJb05YT9Arz_WP7pIUUolEhCJxnD0wIP45pqgAb00hQ3HGhSFxGeaYSiTUVYnH2RswyDrjDwYrQ</photo_reference>
    <width>3840</width>
    <height>2160</height>
-   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/107958259135711194844/photos&quot;&gt;Bal·zs Fodor&lt;/a&gt;</html_attribution>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/107958259135711194844/photos&quot;&gt;Bal?zs Fodor&lt;/a&gt;</html_attribution>
   </photo>
   <place_id>ChIJ3yKsR1FkjEcRIpuYmmtbIq0</place_id>
  </result>
@@ -6689,7 +6694,7 @@
   <name>The Centre for Socio-Eco-Nomic Development (CSEND)</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Place des Alpes 4, 1201 GenËve, Switzerland</formatted_address>
+  <formatted_address>Place des Alpes 4, 1201 Gen?ve, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.2092259</lat>
@@ -6749,7 +6754,7 @@
   <name>Vitrocentre Romont</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Rue du Ch‚teau 108, 1680 Romont, Switzerland</formatted_address>
+  <formatted_address>Rue du Ch?teau 108, 1680 Romont, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.6945866</lat>
@@ -6794,7 +6799,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>CollËge Saint-Michel</name>
+  <name>Coll?ge Saint-Michel</name>
   <type>school</type>
   <type>point_of_interest</type>
   <type>establishment</type>
@@ -6832,7 +6837,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Driving School BÈthusy</name>
+  <name>Driving School B?thusy</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>Avenue de Chailly 23, 1012 Lausanne, Switzerland</formatted_address>
@@ -6852,7 +6857,7 @@
    <photo_reference>CoQBcwAAAGtkYuwn6OMCNEnVZM_RXKKyM2oE6kRwUUHeZwSqYPNzujhMh_Su8wX30nodVpTFgBJDGJv5gGG2Ctzs6dRh4mZQlaqEyLblW6kDIO-654-oeVKx9mNWC6Jw9TkztV_MtG2X0vZQQebNdCARLhOvwsVQ1hb6Q1CGJoJofPRTQlUHEhCjn1HN-6jQq54v3eyeM6ocGhSXl8mVSkI-kG3-ZqJJWGIyek44Hg</photo_reference>
    <width>2048</width>
    <height>1536</height>
-   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/114238966432037703663/photos&quot;&gt;Auto-Moto Ecole BÈthusy&lt;/a&gt;</html_attribution>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/114238966432037703663/photos&quot;&gt;Auto-Moto Ecole B?thusy&lt;/a&gt;</html_attribution>
   </photo>
   <place_id>ChIJGXqeY0kujEcRoh5HGBeWbRw</place_id>
  </result>
@@ -6871,7 +6876,7 @@
   <name>CSRS_CIV</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>CÙte díIvoire</formatted_address>
+  <formatted_address>C?te d?Ivoire</formatted_address>
   <geometry>
    <location>
     <lat>5.3305760</lat>
@@ -7113,7 +7118,7 @@
   <type>place_of_worship</type>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Via NiccolÚ Puccini, 36, Pistoia PT, Italy</formatted_address>
+  <formatted_address>Via Niccol? Puccini, 36, Pistoia PT, Italy</formatted_address>
   <geometry>
    <location>
     <lat>43.9313218</lat>
@@ -7448,7 +7453,7 @@
    <photo_reference>CoQBdwAAAPqLenedJXcZcGbz94kauANlPCcQV_T-oT5GCuqKJt8KeQ3e5FXiYPB0u3AO9RsFfXeANiBZA-KVB88EDGiG9Cg_oZ1ydPv9eYpqfbg1u0MC4yK9IMge_bp3d3FwBH9ym6xf4zwhKfnjTmUnfxG67CVd4vHF7vF3G0bMkWDDGi7GEhBhwdov4SxJiZ9AaYbwZxnLGhTbWQPBx7sHCd_U6IgjDR0LgmZQiQ</photo_reference>
    <width>1952</width>
    <height>2592</height>
-   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/115930452633721591969/photos&quot;&gt;Ivan GamiÒo&lt;/a&gt;</html_attribution>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/115930452633721591969/photos&quot;&gt;Ivan Gami?o&lt;/a&gt;</html_attribution>
   </photo>
   <place_id>ChIJj044XWjlPxMRXeqbqDN-agM</place_id>
  </result>
@@ -7577,7 +7582,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Denkmalpflege und Arch‰ologie</name>
+  <name>Denkmalpflege und Arch?ologie</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>Libellenrain 15, 6002 Luzern, Switzerland</formatted_address>
@@ -7604,7 +7609,7 @@
    <photo_reference>CoQBdwAAAGhZBvM5rkKtRnSWoJhqO61VIMRz7AZAaiZurki3KvndGYp3MWHy2m8ejfnb85V6qC0pdR-y2yOEYpKWOlwE6OmlQ1d4qmmwlXu8UypsjHFMgwQkaO2vEUQXwwcA-zgQn5hECjPshZId5r7ifIhzbBcHvZIzAvikng-0i0Iyr392EhDIbkb8h2XbZ2170sCRS-uVGhQ7FsxJ0_TYthHllLruXHr-T9rNog</photo_reference>
    <width>475</width>
    <height>475</height>
-   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/109675444759349637498/photos&quot;&gt;Denkmalpflege und Arch‰ologie&lt;/a&gt;</html_attribution>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/109675444759349637498/photos&quot;&gt;Denkmalpflege und Arch?ologie&lt;/a&gt;</html_attribution>
   </photo>
   <place_id>ChIJqQ0iBoL7j0cRt4V7cz3pxD8</place_id>
  </result>
@@ -7616,7 +7621,7 @@
   <name>Department Umweltsystemwissenschaften</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Universit‰tstrasse 16, 8006 Z¸rich, Switzerland</formatted_address>
+  <formatted_address>Universit?tstrasse 16, 8006 Z?rich, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.3789505</lat>
@@ -7642,10 +7647,10 @@
   <place_id>ChIJo2Rf8qagmkcRfCblprPv5eE</place_id>
  </result>
  <result>
-  <name>ETH Z¸rich</name>
+  <name>ETH Z?rich</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>R‰mistrasse 101, 8092 Z¸rich, Switzerland</formatted_address>
+  <formatted_address>R?mistrasse 101, 8092 Z?rich, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>47.3763130</lat>
@@ -7679,10 +7684,10 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>Dienststelle f¸r Hochbau, Denkmalpflege und Arch‰o</name>
+  <name>Dienststelle f?r Hochbau, Denkmalpflege und Arch?o</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Rue Saint-ThÈodule 3, 1950 Sion, Switzerland</formatted_address>
+  <formatted_address>Rue Saint-Th?odule 3, 1950 Sion, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.2329704</lat>
@@ -7814,12 +7819,12 @@
    <photo_reference>CoQBcwAAAKeCUMPjrTqFrsi_JjpC9fy6Ofjge6-c_cp0lDFouvteo35lXKxYSJj9aDdC06qj83-HQFFV1PaY90Qck9LuLXE9_nqyYAJuw3Pg3v6Dy16bCJv-MwPuZYR_8s_NOXHu_Wv-bJftJ6NJ8FmgdPEWc9g9A2lDgrAZGY9UG91GB91XEhAtnA_QdzsurYhOtwC7hgSGGhS1vE4MZscIxbfSMmdYcFIUiVz0Pw</photo_reference>
    <width>3840</width>
    <height>2160</height>
-   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/107958259135711194844/photos&quot;&gt;Bal·zs Fodor&lt;/a&gt;</html_attribution>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/107958259135711194844/photos&quot;&gt;Bal?zs Fodor&lt;/a&gt;</html_attribution>
   </photo>
   <place_id>ChIJ3yKsR1FkjEcRIpuYmmtbIq0</place_id>
  </result>
  <result>
-  <name>FacultÈ des Sciences</name>
+  <name>Facult? des Sciences</name>
   <type>point_of_interest</type>
   <type>establishment</type>
   <formatted_address>1205 Geneva, Switzerland</formatted_address>
@@ -7868,7 +7873,7 @@
    <photo_reference>CoQBcwAAAOoMGiFygggR77CfWckCKUkfjucHJ9PmDRo5soiW0r98-aVc3SNtqCB9dZZDRxWkrZz-aPAptVGasmPUrGdPu8hG_HzV8qLUu73hIrlhC1KpIbQMjBr8qtxOjFoqdSO2B5nooaLRAf_KGf2sp8K-94Ll4n6uyo9xxAkx6r8QMsWTEhDDyw7k4XcidUz6xN1exNrYGhRPRLZIoyXlV-XH-Of2vpcHBrMJgA</photo_reference>
    <width>3840</width>
    <height>2160</height>
-   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/107958259135711194844/photos&quot;&gt;Bal·zs Fodor&lt;/a&gt;</html_attribution>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/107958259135711194844/photos&quot;&gt;Bal?zs Fodor&lt;/a&gt;</html_attribution>
   </photo>
   <place_id>ChIJ3yKsR1FkjEcRIpuYmmtbIq0</place_id>
  </result>
@@ -7901,10 +7906,10 @@
   <place_id>ChIJreNaPTkujEcRAafj_bjMEZA</place_id>
  </result>
  <result>
-  <name>ContrÙle cantonal des finances du canton de Vaud</name>
+  <name>Contr?le cantonal des finances du canton de Vaud</name>
   <type>point_of_interest</type>
   <type>establishment</type>
-  <formatted_address>Rue Dr CÈsar-Roux 37, 1000 Lausanne 14, Switzerland</formatted_address>
+  <formatted_address>Rue Dr C?sar-Roux 37, 1000 Lausanne 14, Switzerland</formatted_address>
   <geometry>
    <location>
     <lat>46.5231163</lat>
@@ -7931,7 +7936,7 @@
 <PlaceSearchResponse>
  <status>OK</status>
  <result>
-  <name>DÈpartement des Langues</name>
+  <name>D?partement des Langues</name>
   <type>university</type>
   <type>point_of_interest</type>
   <type>establishment</type>
