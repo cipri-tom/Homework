@@ -1752,11 +1752,6 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
 <PlaceSearchResponse>
- <status>ZERO_RESULTS</status>
-</PlaceSearchResponse>
-
-<?xml version="1.0" encoding="UTF-8"?>
-<PlaceSearchResponse>
  <status>OK</status>
  <result>
   <name>University of Neuch?tel</name>
