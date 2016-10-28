@@ -1,78 +1,528 @@
-,Unnamed: 0,University,Approved Amount,postalcode,canton
-0,0,Forschungsanstalten Agroscope - AGS,33115719,None,ZH
-1,1,AO Research Institute - AORI,3435621,None,GR
-2,2,Pädag. Hochschule Tessin (Teilschule SUPSI) - ASP,159317,None,AG
-3,3,Weitere Spitäler - ASPIT,10749808,None,AG
-4,4,Universität Bern - BE,1519373035,3012,BE
-5,5,Berner Fachhochschule - BFH,31028695,3401,BE
-6,6,Biotechnologie Institut Thurgau - BITG,2492535,8280,TG
-7,7,Universität Basel - BS,1352251464,4003,BS
-8,8,Centre de rech. sur l'environnement alpin - CREALP,1567678,1950,VS
-9,9,Swiss Center for Electronics and Microtech. - CSEM,18068246,None,NE
-10,10,Eidg. Anstalt für Wasserversorgung - EAWAG,74619222.37,8600,ZH
-11,11,Eidg. Hochschulinstitut für Berufsbildung - EHB,2086572,3052,BE
-12,12,Eidg. Material und Prüfungsanstalt - EMPA,58574515.92,8600,ZH
-13,13,Ente Ospedaliero Cantonale - EOC,5067172,"Viale Officina 3, Bellinzona, Switzerland",TI
-14,14,EPF Lausanne - EPFL,1175315914,1015,VD
-15,15,ETH Zürich - ETHZ,1635596618,8092,ZH
-16,16,Fernfachhochschule Schweiz (Mitglied SUPSI) - FFHS,12000,3900,VS
-17,17,Fachhochschule Kalaidos - FHKD,1090280,8050,ZH
-18,18,Fachhochschule Nordwestschweiz (ohne PH) - FHNW,42771914.12,4600,SO
-19,19,Fachhochschule Ostschweiz - FHO,4437056,"9000 St Gallen, Switzerland",SG
-20,20,Forschungsinstitut für biologischen Landbau - FIBL,7442410,None,AG
-21,21,Weitere Institute - FINST,9256736,None,ZH
-22,22,Friedrich Miescher Institute - FMI,40229142.61,4058,BS
-23,23,Schweizer Kompetenzzentrum Sozialwissensch. - FORS,34735816,None,VD
-24,24,Firmen/Privatwirtschaft - FP,111686719.9,None,None
-25,25,Université de Fribourg - FR,457526170.3,1700,FR
-26,26,Facoltà di Teologia di Lugano - FTL,8000,6900,TI
-27,27,Franklin University Switzerland - FUS,65956,6924,TI
-28,28,Université de Genève - GE,1838237309,"Geneva, Switzerland",GE
-29,29,"Haute école pédagogique BE, JU, NE - HEPBEJUNE",627380,2800,JU
-30,30,Haute école pédagogique fribourgeoise - HEPFR,1547498,1700,FR
-31,31,Haute école pédagogique du canton de Vaud - HEPL,1430686,"1014, Avenue de Cour 33, 1007 Lausanne, Switzerland",VD
-32,32,HES de Suisse occidentale - HES-SO,34162965.46,2800,JU
-33,33,Hochschule Luzern - HSLU,10768116.36,6002,LU
-34,34,Interkant. Hochschule für Heilpädagogik ZH - HfH,2839872,8057,ZH
-35,35,Idiap Research Institute - IDIAP,22183105.2,1920,VS
-36,36,Inst. de Hautes Etudes Internat. et du Dév - IHEID,38864231.6,"Maison de la Paix, Chemin Eugène-Rigot 2, 1202 Genève, Switzerland",GE
-37,37,Institut für Kulturforschung Graubünden - IKG,1219681,7000,GR
-38,38,Forschungsinstitut für Opthalmologie - IRO,3478469,None,VS
-39,39,Instituto Ricerche Solari Locarno - IRSOL,951238,6600,TI
-40,40,Istituto Svizzero di Roma - ISR,141000,None,None
-41,41,Inst. Suisse de Spéléologie et Karstologie - ISSKA,624819,None,NE
-42,42,Inst. universit. romand de Santé au Travail - IST,6882729.85,1066,VD
-43,43,Institut Universitaire Kurt Bösch - IUKB,1977340,1967,VS
-44,44,Kantonsspital St. Gallen - KSPSG,15034105,9007,SG
-45,45,Université de Lausanne - LA,1183290757,"1015 Lausanne, Switzerland",VD
-46,46,Universität Luzern - LU,39981678.31,6002,LU
-47,47,Nicht zuteilbar - NA,21495687.77,None,None
-48,48,Université de Neuchâtel - NE,383204582.3,2000,NE
-49,49,"NPO (Biblioth., Museen, Verwalt.) - NPO",334130583.8,None,None
-50,50,Pädagogische Hochschule Bern - PHBern,1990389.6,3012,BE
-51,51,Pädagogische Hochschule Nordwestschweiz - PHFHNW,3476142,4410,BL
-52,52,Pädagogische Hochschule Graubünden - PHGR,614613,7000,GR
-53,53,Pädagogische Hochschule Luzern - PHLU,1979281,6003,LU
-54,54,Pädagogische Hochschule St. Gallen - PHSG,2098387,9000,SG
-55,55,Pädagogische Hochschule Schaffhausen - PHSH,176691,8200,SH
-56,56,Pädagogische Hochschule Schwyz - PHSZ,936551,6410,SZ
-57,57,Pädagogische Hochschule Thurgau - PHTG,1526446,8280,TG
-58,58,Pädagogische Hochschule Wallis - PHVS,425498,None,VS
-59,59,Pädagogische Hochschule Zürich - PHZFH,3298346,8090,ZH
-60,60,Pädagogische Hochschule Zug - PHZG,495715,6301,ZG
-61,61,Physikal.-Meteorolog. Observatorium Davos - PMOD,12098436,None,GR
-62,62,Paul Scherrer Institut - PSI,115268968.9,"5232 Villigen, Switzerland",AG
-63,63,Robert Walser-Stiftung Bern - RWS,569579,3011,BE
-64,64,Forschungskommission SAGW,100000,None,None
-65,65,Universität St. Gallen - SG,69194954.45,9000,SG
-66,66,Schweiz. Hochschule für Logopädie Rorschach - SHLR,429600,9400,SG
-67,67,Allergie- und Asthmaforschung - SIAF,19169965,7270,GR
-68,68,Swiss Institute of Bioinformatics - SIB,11583219,1206,GE
-69,69,Schweiz. Institut für Kunstwissenschaft - SIK-ISEA,4649550,8032,ZH
-70,70,Schweizer Paraplegiker Forschung - SPF,1944211,6207,LU
-71,71,Staatsunabh. Theologische Hochschule Basel - STHB,17300,None,BS
-72,72,SUP della Svizzera italiana - SUPSI,24040082.15,6928,TI
-73,73,Università della Svizzera italiana - USI,84970554.75,6900,TI
-74,74,"Eidg. Forschungsanstalt für Wald,Schnee,Land - WSL",48360389.63,None,ZH
-75,75,Zürcher Fachhochschule (ohne PH) - ZFH,44843453.12,None,ZH
-76,76,Universität Zürich - ZH,1826842675,8006,ZH
+Unnamed: 0,University,Approved Amount,postalcode,canton
+0,Forschungsanstalten Agroscope - AGS,33115719,None,ZH
+1,AO Research Institute - AORI,3435621,None,GR
+2,Pädag. Hochschule Tessin (Teilschule SUPSI) - ASP,159317,None,AG
+3,Weitere Spitäler - ASPIT,10749808,None,AG
+4,Universität Bern - BE,1519373035,3012,BE
+5,Berner Fachhochschule - BFH,31028695,3401,BE
+6,Biotechnologie Institut Thurgau - BITG,2492535,8280,TG
+7,Universität Basel - BS,1352251464,4003,BS
+8,Centre de rech. sur l'environnement alpin - CREALP,1567678,1950,VS
+9,Swiss Center for Electronics and Microtech. - CSEM,18068246,None,NE
+10,Eidg. Anstalt für Wasserversorgung - EAWAG,74619222.37,8600,ZH
+11,Eidg. Hochschulinstitut für Berufsbildung - EHB,2086572,3052,BE
+12,Eidg. Material und Prüfungsanstalt - EMPA,58574515.92,8600,ZH
+13,Ente Ospedaliero Cantonale - EOC,5067172,"Viale Officina 3, Bellinzona, Switzerland",TI
+14,EPF Lausanne - EPFL,1175315914,1015,VD
+15,ETH Zürich - ETHZ,1635596618,8092,ZH
+16,Fernfachhochschule Schweiz (Mitglied SUPSI) - FFHS,12000,3900,VS
+17,Fachhochschule Kalaidos - FHKD,1090280,8050,ZH
+18,Fachhochschule Nordwestschweiz (ohne PH) - FHNW,42771914.12,4600,SO
+19,Fachhochschule Ostschweiz - FHO,4437056,"9000 St Gallen, Switzerland",SG
+20,Forschungsinstitut für biologischen Landbau - FIBL,7442410,None,AG
+21,Weitere Institute - FINST,9256736,None,ZH
+22,Friedrich Miescher Institute - FMI,40229142.61,4058,BS
+23,Schweizer Kompetenzzentrum Sozialwissensch. - FORS,34735816,None,VD
+24,Firmen/Privatwirtschaft - FP,111686719.9,None,None
+25,Université de Fribourg - FR,457526170.3,1700,FR
+26,Facoltà di Teologia di Lugano - FTL,8000,6900,TI
+27,Franklin University Switzerland - FUS,65956,6924,TI
+28,Université de Genève - GE,1838237309,"Geneva, Switzerland",GE
+29,"Haute école pédagogique BE, JU, NE - HEPBEJUNE",627380,2800,JU
+30,Haute école pédagogique fribourgeoise - HEPFR,1547498,1700,FR
+31,Haute école pédagogique du canton de Vaud - HEPL,1430686,"1014, Avenue de Cour 33, 1007 Lausanne, Switzerland",VD
+32,HES de Suisse occidentale - HES-SO,34162965.46,2800,JU
+33,Hochschule Luzern - HSLU,10768116.36,6002,LU
+34,Interkant. Hochschule für Heilpädagogik ZH - HfH,2839872,8057,ZH
+35,Idiap Research Institute - IDIAP,22183105.2,1920,VS
+36,Inst. de Hautes Etudes Internat. et du Dév - IHEID,38864231.6,"Maison de la Paix, Chemin Eugène-Rigot 2, 1202 Genève, Switzerland",GE
+37,Institut für Kulturforschung Graubünden - IKG,1219681,7000,GR
+38,Forschungsinstitut für Opthalmologie - IRO,3478469,None,VS
+39,Instituto Ricerche Solari Locarno - IRSOL,951238,6600,TI
+40,Istituto Svizzero di Roma - ISR,141000,None,None
+41,Inst. Suisse de Spéléologie et Karstologie - ISSKA,624819,None,NE
+42,Inst. universit. romand de Santé au Travail - IST,6882729.85,1066,VD
+43,Institut Universitaire Kurt Bösch - IUKB,1977340,1967,VS
+44,Kantonsspital St. Gallen - KSPSG,15034105,9007,SG
+45,Université de Lausanne - LA,1183290757,"1015 Lausanne, Switzerland",VD
+46,Universität Luzern - LU,39981678.31,6002,LU
+47,Nicht zuteilbar - NA,21495687.77,None,None
+48,Université de Neuchâtel - NE,383204582.3,2000,NE
+49,"NPO (Biblioth., Museen, Verwalt.) - NPO",334130583.8,None,None
+50,Pädagogische Hochschule Bern - PHBern,1990389.6,3012,BE
+51,Pädagogische Hochschule Nordwestschweiz - PHFHNW,3476142,4410,BL
+52,Pädagogische Hochschule Graubünden - PHGR,614613,7000,GR
+53,Pädagogische Hochschule Luzern - PHLU,1979281,6003,LU
+54,Pädagogische Hochschule St. Gallen - PHSG,2098387,9000,SG
+55,Pädagogische Hochschule Schaffhausen - PHSH,176691,8200,SH
+56,Pädagogische Hochschule Schwyz - PHSZ,936551,6410,SZ
+57,Pädagogische Hochschule Thurgau - PHTG,1526446,8280,TG
+58,Pädagogische Hochschule Wallis - PHVS,425498,None,VS
+59,Pädagogische Hochschule Zürich - PHZFH,3298346,8090,ZH
+60,Pädagogische Hochschule Zug - PHZG,495715,6301,ZG
+61,Physikal.-Meteorolog. Observatorium Davos - PMOD,12098436,None,GR
+62,Paul Scherrer Institut - PSI,115268968.9,"5232 Villigen, Switzerland",AG
+63,Robert Walser-Stiftung Bern - RWS,569579,3011,BE
+64,Forschungskommission SAGW,100000,None,None
+65,Universität St. Gallen - SG,69194954.45,9000,SG
+66,Schweiz. Hochschule für Logopädie Rorschach - SHLR,429600,9400,SG
+67,Allergie- und Asthmaforschung - SIAF,19169965,7270,GR
+68,Swiss Institute of Bioinformatics - SIB,11583219,1206,GE
+69,Schweiz. Institut für Kunstwissenschaft - SIK-ISEA,4649550,8032,ZH
+70,Schweizer Paraplegiker Forschung - SPF,1944211,6207,LU
+71,Staatsunabh. Theologische Hochschule Basel - STHB,17300,None,BS
+72,SUP della Svizzera italiana - SUPSI,24040082.15,6928,TI
+73,Università della Svizzera italiana - USI,84970554.75,6900,TI
+74,"Eidg. Forschungsanstalt für Wald,Schnee,Land - WSL",48360389.63,None,ZH
+75,Zürcher Fachhochschule (ohne PH) - ZFH,44843453.12,None,ZH
+76,Universität Zürich - ZH,1826842675,8006,ZH
+0,AGGS Staatsarchiv,663264,None,None
+1,AGRIDEA,911248,None,None
+2,Aargauer Kantonsbibliothek,5553504,None,None
+3,Aargauer Kantonsschule Baden,12380,None,None
+4,Abteilung Biochemie Biozentrum Universität Basel,1000122,3012,BE
+5,Abteilung Geowissenschaften Naturhistorisches Museum Basel,230218,3401,BE
+6,Abteilung Mikrobiologie Biozentrum Universität Basel,188000,8280,TG
+7,Abwasserverband Altenrhein,180269,4003,BS
+8,Addiction Info Suisse,504497,1950,VS
+9,Agrogen-Stiftung,4000,None,None
+10,Albrecht von Haller-Stiftung,25000,8600,ZH
+11,Alimentarium Musée de l'alimentation,230089,3052,BE
+12,Alter Ego,229910,8600,ZH
+13,Amt für Archäologie des Kantons Thurgau,1782331,"Viale Officina 3, Bellinzona, Switzerland",None
+14,Amt für Raumentwicklung Baudirektion Kanton Zürich,375813,1015,VD
+15,Amt für Städtebau der Stadt Zürich Archäologie/Denkmalpflege,293700,8092,ZH
+16,Amt für Wasserwirtschaft,365640,3900,VS
+17,Antikenmuseum,977384,8050,ZH
+18,Appellationsgericht Basel-Stadt,196830,4600,SO
+19,Arbeitsgemeinschaft Swissaid / Fastenopfer / Brot für alle / Helvetas / Caritas,87550,"9000 St Gallen, Switzerland",None
+20,Arbeitsgemeinschaft zur Förderung des Futterbaues (AGFF),235000,None,None
+21,Arbeitslehrerinnenseminar des Kantons Zürich,85000,None,None
+22,Arbeitsstelle der Stiftung für kulturwissenschaftliche Forschungen,15860,4058,BS
+23,Arche Verlag AG,192273,None,None
+24,"Architektur, Holz und Bau Berner Fachhochschule",1257112,None,None
+25,Archiv für Agrargeschichte,437096,1700,FR
+26,Archives D'Etat de Genève Etat de Genève,620680,6900,TI
+27,Archives d'Etat de Genève,862554,6924,TI
+28,Archives de l'Etat de Fribourg,106524,"Geneva, Switzerland",None
+29,Archives de l'Etat de Neuchâtel,15000,2800,JU
+30,Archives du Chapitre cathédral,12385,1700,FR
+31,Archivio di Stato del Canton Ticino,2469847,"1014, Avenue de Cour 33, 1007 Lausanne, Switzerland",None
+32,Archäologie Schweiz,68200,2800,JU
+33,Archäologie Schweizerisches Landesmuseum,520594,6002,LU
+34,Archäologie und Kantonsmuseum Kanton Basel-Landschaft Regierungsgebäude,725233,8057,ZH
+35,"Archäologie, Bauhütte Stiftung Pro Kloster St. Johann in Müstair",994369,1920,VS
+36,Archäologische Bodenforschung des Kantons Basel-Stadt,147229,"Maison de la Paix, Chemin Eugène-Rigot 2, 1202 Genève, Switzerland",None
+37,Archäologischer Dienst Graubünden Amt für Kultur,103756,7000,GR
+38,Archäologischer Dienst Graubünden Schloss,330694,None,None
+39,Archäologischer Dienst des Kantons Bern,256785,6600,TI
+40,Assocation suisse pour le service aux regions et communes (SEREC),264143,None,None
+41,Association Pro Lousonna Musée cantonal d'Archéologie et d'Histoire,27515,None,None
+42,Association Pro Vistiliaco,289423,1066,VD
+43,Association Vaudoise des Chercheurs en Physique,29000,1967,VS
+44,Association internationale de la sécurité sociale (AISS),202343,9007,SG
+45,BAK Konjunkturforschung Basel AG,236660,"1015 Lausanne, Switzerland",None
+46,BATS Fachstelle für Biosicherheits- forschung und Abschätzung von Technologiefolgen des SPP BioTech,3231245,6002,LU
+47,Basel Institute on Governance,8000,None,None
+48,Basler Denkmalpflege Museum kleines Klingental,301722,2000,NE
+49,Baudirektion des Kantons Zürich ARV Kantonale Denkmalpflege,43780,None,None
+50,Bernisches Historisches Museum,1224866,3012,BE
+51,Bibliothek Kantonsschule Luzern,67000,4410,BL
+52,Bibliothek Staatsarchiv des Kantons Zürich,340773,7000,GR
+53,Bibliotheque militaire fédérale,95248,6003,LU
+54,Bibliothèque Office fédéral de la statistique,364832,9000,SG
+55,Bibliothèque cantonale et universitaire,98160,8200,SH
+56,Bibliothèque cantonale jurassienne,77013,6410,SZ
+57,Bibliothèque cantonale universitaire,40000,8280,TG
+58,Bibliothèque de Genève Département des périodiques,154795,None,None
+59,Bibliothèque publique et universitaire,37250,8090,ZH
+60,Bildungsplanung / Biblothek Bildungsdirektion des Kantons Zürich,669925,6301,ZG
+61,Borchardt-Cohen'schen Stiftung,128767,None,None
+62,Bundesamt für Justiz,301432,"5232 Villigen, Switzerland",None
+63,Bundesamt für Justiz Hauptabteilung Staats- und Verwaltungsrecht,216659,3011,BE
+64,Bundesamt für Kultur,10430,None,None
+65,Bundesamt für Landestopografie,590000,9000,SG
+66,Bundesamt für Landwirtschaft,202928,9400,SG
+67,Bundesamt für Meteorologie und Klimatologie MeteoSwiss,2166077,7270,GR
+68,Bundesamt für Sozialversicherung,18880,1206,GE
+69,Bundesamt für Umwelt BAFU,1484675,8032,ZH
+70,Bundesamt für Verbraucherschutz und Lebensmittelsicherheit (BVL),50000,6207,LU
+71,Bundesamt für Veterinärwesen Bibliothek,201301,None,None
+72,Bundesamt für Wasser und Geologie Landeshydrologie und -geologie LHG,4925,6928,TI
+73,Bundeshaus West NFP 27,1067387,6900,TI
+74,Bureau de l'égalité des droits entre homme et femme,280523.25,None,None
+75,Bureau de l'égalité entre les femmes et les hommes,12000,None,None
+76,Burgerbibliothek,15000,8006,ZH
+77,Burgerbibliothek Bern,54489,None,None
+78,Bündner Naturmuseum Bibliothek,201018,8315,ZH
+79,Büro Z Arbeitsgemeinschaft für Wohnen + Stadtfragen,100000,5001,AG
+80,Büro für Archäologie der Stadt Zürich,1097269,5400,AG
+81,CABI,3885731.87,4056,BS
+82,CEDOTEC Service d'information documentaire,80901,4051,BS
+83,CERFIM,377430,4056,BS
+84,CESSRIVE Bibliothèque,226002,9423,SG
+85,Capo Divisione Istituti e Servizi Dipartimento delle Opere Sociali,1075204,None,None
+86,Center for Experimental Pathology Istituto Cantonale di Patologia,1007754,3421,BE
+87,Centre de Recherche de Genève,1023900,3005,BE
+88,Centre de Recherche sur le Phénomène Urbain (CREPU/EAUG),72393,1800,VD
+89,Centre de conservation de la faune et de la nature Bibliothèque,109516,None,None
+90,Centre de recherche MISC Faculté des sciences sociales et politiques Université de Lausanne,1840911,8510,TG
+91,Centre for Socio-Eco-Nomic Development,65077,8910,ZH
+92,Centre régional d'étude des populations alpines - CREPA,1049595,8021,ZH
+93,Centre suisse de recherche et d'information sur le vitrail,1396889,None,None
+94,Chantier Ramuz Bibliothèque des Cèdres,12010,4051,BS
+95,Chartularium Sangallense Stadthaus,315000,4051,BS
+96,Cinémathèque suisse Centre d'Archivage,918211,None,None
+97,Collège Cantonal Saint-Michel,20695,8046,ZH
+98,Collège secondaire de Béthusy,94796,None,None
+99,Comité provisoire pour l'Edition des Oeuvres de Benjamin Constant,671078,None,None
+100,Commission administrative du GPSR,12438081,None,None
+101,Commission du Centre Suisse en Côte d'Ivoire,329872,3401,BE
+102,Commission nationale pour la publication des DDS,2559945,6500,TI
+103,Commissione scientifica del VDSI,8429221,3007,BE
+104,Conservatoire de Lausanne,9760,1204,GE
+105,Conservatoire et jardin botaniques de la Ville de Genève,3433051,1204,GE
+106,Croix-Rouge suisse Domaine formation professionnelle,425000,1700,FR
+107,Curatorium de l'Atlas linguistique de l'Afghanistan,240467,"Rue de la Collégiale 12, Château, 2000 Neuchâtel, Switzerland",None
+108,Curatorium pour la biographie de W. Rappard,385674,1950,VS
+109,Curia Vescovile,183728,6500,TI
+110,DEZA Fachsektion COPRET,1821989,4051,BS
+111,Denkmalpflege für bundeseigene Bauten c/o Amt für Bundesbauten,984484,8001,ZH
+112,Denkmalpflege und Archäologie des Kantons Luzern,114821,None,None
+113,Departement Umweltsystemwissenschaften ETH Zürich,10000,"7537 Müstair, Switzerland",None
+114,"Dienststelle für Hochbau, Denkmalpflege und Archäologie",401087,None,None
+115,Diplomatische Dokumente der Schweiz,69245,7000,GR
+116,Direction de l'instruction publique et des affaires culturelles,326864,7000,GR
+117,Direction des Musées cantonaux du Valais,205575,3018,BE
+118,Division d'Immunologie Moléculaire Institut Ludwig de Recherche sur le Cancer,335000,None,None
+119,Divisione della Cultura Dipartimento dell'istruzione e della cultura del Cantone Ticino,20380,None,None
+120,Dokuzentrum Gesundheitswesen,105209,None,None
+121,Département de Biologie Cellulaire Faculté des Sciences Université de Genève,343853,None,None
+122,Département de Biologie Moléculaire Faculté des Sciences Université de Genève,1240000,1202,GE
+123,Département de l'instruction publique Service de la recherche en éducation Bibliothèque,22000,4053,BS
+124,Département des constructions et des technologies de l'information (DCTI),3000,None,None
+125,Département des travaux publics du Canton de Vaud,505259,4051,BS
+126,Dépt de langue & littérature allemandes Faculté des lettres Université de Genève,5028,4058,BS
+127,EDA,11910,8090,ZH
+128,Ecole Suisse d'archéologie en Grèce  Univ. de Lausanne,4626283,3005,BE
+129,Ecole supérieur de commerce de la ville de Sion,88062,6005,LU
+130,Ecole supérieure d'enseignement infirmier,446717,"8057 Zürich, Switzerland",None
+131,Ecole supérieure de Commerce,100000,3003,BE
+132,Econat,153837,None,None
+133,Eidg. Büro für die Gleichstellung von Frau und Mann,246499,"6, Place de la Riponne, CP, 1014 Lausanne, Switzerland",None
+134,"Eidg. Departement für Verteidigung, Bevölkerungsschutz und Sport",330094,"2900 Porrentruy, Switzerland",None
+135,Eidg. Departement für auswärtige Angelegenheiten,79666,"6, Place de la Riponne, CP, 1014 Lausanne, Switzerland",None
+136,Eidgenössisches Vakzine-Institut s. Institut für Viruskrankheiten und Immun. Mittelhäusern,80325,1211,GE
+137,Erwerbungsabteilung Zentralbibliothek Luzern,421085,1211,GE
+138,Erziehungsdepartement Obwalden,138096,"8090, Walchepl. 2, 8001 Zürich, Switzerland",None
+139,Erziehungsdirektion des Kantons Appenzell A.Rh.,40000,None,None
+140,"Etat de Vaud - Service Immeubles, Patrimoine et Logistique Section Patrimoine",202873,None,None
+141,Eulerkommission der SANW,1639825,None,None
+142,Europäischer Gerichtshof für Menschenrechte,99663,3005,BE
+143,Evangelische Arbeitsstelle Oekumene Schweiz,81320,3084,BE
+144,FORS c/o Université de Lausanne,3740,None,None
+145,Fachbereich Mathematik Departement Mathematik und Informatik Universität Basel,12200,"OperationCenter 1, Frachtstrasse, 8058 Zürich, Switzerland",None
+146,Fachstelle Lebensräume für Menschen mit einer geistigen Behinderung,240253,3008,BE
+147,Fachstelle für Gleichstellung Frau und Mann des Kantons Zürich,268166,3063,BE
+148,"Faculté des sciences économiques et sociales, Décanat Université de Genève",160672,None,None
+149,Federaz. Ticinese per integrazione degli andicappati FTIA,167946,None,None
+150,Fondation Braillard Architectes,145864,None,None
+151,Fondation Guy de Pourtalès Université de Lausanne,10250,None,None
+152,Fondation Hardt pour l'étude de l'Antiquité classique,820069,None,None
+153,Fondation Jean Monnet pour l'Europe Centre de recherches européennes,15300,1003,VD
+154,Fondation Martin Bodmer,4000,3000,BE
+155,Fondation pour le LIMC,4412326,3000,BE
+156,Fonoteca Nazionale Svizzera,242359,7000,GR
+157,Forschungsgruppe für Management im Gesundheitswesen an der Fachhoch- schule für Wirtschaft St. Gallen,427566,None,None
+158,Forschungsinstitut zur Geschichte des Alpenraums,600579,None,None
+159,Forschungskomitee Rechtssoziologie und Rechtswirklichkeitsforschung der Schweizer Gesellschaft für Soziologie,99934,None,None
+160,Forschungsstelle Solothurnisches Orts- und Flurnamenbuch,480000,None,None
+161,Forschungsstelle für Orts- und Flurnamen,1350000,None,None
+162,Forschungszentrum für Gebärdensprache,335551,None,None
+163,Forum Ost-West,6708,None,None
+164,Foundation for Research on Information Technologies in Society (IT'IS),10000,None,None
+165,Französisches Etymologisches Wörterbuch,3254994,1205,GE
+166,"Fraueninformationszentrum für Frauen aus Afrika, Asien und Lateinamerika",150500,None,None
+167,Freies Gymnasium Zürich,252818,None,None
+168,GGG,210000,None,None
+169,Geneva Centre for the Democratic Control of Armed Forces (DCAF),287307,1201,GE
+170,Geobotanische Kommission der SNG,250998,None,None
+171,Geschichte der Naturwissenschaften MN-Fakultät Universität Zürich,150530,1680,FR
+172,Gesellschaft für Schweizerische Kunstgeschichte,5387806,None,None
+173,Gesundheitsdienst der Stadt Bern,1673717,None,None
+174,Gymnase cantonal de la Cité,164900,None,None
+175,Gymnase de Bellerive,8378,1700,FR
+176,Gymnase du Bugnon,65300,1012,VD
+177,Gymnasien Kirchenfeld,220279,None,None
+178,Historische und Antiquarische Gesellschaft zu Basel,54509,None,None
+179,Historischer Verein des Kantons Schwyz Amt für Kulturpflege,17360,None,None
+180,Historisches Lexikon der Schweiz,2150,None,None
+181,Historisches Museum,394162,None,None
+182,Hochalpine Forschungsstationen Jungfraujoch & Gornergrat Universität Bern,14797050,1003,VD
+183,Holbeingymnasium,46100,"1202 Geneva, Switzerland",None
+184,Hôpital de Zone de Morges,360000,None,None
+185,Institut Suisse prophylaxie alcoolisme,1226707,None,None
+186,Institut d'Histologie et d'Embryologie,769727,None,None
+187,Institut d'éthique sociale de la Fédération des Eglises protestantes de la Suisse,567981,6900,TI
+188,Institut d'études médiévales Université de Fribourg,381058,None,None
+189,Institut de Microbiologie Université de Lausanne,851489,None,None
+190,Institut de Zoologie Faculté des Sciences Université de Neuchâtel,263597,6002,LU
+191,Institut de recherches économiques Université de Neuchâtel,7000,8006,ZH
+192,Institut für Bildungsevaluation Assoziiertes Inst. der Universität Zürich,378932,1950,VS
+193,Institut für Geophysik ETH Zürich,50000,None,None
+194,Institut für Pflegeforschung SBK,248610,None,None
+195,Institut für Strahlenhygiene BfS,83918,None,None
+196,Institut für Viruskrankheiten und Immunprophylaxe,2864180,None,None
+197,Institut für chirurgische Technologien und Biomechanik (ISTB) Universität Bern,68244,6500,TI
+198,Institut suisse de la santé publique,128743,None,None
+199,Internat. Environmental Law Research Centre Internat. Environment House,426369,"Geneva, Switzerland",None
+200,International Society of Electrochemistry,10000,"Geneva, Switzerland",None
+201,Ispettorato forestale cantonale,96839,None,None
+202,Istituto Batteriosierologico Cantonale,40000,None,None
+203,J.-v.-Müller-Kuratorium,156555,"1014 Lausanne Adm Cant., Switzerland",None
+204,Jacob Burckhardt-Stiftung,2568156,None,None
+205,"Justiz-, Gemeinde- und Kirchendirektion",138012,None,None
+206,Justizdirektion Nidwalden,800000,None,None
+207,"Kanton. Aufsichtsstelle Datenschutz Justiz-, Polizei- und Militärdirektion",371641,None,None
+208,Kantonale Denkmalpflege,3429745,None,None
+209,Kantonale Denkmalpflege Zug,280000,None,None
+210,Kantonale Fachstelle für Archäologie Staatsarchiv des Kantons Nidwalden,656715,None,None
+211,Kantonale Planungsgruppe,119000,None,None
+212,Kantonsarchäologie,16280,None,None
+213,Kantonsarchäologie Aargau,836915,None,None
+214,Kantonsarchäologie Basel-Landschaft,257139,None,None
+215,Kantonsarchäologie Schaffhausen,446758,None,None
+216,Kantonsarchäologie St. Gallen,250776,None,None
+217,Kantonsbibliothek Vadiana,1595886,None,None
+218,Kantonsschule Abt. Biologie,422794,None,None
+219,Kantonsschule Appenzell A.Rh.,100000,None,None
+220,Kantonsschule Baden,62000,None,None
+221,Kantonsschule Enge,474499,None,None
+222,Kantonsschule Freudenberg,215892,None,None
+223,Kantonsschule Riesbach,135000,None,None
+224,Kantonsschule Rychenberg,76202,None,None
+225,Kantonsschule Sargans,313534,None,None
+226,Kantonsschule Schlossfeld,78219,None,None
+227,Kantonsschule Stadelhofen,36948,None,None
+228,Kantonsschule Zug,93200,None,None
+229,Kantonsschule Zürcher Oberland Lehrer- und Lehrerinnenzimmer,90000,None,None
+230,Kantonsschule am Burggraben Rektorat,3000,None,None
+231,Karl Barth-Archiv,245784,None,None
+232,Karl-Jaspers-Stiftung,616089,None,None
+233,Kommision der Diplomatischen Dokumente der Schweiz SAGW,132616,None,None
+234,Kommission des Phonogrammarchivs Universität Zürich,122171,None,None
+235,Kommission für das Corpus Vasorum Antiquorum Antikenmuseum,721284,None,None
+236,Kommission für das Corpus philosophorum medii aevi der SGG,79732,None,None
+237,Kommission für das Mittellateinische Wörterbuch der SAGW,275800,None,None
+238,Kommission für die Schweiz. Kunst- und Kulturdatenbank der SAGW,300000,None,None
+239,Kommission für klassische und orientalische Archäologie Archäologisches Seminar,174862,None,None
+240,Kommission zur Herausgabe der Basler Rektoratsmatrikel,183348,None,None
+241,Kompetenzzentrum für Gender Studies (KGS) Koordinationsstelle,8600,None,None
+242,Konkordat der Schweizerischen Krankenkassen,829440,None,None
+243,Kreisforstamt 18,45000,None,None
+244,Kunstmuseum,472279,None,None
+245,Kunstmuseum Bern,5245,None,None
+246,Kuratorium Carl J. Burckhardt,322572,None,None
+247,Kuratorium Musikinstrumente der Schweiz,146853,None,None
+248,Kuratorium Schwyzer Orts- und Flurnamenbuch,530000,None,None
+249,Kuratorium Urner Namenbuch,676596,None,None
+250,Kuratorium der Helvetia Sacra c/o Staatsarchiv Basel,13078375,None,None
+251,Kuratorium für das Corpus der römischen Meilensteine,79431,None,None
+252,Laboratoire ACEPSA,213768,None,None
+253,Laboratoire d'Hygiène industrielle,101410,None,None
+254,Laboratoire de recherche et ateliers de restauration des Musées d'art et d'histoire,1576409,None,None
+255,Laboratorio di Storia delle Alpi (LabiSAlp) Accademia di architettura Università della Svizzera italiana,9637,None,None
+256,Laténium Parc et musée d'archéologie de Neuchâtel,400388,None,None
+257,Lia Rumantscha,1232890,None,None
+258,Liceo Cantonale,313800,None,None
+259,Liceo Cantonale 1,288800,None,None
+260,Liceo Cantonale Locarno,100000,None,None
+261,Liceo classico-scientifico,68500,None,None
+262,Liceo di Lugano 2,281059,None,None
+263,Liceo economico-sociale,56000,None,None
+264,Literargymnasium Kantonsschule Rämibühl Zürich,281136,None,None
+265,Mathematisch-naturwissensch. Gymnasium Kantonsschule Rämibühl Zürich,354243,None,None
+266,Mediplant Swiss Research Centre on Medicinal and Aromatic Plants,189864,None,None
+267,Meinrad Lienert-Stiftung,80932,None,None
+268,MeteoSuisse,592736,None,None
+269,Mittelschul- und Berufsbildungsamt Amtsleitung,89755,None,None
+270,Monumenti Storici Dipartimento dell'ambiente Ufficio Cantonale,165500,None,None
+271,Monuments historiques et archéologie du canton de Vaud,60000,None,None
+272,Museo  Cantonale di storia naturale,52295,None,None
+273,Museo di Valmaggia,284784,None,None
+274,Museum Tinguely,13000,None,None
+275,Museum der Kulturen,514474,None,None
+276,Museum des Kantons Thurgau,241360,None,None
+277,Museum für Kunst und Geschichte,64036,None,None
+278,Museum zu Allerheiligen,175919,None,None
+279,Musikwissenschaftliches Institut Universität Zürich,1400000,None,None
+280,Musée Forel,158223,None,None
+281,Musée Historique de Lausanne,17280,None,None
+282,Musée International d'Horlogerie,463774,None,None
+283,Musée cantonal d'archéologie et d'histoire,271172.8,None,None
+284,Musée d'art et d'histoire de Fribourg,15361,None,None
+285,Musée d'ethnographie de Genève,97825,None,None
+286,Musée de zoologie Palais de Rumine,80000,None,None
+287,Musées d'art et d'histoire de Genève,2384542,None,None
+288,Muséum d'Histoire Naturelle,3529655,None,None
+289,Muséum d'histoire naturelle,605733,None,None
+290,Nano-Cluster Bodensee,4000,None,None
+291,Natur-Museum Luzern,261793,None,None
+292,Naturforschende Gesellschaft Basel Naturhistorisches Museum,508513,None,None
+293,Naturhistorisches Museum Basel,1377877,None,None
+294,Naturhistorisches Museum Entomologie,317697,None,None
+295,Naturmuseum Winterthur,156189,None,None
+296,Numerische Vorhersagen Analyse und Prognose - Zürich MeteoSchweiz,101635,None,None
+297,Oberforstamt des Kantons Zürich Abteilung Wald,199850,None,None
+298,Obergericht Zürich,33933,None,None
+299,Observatoire Cantonal de Neuchâtel,1237757,None,None
+300,Office des recherches archéologiques,239455,None,None
+301,Office des écoles en santé (ODES) Département de la Formation et de la Jeunesse (DFJ),300000,None,None
+302,Office du patrimoine historique Section d'archéologie,303741,None,None
+303,Office féderal de la justice,15000,None,None
+304,Office fédéral de la statistique,10000,None,None
+305,Organizzazione sociopsichiatrica cantonale,422445,None,None
+306,Osservatorio Ticinese di SMA,574422,None,None
+307,Otto Spiess Stiftung,1267376,None,None
+308,Paul Sacher Stiftung Archiv und Forschungszentrum für die Musik des 20. und 21. Jahrhunderts,244620,None,None
+309,Pestalozzianum,202874,None,None
+310,Primarlehrerseminar Irchel,270166,None,None
+311,Pro Helvetia - Schweizer Kulturstiftung,74050,None,None
+312,Präsident der Schweizerischen Stiftung für das Stockalperschloss,559454,None,None
+313,"Radar, Satellite and Nowcasting Division Meteo Svizzera",558304,None,None
+314,Rechtsabteilung EVED Bundeshaus Nord,42667,None,None
+315,Rechtswissenschaftliches Institut Universität Zürich,4519353,None,None
+316,Redaktion des Schweizerdeutschen Wörterbuchs,12850991.65,None,None
+317,Rätisches Museum,408128,None,None
+318,Römerstadt Augusta Raurica,1745980,None,None
+319,SAMW Schweizerischen Akademie der Medizinischen Wissenschaften,2339103,None,None
+320,SIDOS,2663951,None,None
+321,SVIL Schweizerische Vereinigung Industrie und Landwirtschaft,119200,None,None
+322,Schweiz. Akademie der med. Wissen- schaften /Pathophysiolog. Institut,757082,None,None
+323,Schweiz. Arbeitsguppe für kardiale Rehabilitation der Schweiz. Gesell- schaft für Kardiologie,206306,None,None
+324,Schweiz. Fachstelle für behindertengerechtes Bauen,276654.65,None,None
+325,Schweiz. Gesellschaft für Ur- und Frühgeschichte,23900,None,None
+326,Schweiz. Gesellschaft für praktische Sozialforschung,754238,None,None
+327,Schweiz. Koordinationsstelle für Bildungsforschung (SKBF),38000,None,None
+328,Schweiz. Osteuropabibliothek,53500,None,None
+329,Schweiz. Stiftung Stockalperschloss,1637755,None,None
+330,Schweiz. Stiftung für die Photographie Kunsthaus,148542,None,None
+331,Schweiz. Thesauruskommission,573027,None,None
+332,Schweizer Jugend Forscht,5320,None,None
+333,Schweizerische Akademie der Medizinischen Wissenschaften,6894603,None,None
+334,Schweizerische Arbeitsgruppe für Aerobiologie,48080,None,None
+335,Schweizerische Arbeitsgruppe für Kriminologie,10000,None,None
+336,Schweizerische Bauernhausforschung,8452114,None,None
+337,Schweizerische Gesellschaft für Geschichte Generalsekretariat,72180,None,None
+338,Schweizerische Gesellschaft für Theaterkultur,321200,None,None
+339,Schweizerische Gesellschaft für Volkskunde,2657910,None,None
+340,"Schweizerische Kommission ""Mittellateinisches Wörterbuch""",100125,None,None
+341,Schweizerische Kommission für Mole- kularbiologie/ Prof. Angela Krämer Biologie Cellulaire/ Science III,146500,None,None
+342,Schweizerische Konferenz der kantonalen Erziehungsdirektoren EDK,197587,None,None
+343,Schweizerische Musikforschende Gesellschaft,281168,None,None
+344,Schweizerische Nationalbibliothek,48720,None,None
+345,Schweizerische Rechtsquellen c/o Universität Zürich / RWI,4234681,None,None
+346,Schweizerische Vogelwarte,5429719,None,None
+347,Schweizerischer Juristenverein,260000,None,None
+348,Schweizerisches Bundesarchiv,1275744,None,None
+349,Schweizerisches Bundesgericht,522139,None,None
+350,Schweizerisches Institut für Volkskunde (SIV),430031,None,None
+351,Schweizerisches Literaturarchiv,927704,None,None
+352,Schweizerisches Nationalmuseum Landesmuseum Zürich,395198,None,None
+353,Schweizerisches Sozialarchiv Abt. Periodika,154725,None,None
+354,Scuola cantonale supperiore di commercio,174200,None,None
+355,Sekretariat des Schweizerischen Apothekervereins,13000,None,None
+356,Service archéologique Canton de Fribourg,442280,None,None
+357,Service de la protection des monuments et sites,276938,None,None
+358,Service de la recherche en éducation (SRED) Bibliothèque,528446,None,None
+359,Services communs aux groupes du Département de Biologie moléculaire,1423409,None,None
+360,Servizio di documentazione Organizzazione sociopsichiatrica cantonale (OSC),572522,None,None
+361,Sezione dell'azione sociale,160000,None,None
+362,Sezione sanitaria Dipartimento delle opere sociali,136928,None,None
+363,Site et Musée romains Fondation Pro Aventico Casa postale 237,106204,None,None
+364,Site et Musée romains d'Avenches,15000,None,None
+365,Societa Retorumantscha Dicziunari Rumantsch Grischun,7929316,None,None
+366,Société d'études töpffériennes,230076,None,None
+367,Société générale suisse d'histoire,275523,None,None
+368,Sottas formative works,292236,None,None
+369,Sozialmedizinische Beratungsstelle für Jugendliche Integrative Psych. Winterthur,383412,None,None
+370,Sozialversicherungsgericht des Kantons Zürich,118750,None,None
+371,Sportwissenschaftliches Institut Bundesamt für Sport Forschungsinstitut,37000,None,None
+372,Sprachatlas der deutschen Schweiz,3377898,None,None
+373,Staatsarchiv,455364,None,None
+374,Staatsarchiv Basel Stadt,304751,None,None
+375,Staatsarchiv Fribourg,911652,None,None
+376,Staatsarchiv Graubünden,1225000,None,None
+377,"Staatsarchiv Kanton Aargau Departement Bildung, Kultur und Sport",34300,None,None
+378,Staatsarchiv Uri,105000,None,None
+379,Staatsarchiv des Kantons Bern,498952,None,None
+380,Staatsarchiv des Kantons Luzern,147644,None,None
+381,Staatssekretariat für Wirtschaft (SECO),27000,None,None
+382,Stadtarchiv Vadiana,1183601,None,None
+383,Stadtbibliothek Schaffhausen,318116,None,None
+384,Stadtärztlicher Dienst,380000,None,None
+385,Stift. Pro Kloster St. Johann in Müstair,8694688,None,None
+386,Stiftsarchiv,42500,None,None
+387,Stiftsbibliothek St. Gallen,1468124,None,None
+388,Stiftschule Einsiedeln Rektorat,120836,None,None
+389,"Stiftung ""Pro Innerrhoden""",244148,None,None
+390,Stiftung Bibliothek Werner Oechslin,558751,None,None
+391,Stiftung FSMA-HR. Sennhauser,29010,None,None
+392,Stiftung Kinderdorf Pestalozzi,256000,None,None
+393,Stiftung Landschaftsschutz Schweiz,920775,None,None
+394,Stiftung Ziegelei-Museum,157476,None,None
+395,Stiftung Zürcher Kinder- und Jugendheime,3700,None,None
+396,Stiftung für Forschung in Spätantike und Mittelalter,70000,None,None
+397,Stiftung für Patientensicherheit,7500,None,None
+398,Stiftung für eine Historisch-Kritische Gottfried Keller-Ausgabe,1935131,None,None
+399,Stiftung für eine Kritische Robert Walser- Ausgabe Frau Dr. Barbara von Reibnitz,62900,None,None
+400,Strittmatter + Partner AG,104825,None,None
+401,Sucht Schweiz,1144924,None,None
+402,Sukkulentensammlung Zürich,133862,None,None
+403,Swiss Clinical Trial Organisation (SCTO),2899740,None,None
+404,TA-SWISS Zentrum für Technologiefolgenabschätzung,156855,None,None
+405,The Robots Podcast Association,261630,None,None
+406,Theologisches Seminar Bienenberg,100000,None,None
+407,Tk3 AG,449835,None,None
+408,Tribunal des Mineurs,25000,None,None
+409,Tribunal fédéral,59306,None,None
+410,Trimarca AG,96560,None,None
+411,Tschudi-Kommission der AGGS Staatsarchiv Zürich,2828458,None,None
+412,UNI: Selbsthilfegruppe der Prostitutierten Praha TS,25000,None,None
+413,Ufficio dei beni culturali,253972,None,None
+414,Ufficio geologico cantonale,250720,None,None
+415,Ufficio studi e ricerche del Dipartimento dell'istruzione e della cultura,90000,None,None
+416,Unite d'oncologie experimentale CHUV - Université de Lausanne,425000,None,None
+417,United Nations Research Institute for Social Development (UNRISD),265394,None,None
+418,Unité d'études et de statistiques de l'Hospice général,251880.84,None,None
+419,Verband der Schweizerischen Volkshochschulen,3500,None,None
+420,"Verein ""Schweizerische Juristische Datenbank""",500366,None,None
+421,Verein Arbeitsstelle Schweiz des RISM,2448763,None,None
+422,Verein Feministische Wissenschaft Schweiz,2400,None,None
+423,Verein NGL-SAA Neue Galerie Luzern - Swiss Academic Association,9000,None,None
+424,Verein politikinitiativen Zürich c/o PIN,12000,None,None
+425,Vereinigung Walliser Museen (VWM),20000,None,None
+426,ViaStoria - Zentrum für Verkehrsgeschichte Kulturwege Schweiz,1500,None,None
+427,Vindonissa Museum,136047,None,None
+428,Vitrocentre Romont,16230.73,None,None
+429,Volkswirtschaftliches Institut Abteilung Oekonometrie,330992,None,None
+430,WDA Forum,10000,None,None
+431,WDA Forum AG,8500,None,None
+432,WOHNSTADT Bau- und Verwaltungsgenossenschaft,119094,None,None
+433,Wasser- und Energiewirtschaftsamt des Kantons Bern,2080085,None,None
+434,Webster University,3000,None,None
+435,Wessenbergkommission,117162,None,None
+436,Wissenschaftliche Nationalpark- Kommission Institut de Zoologie,875384,None,None
+437,Wissenschaftliche Nationalpark- Kommission Institut für Waldbau,251252,None,None
+438,Wissensstadt Davos,25299,None,None
+439,Zentral- & Hochschulbibliothek,706485,None,None
+440,Zentralbibliothek Solothurn,874401,None,None
+441,Zentralbibliothek Zürich,1445731,None,None
+442,Zentrum für Sprachstörungen,182952,None,None
+443,Zwingliverein Schweiz. Landesmuseum,1235385,None,None
+444,Zürcher Handelskammer Börsengebäude,240000,None,None
+445,cfd - Migrationspolitik und Friedenspolitik,6700,None,None
+446,oikos foundation Institute for Economy and the Environment University of St.Gallen,38000,None,None
+447,swisstopo Bundesamt für Landestopographie,12000,None,None
+448,syndicom,14000,None,None
+449,École des Hautes Études Commerciales Université de Lausanne,349500,None,None
