@@ -1,0 +1,1676 @@
+<?xml version="1.0" encoding="UTF-8"?><results><?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>ZERO_RESULTS</status>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>AGRIDEA</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Eschikon 28, 8315 Lindau, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.4479074</lat>
+    <lng>8.6829233</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.4475511</lat>
+     <lng>8.6824247</lng>
+    </southwest>
+    <northeast>
+     <lat>47.4489763</lat>
+     <lng>8.6830895</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAA3iRwnt1u3FZfb3G-TbLe2dI7NBdNkSLsCGmXpVxT_qEUvkfBYIDLVhe5qnYQpV0zHK5hkLxXmoOnEDV2x_vnOt-tUJY1WuYdK1g-djtAKsjWkmWZC_Wgb5qwwkIXhOwPEhD2axgGkK9s5Ehj9BNOAIDkGhTAXX7-i84aK_eFgAoNVoHuevvCrQ</reference>
+  <id>5f7b7dec370addb43220cccdf4d7d0995a3c04f6</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBcwAAAC5pDUpjykL-u-oPzpOzXB8u_1FwiiTXsJrrwQn_6BpB1TD2o2IDqQEdvyCNgG-1Qbt0B1VJ_Maos0Vo91hCtdw8GsU60xoZJb5ydTYpge9EtP7eKW9VpojY_6Z9sA2Cy5rn3qTm0FdYutYSKDXXDRlZ34aoUNC-yjl24JWL55HMEhADZVMZLl93zsGNf59zavSjGhSoLbSVsBgpBDlGx6kt8r2kW_9hcw</photo_reference>
+   <width>1358</width>
+   <height>679</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/107035185181041380184/photos&quot;&gt;AGRIDEA (Standort Lindau)&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJTaW8RLyYmkcR84k8AzUYYYI</place_id>
+ </result>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Aargauer Kantonsbibliothek</name>
+  <type>library</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Aargauerpl., 5001 Aarau, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.3894848</lat>
+    <lng>8.0448381</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.3890573</lat>
+     <lng>8.0443281</lng>
+    </southwest>
+    <northeast>
+     <lat>47.3907675</lat>
+     <lng>8.0450081</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png</icon>
+  <reference>CmRRAAAAA6HpgnXN7TnuaqQRGGebqNNoKV1fFVtChbrreBoYMZ4KAi_6F5j4jGZQxTEcJxzupvCqUlf1LIjezxJnDoN407jD4qXiXnnpA0IGPztaCtco0lpMKqv4w4_3yFqATdOaEhDdp4I_8qP2zMIR-ULX2QU5GhRu9tAJhAd9NaNGWbypYxx_PBH1sA</reference>
+  <id>51ce3c175fabda1a873abcf045c18456fc2a809d</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBcwAAAE0Bcn5ufpWVwTXIu5SaJ2H0OF47xLvIblkQ2MZhejDZKpsn7n9it7qzz5SA9B74uPrImgMUBOKL1NMrgnXNo0Ye8FUVrbhXCzy4iBkK0uMPgx6IPHarOW-IOiPbiX7P4SYkryP61D7GU_4GJVTSyVbA09yJlMSTj9JpFBqB3XZWEhC4sFArb9GBbq3zUBu1wG-7GhTxhmWCRK8U62EwAYUWBPuYyUWAFQ</photo_reference>
+   <width>425</width>
+   <height>327</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/113590949885961535674/photos&quot;&gt;Aargauer Kantonsbibliothek&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJFxUuKuk7kEcR5FtZxdZLrGI</place_id>
+ </result>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Kantonsschule Baden</name>
+  <type>school</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Seminarstrasse 3, 5400 Baden, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.4703640</lat>
+    <lng>8.3136142</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.4701920</lat>
+     <lng>8.3121766</lng>
+    </southwest>
+    <northeast>
+     <lat>47.4708800</lat>
+     <lng>8.3140934</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAAlkdEy9mrdfN_Fo0iiBDb2ymLREJEFmoU6q-yFGGfiBD9OOj11EAUEITPJijpltUlT65wfFmMpRx-MVPAUKeXUok_v-wsp5OrkBJ8R7fhnlhopoxaYZhpRms07mMy02tAEhDA7otBlv38OLJ5cEM2-vL0GhQsKsJchzV-bgDCT3Cwmo6QNv2DSg</reference>
+  <id>ce45604af0770648717d5a7cb6230e69fda9de1f</id>
+  <photo>
+   <photo_reference>CoQBcwAAACn5uhg0GssyJM093AB9SCUVo80p7XZQkNbl_fzLYyPBhZVlZOZBMBaIuWpmAMm3lICeWsxg75C0X66lhEVl2dhJh64nmdMDPlBKK7zTtT3Kk1tsnPcywd5cwQBXtxyCy3qC2BnOX3mAgP8tF6d9FbTfx0fGY4zMkAk5AnbdcJX0EhCGLEJymrXbkpF5m1EyAIQhGhRhHZv3l06Nf9JGqzZxYi0pgvHUkg</photo_reference>
+   <width>1200</width>
+   <height>900</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/109963213576545729568/photos&quot;&gt;Kantonsschule Baden&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJO8e5p89skEcRVWpEBfqJL7A</place_id>
+ </result>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Biozentrum der Universität Basel</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Klingelbergstrasse 70, 4056 Basel, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.5639202</lat>
+    <lng>7.5799639</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.5636244</lat>
+     <lng>7.5793797</lng>
+    </southwest>
+    <northeast>
+     <lat>47.5640188</lat>
+     <lng>7.5801586</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAA7GwcfnLPRUqm3gHLjEn9guaI7ed36UGUZjXunolGw7BEZp9hbBbgwSdItXjbYc3eSnAxRreuP8A5W5YYJmZlT2dyqwFCgsN6K_7oS7l4AWktdvmN_ydhMaCpiGOCUgiCEhD_AU6CKjX4pvEwsNb70O8SGhSKWUzu-hcnlM0ebJazVEqTGPy3Pw</reference>
+  <id>a2c0d74a49d07e19eeb361457516fc55a5112c0a</id>
+  <photo>
+   <photo_reference>CoQBcwAAAIJmnUMlaIKEq7kRTwiyIExMkoqC9xrVykL0EkKxfbOaAfFuTUy5GEQ5euWid4rEhtNHWsGekA5igJUoPJYBwsbbOzoBRx7JZuBrufZBLIPukVD6iCERTL03xaBOga75f2iXyoD1XC22nrwNAHZF8ILwqQjKshXIAnd2cIq00TDMEhDzTnrAfHj-08Z_zo9SNZI5GhT89AGl5IUZP4IwwqwPnEfarjXlWw</photo_reference>
+   <width>738</width>
+   <height>330</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/111832716604554535764/photos&quot;&gt;Biozentrum der Universität Basel&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJ3_hdEwi5kUcRdBqvEfmNC4U</place_id>
+ </result>
+ <result>
+  <name>University of Basel</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Petersplatz 1, 4003 Basel, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.5602535</lat>
+    <lng>7.5826000</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.5576836</lat>
+     <lng>7.5816880</lng>
+    </southwest>
+    <northeast>
+     <lat>47.5611101</lat>
+     <lng>7.5852661</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.4</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAA63WvVtM6zGVmgvzsj278rBerfRVwrY9-cZIEb0Kb-RnCGZG9yqOEOXv1905-kH6XW_qxVWR7-ptK8YHPgCbYUyF9W3jStbhQ46A7zT5rzXxHWqolJnJCYUlutpVP9ejhEhBu11kcfJ2LFJ9vhXWK7AqiGhTenD1Z5ywkEOOtw7IfSmRSBUDAIA</reference>
+  <id>c5d3b3582354281535520c32017454ee18ed3e5c</id>
+  <photo>
+   <photo_reference>CoQBcwAAALSz5ahNnv3k9t2BgNQveXL6ftE7ZwVIpKFVG4Fpy9cw_6m2vd6qtNKFh9z-L-nQvJo5gJ_TddbV95UcfncC_g8Q7ErIIcFCzeu6-SzmSEMuEVudNc9q9eXQebNbrtEGnOOxm1ckCcC8pmR9C1-YrXN5vibAWTkSMB_lToBSOHXXEhBiozeloJC8yi6keUK5T4WKGhQpuAT7T8eLhMP5_DUCP7GH9a2ezw</photo_reference>
+   <width>1632</width>
+   <height>1224</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/117674120228154765674/photos&quot;&gt;Carneiro Manel&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJL83_P6i5kUcRi9jPK04l940</place_id>
+ </result>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Naturhistorisches Museum Basel</name>
+  <type>museum</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Augustinergasse 2, 4051 Basel, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.5576654</lat>
+    <lng>7.5904037</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.5576272</lat>
+     <lng>7.5903300</lng>
+    </southwest>
+    <northeast>
+     <lat>47.5577800</lat>
+     <lng>7.5906249</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.5</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png</icon>
+  <reference>CmRSAAAAEEa7uLmnbF22FNx9Mw_ph-gq8XCU3v8Vl8zibMgCqSxlGMGYHwyeXrbz3UsW5y3_sYDLpPS7qXhfD2LhbooraklKvK9Wx5pkxwNv3PRJDCBrFel74nqSw6RfKh06qKrNEhB4_t_so8DkgDePc0X4gtUzGhRaRGm2BQPeCcC-zlQG6ghh7wdOrw</reference>
+  <id>23c33fe41756a1db296d10f0d016a4cec03452f8</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBdwAAACIMlzlTmHu3RZUySC1HspdjrH4TLjXfeZ1XBZZ1SNjiCRwakunGPUPd1vymuXm85sMzHIIl5zrsiVzP5azLt-Gy9c7qlARuT8JKDdrgvVxENhTJRLuOnzXA7DLggHqbN2IPT-qnsiZaBLpVrlQqMDSfvtcf9Qwu2or7X1ole6EZEhAMP21adzf89z1BFUkItW5mGhTGNjClOMhg2VRsIwTZJipwEkFItQ</photo_reference>
+   <width>3286</width>
+   <height>2432</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/113690644583523534255/photos&quot;&gt;Chris Tzoannou&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJDUa_Da65kUcRmnwa8_Oq5rw</place_id>
+ </result>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Biozentrum der Universität Basel</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Klingelbergstrasse 70, 4056 Basel, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.5639202</lat>
+    <lng>7.5799639</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.5636244</lat>
+     <lng>7.5793797</lng>
+    </southwest>
+    <northeast>
+     <lat>47.5640188</lat>
+     <lng>7.5801586</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAAKl-eJ9m0iwu99RBOUuNmPDcG3vhF5qLQy7qI71SN6gnIaT0LucUERLnuhuJCum0WOjvxXhhG-TdAsHSIqYMRSLgwt-mP4SAHeHuIEDPrICObA4bnRZsuTgFCasCVfBQkEhDy3eeslMWNTSZHyYYLUUbmGhSft5CKPbZrsH5dy_QlIP6x-buPEA</reference>
+  <id>a2c0d74a49d07e19eeb361457516fc55a5112c0a</id>
+  <photo>
+   <photo_reference>CoQBcwAAANhtQFWKutyB8ilVK51deqBEn6cIcfWPpMzQtJex2CO5u4UBUVlonnF07mPcGbRgi-Fx3luVoQlrsJM_pNahwo4bW45VB8GHHtgpgidV4-Wvn4SLNzqWJYtk4DIM-PFyPskz2NqpQD5tdjKeJKw05XFUzH50FdGjWGzvekzIvfNKEhCxME6Mcj3lwTjk6Z47KjbPGhTDWiO7ruaSp6LTOCxF6gxBUZxWIg</photo_reference>
+   <width>738</width>
+   <height>330</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/111832716604554535764/photos&quot;&gt;Biozentrum der Universität Basel&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJ3_hdEwi5kUcRdBqvEfmNC4U</place_id>
+ </result>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Abwasserverband Altenrhein</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>St. Gallen, 9423, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.4900762</lat>
+    <lng>9.5681172</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAAy7C_7Jm7gr-MuGWigk0N7HSpgEaJdGuPWPjGyq2P5MWJAMqsBpeMITNObfgH6GiTcU736vob8W8vY6caDEYye313BI8RJEVfgY21feL1dgATkWBvdXSD_uReWxQS0gosEhDaM1HY6ar6BwWGe25ygDhFGhR_8aouT9O_pSE8r8OvdILV1CJDUg</reference>
+  <id>321a642163de8b9d4c0b9a096ecd1f2d3b0b6504</id>
+  <place_id>ChIJVVVVVYQam0cRel8KZ586Mqo</place_id>
+ </result>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>ZERO_RESULTS</status>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Agrogen Stiftung</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Gewerbestrasse 11, 3421 Lyssach, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.0803238</lat>
+    <lng>7.5833182</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.0801487</lat>
+     <lng>7.5827443</lng>
+    </southwest>
+    <northeast>
+     <lat>47.0803822</lat>
+     <lng>7.5835095</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAAl4HNdOKcLCnErT7TBTOJw61yIuzU-VH2shVfhokhul295BdALAKf40-dVyoj-Cm2VkIqeUBv_jEu5Uop89VI-h3uWfIPtfLmPcR2347H2egykNmxpdKlsJdN-Haex73LEhDs7KyIFW67OH1xyT42aQPrGhQOlRZ_EDVYAGC-LmLzb4u2AWAWZg</reference>
+  <id>029686f6c3fd5b6a2961439274eaf0b334c3a75f</id>
+  <place_id>ChIJn26jVH0ujkcR2EuOKo4dwSc</place_id>
+ </result>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Albrecht von Haller-Stiftung der Burgergemeinde Bern</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Hallwylstrasse 15, 3005 Bern, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.9410692</lat>
+    <lng>7.4497694</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.9410183</lat>
+     <lng>7.4497489</lng>
+    </southwest>
+    <northeast>
+     <lat>46.9411419</lat>
+     <lng>7.4497838</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAADwHYo74v6dHOoFCo_9_xqLt-twOm2Fal4fTJXerkKv2PeCGzohFP_nvrQphV6zQmgxUZjHEouWtl6N8RkH8w4U3apVgN-eREQeFdsiJGjFVoUgvE7UZLzZkALSYUwFYAEhC5Rrvl9IAFcqLPa2FlixVaGhR7pcxGcjg3K5H8IQBURfxclOG0SA</reference>
+  <id>89b715c1d1f9440b87d32a038612e8b26de00e06</id>
+  <place_id>ChIJ2Q41BMQ5jkcRfMqqdtJBt0k</place_id>
+ </result>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Alimentarium</name>
+  <type>museum</type>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Quai Perdonnet 25, 1800 Vevey, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.4582370</lat>
+    <lng>6.8463990</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.4580324</lat>
+     <lng>6.8463357</lng>
+    </southwest>
+    <northeast>
+     <lat>46.4583052</lat>
+     <lng>6.8464201</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.3</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png</icon>
+  <reference>CmRSAAAAIrrUOZ4_U64clGrsmGSQZ2Z-mv4qufaaJYlrQ3XPN3ma95ntRptc4y_Cm3buRGfbUKzOUtU6gTZwGuOAu00dcsOsAsa4RzT3ZCLwLNdcaN6iq2nwFJ7dsTvyvYtyu2Z4EhCFh3937kSrxpUy4HyR0XFeGhQhe5PvtXYEmiDyi-_Q0kfSk9-3Lg</reference>
+  <id>a48f275d2d826812b2daa19a47df4fadca3eaf28</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBdwAAAKO3xTynBfgCXFW-vMQH1z7kohODnjkzXfFl4VEFDm29HdupftBAfWg-ZeYBnzXkH2Q7VqUhpl78NUMrJZAB7zdelySHaVaBHMGFmvPvj0kQZL102E7p9_0o0NLgslAaTlY_b55ruMqJJTJ_CQ8VEkCdE56PSyrDE-M_Qsp5F2T9EhA-iLmva3l_vP4uYamBAFgMGhTCkxey5rLQUQ74yX7AkxDh2mKOew</photo_reference>
+   <width>1718</width>
+   <height>975</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/107932828690766033859/photos&quot;&gt;Magda GHALI&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJlwgPANScjkcRfVQ5V-JunNo</place_id>
+ </result>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Alter EGO Hair Salon and Blow Dry Bar</name>
+  <type>beauty_salon</type>
+  <type>hair_care</type>
+  <type>spa</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>119 E Hargett St #2, Raleigh, NC 27601, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>35.7783229</lat>
+    <lng>-78.6373191</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>35.7781402</lat>
+     <lng>-78.6373501</lng>
+    </southwest>
+    <northeast>
+     <lat>35.7783838</lat>
+     <lng>-78.6372261</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.6</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAANw72G62NTO3c7HI8UWFEaRL35z56yNDs5wfwd9-T9SBlMmLSgOJzZv1hUZPk2GPDN9LoDDIrDKXW4atOX_HO37o57zwQE3rcXJyvIMYgacyIJYg1H_3MPu0ehoUPZQfaEhDJJxuI_Ouh5khsu9fEN-JKGhRj0D6g_gZQu0rktFIiGhd_zczLmA</reference>
+  <id>e8fd7f75496c3bb4b5660c30331da5dbabf95090</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBcwAAAKGpYiy4lFu6Fs2r--RyDK6m0rUo08JZGgMbPh__iuq_FyNr2cb_T1vvu0xegMl1-2q4F5RLqBLB0xjTLsEGVMoe4YCHv-IRPzolU4UReb8FPrnOqe3lLwFAFCuWqNH2Y6iGpt1kV9ssVTVV4_0ktk0jzpBa8xPWgtx4jcd_dFybEhCT8euFpHNirCY51rRlEbReGhRRmHgWa0mfooJB2Vjsurco_gVWbQ</photo_reference>
+   <width>645</width>
+   <height>645</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/109409341425968426486/photos&quot;&gt;Alter EGO Hair Salon and Blow Dry Bar&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJ81Vxg21frIkRvVFJ1iDUCYc</place_id>
+ </result>
+ <result>
+  <name>Alter Ego Motorcycle</name>
+  <type>car_repair</type>
+  <type>store</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>6205 Goddard St, Shawnee, KS 66203, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>39.0162914</lat>
+    <lng>-94.7092245</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>39.0162882</lat>
+     <lng>-94.7102117</lng>
+    </southwest>
+    <northeast>
+     <lat>39.0162925</lat>
+     <lng>-94.7088954</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.3</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png</icon>
+  <reference>CmRRAAAAohdOKVKVrRXx3Yd4uN4rLw91wHxsLLjimgFY_8qwGLRu_DSKO1vs46s7Sd4HWbIL2g4VGHzMg4wgrYAAzwsU8P6YuHF6Y5ogKO4IRicQDKe7yMO9A3hrMTacqeviSLZvEhAmBIEy3NxVy9QbEmHZl0QEGhSbfx06cSGqz2hE_naUi7cv9E3C7Q</reference>
+  <id>5e5f1f729081a5a51265711131f8ce4ea1c94728</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBcwAAAPLaYi73Zk68wc0FX1qXOmu9v7caSjVXv-eXYzbAGlj-QivOqhnjYaoquKcs9khADUz16ASvSYxNUxuO2s4gUeFc5giWS8iOIXnfa-xt2uV5iOGXMMIaAENtFTQmubPvihu4WBffvO2g1VgnF0I5ZOV8MtCj9v-sL0GY9DPZw81LEhBLfT-UwKXZE14nV5cxLW-aGhQmxC0S8232ocKbEiv6c0gYK9uYIw</photo_reference>
+   <width>604</width>
+   <height>497</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/116590018463491494679/photos&quot;&gt;Alter Ego Motorcycle&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJZ_wBCd_swIcR79Hwv5u1VXI</place_id>
+ </result>
+ <result>
+  <name>Alter Ego Fitness</name>
+  <type>gym</type>
+  <type>health</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>101 SE 2nd Pl #120, Gainesville, FL 32601, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>29.6487679</lat>
+    <lng>-82.3236388</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>29.6483240</lat>
+     <lng>-82.3237438</lng>
+    </southwest>
+    <northeast>
+     <lat>29.6500995</lat>
+     <lng>-82.3236038</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.8</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAAcdAq4EquTlu-Hzib7dIcauTwriQ9-AWQFXPOZ2TVEg7hrKUbdXftfVteRVoQMCxW6lXSY-XvDZet5Rl5YDKgOvjoUKiI5sgtqiuAxc3o01Ky9SWeRcEmxMfSwjojgOPVEhDBI1L9gg2yEWeBDHLNbw-EGhSvDFEqpR0zjrps6nMqsq7fZW7jYg</reference>
+  <id>0db5b72ed8366712ea1a9263a2b7ead95981f079</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBcwAAAF9RGfmvPUdDV8MHrHQTEZ0swSs5gzGRcGbco6NsJZGPnnB5csFRxziu8MzK1hzLKEFgz0kJDtLlXKkvpkEZtdSUeveA8WOweOlgSfXiTnOJC_q0-K2bom9C_FiGQD5Vj7qZHc06899I5EP43zYBHyxbiFvD5nP4CK8yhQ5yNVmIEhC3TheEPlz0zMkU5ytbAYP5GhTuSJBe-SlIPvXSiKG6jLuMCru4HQ</photo_reference>
+   <width>720</width>
+   <height>480</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/115483788356274271992/photos&quot;&gt;Alter Ego Fitness&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJTbgFM42j6IgR6JBqQFsTGkU</place_id>
+ </result>
+ <result>
+  <name>Alter Ego Hair Color</name>
+  <type>beauty_salon</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>425 S Jefferson St B, Frederick, MD 21701, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>39.4083386</lat>
+    <lng>-77.4295453</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>39.4073589</lat>
+     <lng>-77.4298232</lng>
+    </southwest>
+    <northeast>
+     <lat>39.4086652</lat>
+     <lng>-77.4287116</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAApegnUGpG6DI9QVbKmwzvvOXjA3Q2VuBiltEDzn7KQn4zRTZN9cwEPA61gSJ_9wCRi2aFxbu1L9P-wW33dAbYtGC91jxC5Hrd3cFN44xnog3Q4QmArUA0be9XjYL6BXVBEhCX1nNZemO8GY_a816DBqFfGhTEYvlt31Hhq4U2NxdhXhFK0u2Oww</reference>
+  <id>b94486d0b07efc7cf05ba3c4158f54f9836ad143</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJIzRD0LPbyYkRFIWYawf8wdo</place_id>
+ </result>
+ <result>
+  <name>Alter Ego Concierge</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>111 W Washington St #1340, Chicago, IL 60602, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>41.8828273</lat>
+    <lng>-87.6316716</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>41.8826341</lat>
+     <lng>-87.6317537</lng>
+    </southwest>
+    <northeast>
+     <lat>41.8834070</lat>
+     <lng>-87.6314253</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAAgT8hpEikuxe8nj_6VvBAydH0sXGx53wjlOCDLeowDvm_H-JHEldIsYEiulHvH6IFkncoazEEaepVbzdZ6-oJDaqyKKHs1fs3g6gUrDmUItziU9TDDi0cS5T215j5gPT8EhC73x-V01pY-lnuHItQGb9mGhS6comcCGx2xaptWy0hRHiWXmxJJw</reference>
+  <id>b768f0c4a4e3acb197fc37243797c731d99cabc1</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJh9FUfLssDogRIqXmXAukcbg</place_id>
+ </result>
+ <result>
+  <name>Alter Ego Salon</name>
+  <type>beauty_salon</type>
+  <type>spa</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>50 NW 2nd St, Gresham, OR 97030, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>45.4988412</lat>
+    <lng>-122.4320101</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>45.4987390</lat>
+     <lng>-122.4320186</lng>
+    </southwest>
+    <northeast>
+     <lat>45.4991477</lat>
+     <lng>-122.4320073</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.4</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAAbZPFdS1cC_OmyovLGOMBJBhNpXQYxPspouMSY_728981ygTjONySVVbYv0VgQSnE0m-wf-3Fd0fYssrm1fJaRFVrHcqhAlLof4XEiEN2GG3sTnWU-FuPpYWWaHXJPdCWEhC4uNuFCZ_-x8OGJhAhOexKGhSIk_JKEyzQEPOTGCqUHycj5a8H4Q</reference>
+  <id>8e6ab658769e9b1035bd31b4b90e0c0412ee71d1</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJ1510b_OYlVQReD9R4NyPm2Q</place_id>
+ </result>
+ <result>
+  <name>Alter Ego</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>47 N Main St, Sharon, MA 02067, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>42.1251200</lat>
+    <lng>-71.1775229</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>42.1250611</lat>
+     <lng>-71.1779696</lng>
+    </southwest>
+    <northeast>
+     <lat>42.1252966</lat>
+     <lng>-71.1773740</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAAc0KhasTManM_-uX9PN28uS_6tD4pP1ppXBLcN4HZuNlWV5UEKQgc06OFnz_5Eac-qEXRt6ktB97RmIz8az4oEBJ0rDQWPZQLNVTqy1UenMvlzvVM3Rc8zXGn2pwNMsWVEhCjp6bqtGz8igMkKZoI77tCGhT934KPSzi1sjWL41dtNuHn6NfgRQ</reference>
+  <id>438b52867f7254d66b4d322e5cd8c8c8eeec6b29</id>
+  <place_id>ChIJa0rVf0KH5IkRbhlDbD3MS5M</place_id>
+ </result>
+ <result>
+  <name>Alter Ego Studio</name>
+  <type>beauty_salon</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>4545 Gertrude St, Port Alberni, BC V9Y 6J9, Canada</formatted_address>
+  <geometry>
+   <location>
+    <lat>49.2580055</lat>
+    <lng>-124.8100314</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAAIdIKJuda77ncX_nL-CrYpNO2jOw2Fkp70au_2vsQUjYb8qHo2YE0lkW7wOHI2uneBNhCCkbIHgeL0KxA8krfrPvy2VjaT4Vsm66XLPJDc-iIX25NnQarpVe68zrrK1LSEhCdG8I9-laqQTkwKThwogUlGhT4_x5NjE466VrSTo0Ub0pPFSlGiA</reference>
+  <id>d4d2aff37d48e1876573dbd78a36877c6b6d865d</id>
+  <place_id>ChIJo74aLx33iFQRE5MGfQY8WD8</place_id>
+ </result>
+ <result>
+  <name>Alter Ego Sports</name>
+  <type>bicycle_store</type>
+  <type>store</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>1605 Pembina Hwy, Winnipeg, MB R3T 3Y6, Canada</formatted_address>
+  <geometry>
+   <location>
+    <lat>49.8316825</lat>
+    <lng>-97.1513927</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>49.8316601</lat>
+     <lng>-97.1514885</lng>
+    </southwest>
+    <northeast>
+     <lat>49.8316899</lat>
+     <lng>-97.1511053</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.0</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png</icon>
+  <reference>CmRRAAAAJ6T1KDdtUgZDBsxisbaY_5e8HVfoOAIE3e3Gq3sysx4WpvJzwRp_TZ6uUK6ZCVoJfCYM5DWamysNAptEcaaqdorUIiXwQCoSHXf8g4_4dtfCWvcmllVOQxQViKSC-fTEEhArZqLQXP_rUWpywgSq-aBQGhRHeQKJZLUDkx6drQCt5mtvt_SqYQ</reference>
+  <id>3866b6d8e8ab1dfb79892bde24b6bbe46c408010</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBdwAAAFSWaHj9qJ9zws9EfCAX3sve5oPYZxCUBMgut26v4C7AxsSJSfEmgPfSQqmcUT_0YE0Sgx5InoaTRs7UlRhWYdCpu-sBTeAKaqPYWzJV5zx2GI3E0Rdn_NHyhJQ8uM5sm3xb1Dtv-Jb3Hi2ROwyuWysaYXro5JJVRdv6Kpy3IV7BEhDd3OLd-hgEbtFfEX526oM-GhShArqjszsyynbYMSbvrgK1EtR0IQ</photo_reference>
+   <width>4032</width>
+   <height>3024</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/108852877126755752118/photos&quot;&gt;Chinmai Managoli&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJ3SsiKs916lIRHDeNjzdrTxM</place_id>
+ </result>
+ <result>
+  <name>Alterego</name>
+  <type>bar</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>77 Whiteladies Rd, Bristol BS8 2NT, United Kingdom</formatted_address>
+  <geometry>
+   <location>
+    <lat>51.4630671</lat>
+    <lng>-2.6086972</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>51.4629931</lat>
+     <lng>-2.6093566</lng>
+    </southwest>
+    <northeast>
+     <lat>51.4632891</lat>
+     <lng>-2.6084774</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.5</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png</icon>
+  <reference>CmRSAAAAtxF1haLAq09N9rRt3zxkiUcK5tQOS8GZKx2deXgFPsRQx5kTU8B6FhU29tSDTn0OF3l6rNZEoE0g0BbwtkO4xnpz88ccW5Bx9vwK3ztfYCJyVHUnYEmndjixfc0q4NWdEhA2ppDa6fA1OtzARRCqssCBGhSVGOkT91cgD_Dey6e6Rxc77fDtGw</reference>
+  <id>52e91a8825e5a38f1fcfe59a9f292488267bb36e</id>
+  <photo>
+   <photo_reference>CoQBcwAAAJRiH0rxRDwoRUxcJQ5z38bMjL2lcskflvJJL9rgNGfbd6T-YDNbOd0uDu5CFVgYWu9tAtyARLdJptBljbNrJbI7G28xLbOVOSQ8k3cSFJb8grA_rIs4H8S_uCdv7OowJWP-fhVZ1QxqEsANhmUOA_Otz8X7n1fm4K0kqMxvqLJFEhCL44kGy-oYLAMNEQBmHu-QGhThaDNLIkdke5T1Op-hv6OFo48-Ig</photo_reference>
+   <width>1076</width>
+   <height>1074</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/110108015847341105098/photos&quot;&gt;Alterego&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJH7NVzcKNcUgR7I1wVma1upc</place_id>
+ </result>
+ <result>
+  <name>Alter Ego</name>
+  <type>beauty_salon</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>34 Windmill St, Gravesend DA12 1AS, United Kingdom</formatted_address>
+  <geometry>
+   <location>
+    <lat>51.4401967</lat>
+    <lng>0.3692508</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>51.4401743</lat>
+     <lng>0.3689846</lng>
+    </southwest>
+    <northeast>
+     <lat>51.4402041</lat>
+     <lng>0.3693395</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAAt2XdooCMvKNx8l4cWr11PWQB4MyB8yVHnxMR-XXb8jvQ0m2CMQiGt6m56ufHKCl9oG4dcl4rVLEHF5ebUNqByyc5x9yMdRmLDyfnN9rP0lvJUX_PwtCzx-zJZtk_hIndEhB5TZvuPS7bs_fnyHgz0D4eGhTX5fmtubPP4UEu4dnjfIsSqjuTMw</reference>
+  <id>552c439f9182ad36b3cee652598ae03c78dadfa3</id>
+  <place_id>ChIJ4TtQpQS22EcRq3LC08eq76c</place_id>
+ </result>
+ <result>
+  <name>Alter Ego Hair Design</name>
+  <type>hair_care</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>9 Church St, Colchester CO1 1NF, United Kingdom</formatted_address>
+  <geometry>
+   <location>
+    <lat>51.8889482</lat>
+    <lng>0.8955109</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>51.8888774</lat>
+     <lng>0.8954998</lng>
+    </southwest>
+    <northeast>
+     <lat>51.8890024</lat>
+     <lng>0.8955254</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.7</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAAp520DOoLJRD5Bk1Nl7WbB8TEDsWAtrTePFZyJt0Su6uG5BYBxPNXzosqaZJJUgw3NbZAvYESri5Dn8IqXFEjE8MO9e2SzkVXHaSojZaO-nB5eO_N2t5cs3217dICfn7SEhDwWklT6fcudcDGqVABlN1tGhSjS4cpAQi9RZq52Q5AVABXV85ZZg</reference>
+  <id>bff561c7a8136f8d28126c51fb663881fa6ab6d8</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBcwAAABZOPgXY4_VDcQeNOBh2-sr96WUT2Foy32Da-D0VupL3xT97pxdOCmKWAz4d_9sEQAe1yTi6p7mmBi0ND5FLKp7pBYdqGXY-4Jsu-LHF76J03uA_n8wuz5wGJzVcoyzAtSPR48I-Gvlw6vhEv40VIwDrIPvmY_wUcABrLaB3H5QUEhD-rRHJuEH2vs6yWlSaokabGhTxuW5l2_GnndLkdIP9TLxXoO4tLQ</photo_reference>
+   <width>1500</width>
+   <height>1000</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/111049147662771564585/photos&quot;&gt;Alter Ego Hair Design&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJ27Acj1gE2UcRdeo-Bk6KEv4</place_id>
+ </result>
+ <result>
+  <name>AlterEGO Club</name>
+  <type>night_club</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Budapest, 1066, Dessewffy u. 33, 1066 Hungary</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.5055687</lat>
+    <lng>19.0577894</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.5055254</lat>
+     <lng>19.0575944</lng>
+    </southwest>
+    <northeast>
+     <lat>47.5056987</lat>
+     <lng>19.0578544</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.2</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png</icon>
+  <reference>CmRRAAAAV_Z5elp_CvA1PV8_aqNiihR0bX1LA2v0KyeN61CZ1DUNPxoxhofPK99kwquuFe6Ys3ooNJd0ZcwQh8gxEl7M1k_DxFTUJ1aPSKGCDwl-OkpuQdmk61gx7wIgjsEe1eyHEhBvjTKUDOkGqXuXxv-ppx9WGhQ2-i7LrRjBA6TIWVeWsFL0CbqyMA</reference>
+  <id>0dd7deea80418a0b591ca2b3cf7d4d6e77f90143</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBdwAAAJmdkEwcmWr0SVAU0ce3kfB_P_chDRXrv0zd3VjtSyDc5FDGqBHuJdH1nK_OVyNyAjjSx1eVe0IacpkrRakk8kwiDQr3A5mj-nRnCTvkxryAuvs60b7SaISF7Ng4LEP4a9lElq8j5_jwK4xADJkw0DZ16_N910wOXpXoNCr39YRTEhAQWOkzpqplNqz-8kr7I1OoGhTTzLtfgT2vbbPmK9sn8v2CJK69MA</photo_reference>
+   <width>1080</width>
+   <height>720</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/102550732352784644522/photos&quot;&gt;Miklós Friss&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJxa4F4GzcQUcRkTg_tMC6FW4</place_id>
+ </result>
+ <result>
+  <name>Alter Ego Fitness</name>
+  <type>gym</type>
+  <type>health</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>2515 N Scottsdale Rd, Scottsdale, AZ 85257, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>33.4759372</lat>
+    <lng>-111.9253648</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>33.4758228</lat>
+     <lng>-111.9255453</lng>
+    </southwest>
+    <northeast>
+     <lat>33.4762804</lat>
+     <lng>-111.9248231</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAADqV76O3NOUNSsEaYlkLgWPRh1tJB2d8nML16MwoMBXaAnqvjnG1S4puIr0eORaKMGFPlorG4lYuZMTCOqt9U-OZLiBuq0uNPnOK_3x5FtU0tYnId09sj05_X19IPS7UlEhDqrehWhstNe92vYhBFJsN2GhSvIqhl4MZY3uO2KIHtpl0imykcNg</reference>
+  <id>6504932fb41e8c1cf98b852f57d5820615a7cffe</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJ6wPLNUJ0K4cR7lUq903_g6E</place_id>
+ </result>
+ <result>
+  <name>Alter Ego Hair Salon</name>
+  <type>beauty_salon</type>
+  <type>hair_care</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>9145 Commercial St, New Minas, NS B4N 3E6, Canada</formatted_address>
+  <geometry>
+   <location>
+    <lat>45.0674171</lat>
+    <lng>-64.4508310</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>45.0671450</lat>
+     <lng>-64.4508694</lng>
+    </southwest>
+    <northeast>
+     <lat>45.0675078</lat>
+     <lng>-64.4507157</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAAsbPdGtErgBsech1TjbheGCdMgP5syXc-mk3H8Co-rICeQbY4nOIO0ZShCvhf-LwrY2OBRBAR9Sok7rfm8Iki0Bprp_A9eE2iHINe7ky3_EJc4U2GFjWYtZxUMGrRIut5EhDQsD4CRGkA8BkUv26mTiEpGhR-c6diuFHkmVo7p_e6ayZ9rlmEFw</reference>
+  <id>ef54c2094a80de2e2a2f6a771f7a2a99b717bed7</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBcwAAANApW4PGa3dMQ1vmvUVz_Rr_jwq4txgF4dDDwEP-QrnRdUiJyBB3XYtxGZ9uNk4PYXINbQvidbqHDRYJZ06_M0NOoWLqbKVmsdXYFKBxQ9siRqlSfYUxVdZ6WpwFfgdfAWlBOlkdo7Rp9fjHiH0YpaoyOm-8qPfYwlobLEJQBQOoEhBjyT2XuythKiLOHv5GvwvXGhQLZvNJlbK1Bbo1iRkFbTBuREFvYQ</photo_reference>
+   <width>1339</width>
+   <height>1341</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/100700053540746571163/photos&quot;&gt;Alter Ego Hair Salon&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJFeC6Na9WWEsRP8QiQ8YqQxA</place_id>
+ </result>
+ <result>
+  <name>Alter Ego Comics</name>
+  <type>book_store</type>
+  <type>store</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>230 N Main St, Lima, OH 45801, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>40.7421905</lat>
+    <lng>-84.1047884</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>40.7420711</lat>
+     <lng>-84.1050743</lng>
+    </southwest>
+    <northeast>
+     <lat>40.7422303</lat>
+     <lng>-84.1046931</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.5</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png</icon>
+  <reference>CmRRAAAAivZI3OGm2lLWsYx-_NV4ZmQ5s4O2paAHp-cWpwalB6_FeOZpm3CY2DxuLa3kTOYPJEKzbVtklAFvEU7DDAmR0NuUDxekZ-lhSBQHZLGm_mkyylYWCfPeE-N_Sp2W-zf4EhBF_Ct2Nl6o-lYhWl6blknXGhRATt1-x0sYm_VOCDKEJzo9Pes5FA</reference>
+  <id>38b07de51b39fb6f065b6c88a19e18cae551e4c7</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBcwAAAAhT3OKrofT7diBOChaIrAHnuw4XhcZ59ygeG__JTwFs8Xw7lCQPBD3A6q9Qx3lQHbu0UJJmDjcZcQqXGLzEHaLUXVe2VXXmEymgV4g_2NvVk02hMjN975GRcNBBQ-NFrjZQQvKBG9mx3u6hUgtyf4EOq2FSOUfwtTIU4QNhbGf1EhDmkqyRC906BX58XkhsnD_SGhTfdCGI3PpEXaKotezRbioJMhOpvA</photo_reference>
+   <width>470</width>
+   <height>470</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/118049047502535736944/photos&quot;&gt;Alter Ego Comics&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJuzcdZgnyPogRme6TjVM7BWw</place_id>
+ </result>
+ <result>
+  <name>Alter Ego Comics</name>
+  <type>book_store</type>
+  <type>store</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>15600 NE 8th St K-12, Bellevue, WA 98008, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.6194672</lat>
+    <lng>-122.1304130</lng>
+   </location>
+  </geometry>
+  <rating>4.5</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png</icon>
+  <reference>CmRRAAAA60CmS80jKWysK-jc8T9sVf1_PnZjmwEHLWKZFs4OgQAB-5CDWKW8al-krUtt6KrWGq9Q9fBf27r5j4IL865wJgRs0gFlZBzwqdKNVc1V3qtaX8xzII8igsBOtv2q1c1kEhAYPpG4t00TE4CpmFcy-jBiGhQupevVlK37u35ePkhgLRQWoOgoHg</reference>
+  <id>eec4c7d65e892e3acbe956f54638a88c782def8b</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBcwAAAB9AuNoYzcxPrk_KjVmLGGMZkOdyX3jYRLsjVescS7xrQF0IA5Nv5_TA66ZaHiSO9YzIO5kuKeex1OYnt3dTwzDkWBZMtV4wJ3lSJClwaUNywJ9ck_hCeVcyWW47WshunmucXzYokSTU58MKoZIUJscM4b0D-YrVQ6ohGRmRFsstEhATZ6yTEwa1bAgcsaIpQJXfGhQEEDKAgg-XO_Gdm384zoS5p0aTvA</photo_reference>
+   <width>3264</width>
+   <height>2448</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/107970580441184720414/photos&quot;&gt;Chad White&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJ34yt0LBtkFQRiBs9Fn0qOCQ</place_id>
+ </result>
+ <result>
+  <name>Alter Ego</name>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Roseni 8, 10111 Tallinn, Estonia</formatted_address>
+  <geometry>
+   <location>
+    <lat>59.4389666</lat>
+    <lng>24.7558483</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>59.4387931</lat>
+     <lng>24.7558144</lng>
+    </southwest>
+    <northeast>
+     <lat>59.4390244</lat>
+     <lng>24.7558596</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>3.8</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CmRSAAAAHxu53vwqhJsSbMLzK64Xd3YNTKnEvoLTZRYbw1X19yvYeNH-izVvQvjbRW7-E7tRABZi2li79MTl5UZZHDCczPc4K_QDjtNloO4Qwm2cWmDGg1guiaOQnqrMJVgrkJsuEhBfYBresbGbNGyR11Cp9H4xGhQKnlhD2z8eGAAhXW6Brn63MmlnJw</reference>
+  <id>0c7d7e2c87546456557daed6720c77f30de487e6</id>
+  <photo>
+   <photo_reference>CoQBcwAAABFa9SHF202RHfVh4yl3ONErT0ou2nl1MrXneBYvbZk5oiW9JMabyg_FuU3azwa4DV-jhgavvSa45rq5bR_cafkENwNsEFwfSwGKOmFj5Ar_wdSMQSLt0xLyttltIFobNy8W9mgPU87mGYgr_Uu4ixJomvrzpO6_y67zaRUbLi69EhBLwJe3amCJOLQ21miGXDNPGhSKINd7HvJlsx3_WfxHvfVK7i-mYQ</photo_reference>
+   <width>5472</width>
+   <height>3648</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/106255866708063119302/photos&quot;&gt;Антон Фомин&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJQ3Ip2mCTkkYRxt5qEEBjqMA</place_id>
+ </result>
+ <result>
+  <name>Alter Ego Hair Design</name>
+  <type>hair_care</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>381 N York St #14, Elmhurst, IL 60126, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>41.9092838</lat>
+    <lng>-87.9396598</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>41.9092416</lat>
+     <lng>-87.9398773</lng>
+    </southwest>
+    <northeast>
+     <lat>41.9094104</lat>
+     <lng>-87.9395873</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>5.0</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAAHvmc_H1DFAsb68nEhj7pXQTENo8McVJ0lTdH4F1z0ADEG5OMBw_-yL5u_2kQlNlOUCEaMmRxEpmBr0oFyWPzBDH-9e1_da_jbu11Yik3ERatpxxhqGl-spsQXABsKTuqEhAEyZYs7NKFgneSmEQZckivGhQMFPCOH1wbEbdo7N0zSA3WiXCdKQ</reference>
+  <id>ce5a84ca986b0df1077210c94c274fc6ef4460a9</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBcwAAAETXqZC0aRgFGa4TLCn76jEX7qzEcteWcdJrnvP6Dj9dU8fK6jygTeKSYISODB6NrtWc0yQGKqoNXSnBIqDGMShd2WG4CJWlVDmDwHzGMVE5Re2B32-0GiNYNsyfndm-YuQXRaLN8mmBGD5ZdMOR9C3gxY-jhdwv75ZjDyZJjijEEhBVXZMOUquKAgeLopIf5EX_GhQ-DRIdAraIG0R9J2DmyNA77GQ15g</photo_reference>
+   <width>800</width>
+   <height>800</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/105952380683445345064/photos&quot;&gt;Alter Ego Hair Design&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJq-SlxFCzD4gRbOhNYqriwiY</place_id>
+ </result>
+ <result>
+  <name>Alter Ego Costume Design</name>
+  <type>clothing_store</type>
+  <type>store</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>2260 Park Ave, Chico, CA 95928, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>39.7165725</lat>
+    <lng>-121.8193368</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>39.7164040</lat>
+     <lng>-121.8194966</lng>
+    </southwest>
+    <northeast>
+     <lat>39.7170780</lat>
+     <lng>-121.8188573</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>3.4</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png</icon>
+  <reference>CmRRAAAAzK8l1KdmMyPPW8SZolEQhu88o0aEwDQivYabplZBs7Yq62VjJG3JyNUszR81R2b0DsidFckS9zSh6dOx7yzaTxug_rveOGZRHk9EzF4EBcjdmqnu-4Dp31Z35S4awxg_EhD3NUX4PNxhx7ZFtVcq55mMGhQsQzmVIc1kELV1uImat7PVM8i9aw</reference>
+  <id>bbe0551f40c56a0a83c6056f2453bbb7dddc9200</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBcwAAAAH10sDAuVp0U096zBlykR2WLeUpOujkt-JUbPEFcd807kaIU2NR6hiE9dUSyzJTe9-vJk2WS09KdDQ0nXH7P77GE2a7L20A78d4ge19_-ol94PW0H_maWSNAcJ4-tn3t8_ZyHgOYem_15MFoBfUYBajjOj7UpVILF2Nt5S1EZsOEhBIOO787gDHo89BwQPZoGwaGhQpDpJ2JkqiMegdz7w1uwizNlbJTw</photo_reference>
+   <width>251</width>
+   <height>252</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/109270186901064631056/photos&quot;&gt;Alter Ego Costume Design&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJ2waCfy8mg4ARF26xO2ybAkU</place_id>
+ </result>
+ <next_page_token>CuQB1gAAAAYKoMymHjzx9qhVDXXzcck-I39y3T48Wx53V_VKc7OdJce3AIiOu17aJlzck3eCnk86y4CneJzbz3PXDkZIydlNANRdpzfVs6GosYpL9WNgbocWC9ZH4QpjlSHLGPUHKzLODJ-5NzadPDwQsROvDJlpmW0EVuHW_i7pErc9lSqjjdYG0W8PGlgrhZhT-Vts_6XUsejmHYTx86Om3SqkJlLyuuWaj6Q1pJJZI2KgXIRpZ1jN4B8a9isbq3VAa8ndDzBnAcf7TxbSF1Moqv--A4Y6dpCjM64UfKqC4h1P2aXaEhCqH5zkvDLI2zf6m-a0NB1dGhSc1MkIT30Hpu0mkDN_cdxOmynSoQ</next_page_token>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Amt für Archäologie</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Schlossmühlestrasse 15, 8510 Frauenfeld Kant. Verwaltung, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.5534296</lat>
+    <lng>8.8975311</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.5533527</lat>
+     <lng>8.8974998</lng>
+    </southwest>
+    <northeast>
+     <lat>47.5534740</lat>
+     <lng>8.8975491</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAAzXauSJ9UTtGiiNUFM0jmOmNPjrGJ7qoJFcO0jCmwfb02uSTY13CQulX707J6gBMTk2ZmNrhA5Y7zjSzEYN0x_iWKzLZzDGFo9LzYKHFUAGap7sZjxP2S6s7onOA0GaoQEhD8Is5AcW1WXfU7aGmSWH8mGhS5rWtU1NbPCiYeSSwqykMtLI7oLg</reference>
+  <id>f3884d99d9aef09c443d4ac15b7d61d2fa8a7edd</id>
+  <place_id>ChIJx5zEYyGSmkcR8A8G3jroj2U</place_id>
+ </result>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Baudirektion Kanton Zürich</name>
+  <type>general_contractor</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Industriestrasse 15, 8910 Affoltern am Albis, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.2722513</lat>
+    <lng>8.4464967</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.2721350</lat>
+     <lng>8.4458218</lng>
+    </southwest>
+    <northeast>
+     <lat>47.2726001</lat>
+     <lng>8.4467217</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAA2qozSP1kFm20EAKdHO4tRoElbOXHynCuy1uO9YxVhCiu6wOf7zgV61VNBkoX02BscQgVpUWoNcCGINnjbKqnTvxieaRYPd8BD61mFpbAX303rdVLIbXBtYYJixhJkURgEhAgzM6DAaPRBtttV4f1qZpaGhR3uwqcCdskFF0R3mz6Prny3cPGog</reference>
+  <id>752ff11deef3004c838317fa4d23478d9e19f092</id>
+  <place_id>ChIJcQV820YGkEcRReiwDikh550</place_id>
+ </result>
+ <result>
+  <name>Kantonale Verwaltung ARV Amt für Raumordnung und Vermessung</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Stampfenbachstrasse 14, 8001 Zürich, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.3784586</lat>
+    <lng>8.5437125</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.3784476</lat>
+     <lng>8.5435358</lng>
+    </southwest>
+    <northeast>
+     <lat>47.3784622</lat>
+     <lng>8.5437714</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAAmEe0AgvFCGYV1fC0AZiNJe_fDAuLMkzrPDLLvlIjNK6lXeoIv1hnQjlGY7BFnJeQrgAOEOTDAqigL6TU-ZKZ1AEtyyj7KAKczsEO1jOMHAWl2LkNW1DdC5dd_RPHAcdaEhAG-RcsZyT2EQsfGrLnx3YRGhTEqdUJX95wa80Q0gnIHl2pcMWj-g</reference>
+  <id>09608aebe27a08c88387eb16a486bedbf2b5cda5</id>
+  <place_id>ChIJk6Z5KQgKkEcR9Hxui6hMHXM</place_id>
+ </result>
+ <result>
+  <name>Baudirektion Kanton Zürich</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Postadresse: Postfach, 8090 Zürich, Walchepl. 2, 8001 Zürich, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.3787288</lat>
+    <lng>8.5433382</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.3785582</lat>
+     <lng>8.5432168</lng>
+    </southwest>
+    <northeast>
+     <lat>47.3787856</lat>
+     <lng>8.5437023</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png</icon>
+  <reference>CmRSAAAAUhnkSoZexUBvU_nfAOh3aUPOHUut70tLt6cdvZ3jgEZhKcaLsJ-Pae9-MKU_ZsbGQY6wWC9qfCxsS3B_e-jGy4G0qkKfNEJNdL4klxY-RBWj6DicnQtAoz4spGvtZwalEhDAsIAgpgfaWUJbVN9jXOf2GhSCuDzpQ58NZhoV6wfV7Z-Oc96O3w</reference>
+  <id>bbc9dbc2cb2b2533c4bb7f73a0f703f2707cc93b</id>
+  <place_id>ChIJi4tIKAgKkEcRCpJ1FVOP_Ig</place_id>
+ </result>
+ <result>
+  <name>Amt für Raumplanung</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Aabachstrasse 5, 6300 Zug, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.1746252</lat>
+    <lng>8.5109630</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.1746035</lat>
+     <lng>8.5108167</lng>
+    </southwest>
+    <northeast>
+     <lat>47.1746901</lat>
+     <lng>8.5114019</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png</icon>
+  <reference>CmRRAAAAiX5zdQOiKM5OyMVvWfGuF1pgBKMpMJYBBivSWEaq8jDvpNhVSIuk7Fu6zw-zcYtOqaeVgh4ZQHhOYNpj9ah4ujKnLchSuStviA7tKF-FunY3kDS83-elMZUfWMYR-7EGEhDFITJM_x9JCfF7bwMwlEDGGhTVc9mL1XykRRYDzdvxblOV3EArZQ</reference>
+  <id>42507af6be2a4214e3aea7fa3560cef25e4bf954</id>
+  <place_id>ChIJFZkyHV-qmkcRXLisb7B3VAw</place_id>
+ </result>
+ <result>
+  <name>Baudirektion Kanton Zürich - Hochbauamt</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Stampfenbachstrasse 110, 8090 Zürich, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.3836834</lat>
+    <lng>8.5409942</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.3836212</lat>
+     <lng>8.5405343</lng>
+    </southwest>
+    <northeast>
+     <lat>47.3837041</lat>
+     <lng>8.5411475</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png</icon>
+  <reference>CmRRAAAAE4wGqOlMV-CKUpbXKWXhVa_MwNmwOpbCSQOz8WmN3V0y-HTw1uvCIlr-G1K9hoxRI58R7AqBdmR4Ip2c9rb2B1tpvqEn97wJKd3gy8yx2o1oxpL1xUoQciltRxjrLjmxEhDL_mA0LUyQjMew81j0ypXeGhQqYjaWq8hL3veN8RI6RYRdcIVVOw</reference>
+  <id>896a7fa87d8f501b05dbbfbbfacc68311e44a5d5</id>
+  <photo>
+   <photo_reference>CoQBdwAAAJT7htD1N6F3MEninx2kGbTCqnAG_5lWIkXkX32HVIQo886bOeY7uE4AZ5JQgZtxj3VGsaiDXjFxednN5a-O7SNNjvkSBjOT9-OJdqgzYUUUO8rngVRlSGC2mt7iN_RBw9rl3BAQV2GGxUlrnUGzrM2OBGHsNVZ2135V0uRf6nWeEhCA3tLjwFzWzP9dEXvSydLyGhTLCg_QcY_6HNBP_ltUVURQ1DU6WQ</photo_reference>
+   <width>4608</width>
+   <height>3456</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/110710016142516851067/photos&quot;&gt;Yew Tiong Teo&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJOwijMggKkEcRvJqQwVVgjjA</place_id>
+ </result>
+ <result>
+  <name>Kantonale Verwaltung Denkmalpflege</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Stettbachstrasse 7, 8600 Dübendorf, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.3945342</lat>
+    <lng>8.6012934</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.3943810</lat>
+     <lng>8.6012283</lng>
+    </southwest>
+    <northeast>
+     <lat>47.3949938</lat>
+     <lng>8.6013151</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png</icon>
+  <reference>CmRRAAAAuQKxMwvzYRLT0N3nfzdnfYaFaHzRcKc16UgtEI4IpWNutb_Y5KNZaeWpnZW2yU541lTtp7Ji8RV6f4GwdOPlhNzfolmkXrVHHdTM8_xe10E_n-ca97oVatX39OpiWeEsEhBdFYLm-iEBY-gSCEaideAqGhRDQDGZU_YmV0fXlW4W3aGtSVua7A</reference>
+  <id>40a72d089077c8efc6337456f2a418cf9151dab0</id>
+  <place_id>ChIJbZlFrwOhmkcRdoND6CCvIgo</place_id>
+ </result>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Amt für Städtebau</name>
+  <type>local_government_office</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Lindenhofstrasse 19, 8021 Zürich, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.3742070</lat>
+    <lng>8.5401850</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.3741953</lat>
+     <lng>8.5400953</lng>
+    </southwest>
+    <northeast>
+     <lat>47.3742109</lat>
+     <lng>8.5404542</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png</icon>
+  <reference>CmRSAAAAizSPnK0a0PQ5chBykGdJcYMAZotSX4vFLuhrCGHlZNQT3p4ptAhIswV2qMRdyu9LzsBdjumho9pBQJI69Jdhrt4qbGgEhe4PLxhvGhgVNDYSIi0aDD26UGQxWxcRFCIREhDqXMux9ZgwPysDVLvFR1uOGhRqhTSA99oTWJBLP5HKuaY7Ac49uw</reference>
+  <id>b5eff416d250db73603392c40056500729be3244</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBdwAAAOl4qKRbgfAjUZ7tymPjvI0t-3R5vhs5OPMpazsgbyLsKbSKiypZkjNNZouIoiIMXgJGbLu5eN_VqlGwBoxe3o7ijFt609JdfQQZjqwrKQqfSQRbOB0XhdLEGDnY0x6agN0g3RHtt3AX2Yg4PYMi0DJi42OzPozVhUzLMaNmGiPoEhCfsrozJPeDK4cMtqV4WCYZGhRmlYR7iGEs6Cj3MTLFTkln2J3fFw</photo_reference>
+   <width>2362</width>
+   <height>1577</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/100970997437775282294/photos&quot;&gt;Amt für Städtebau&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJxdy2qQcKkEcRC__RvU8YcsE</place_id>
+ </result>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>ZERO_RESULTS</status>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Antikenmuseum Basel und Sammlung Ludwig</name>
+  <type>museum</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>St. Alban-Graben 5, 4051 Basel, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.5543319</lat>
+    <lng>7.5931545</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.5541541</lat>
+     <lng>7.5931113</lng>
+    </southwest>
+    <northeast>
+     <lat>47.5543911</lat>
+     <lng>7.5932842</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.5</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png</icon>
+  <reference>CmRSAAAAYDquBv9RBZzBA6GzFG9R7U16fm7y1OAdQ9ZJLdLC37ksk91xMeZWgGkrW4k3LkExwXlhaU3BM8J572m9NajhxvqLP-nvuYz3N-l3Fo1RaGQXL3Jol9mrmX77PzkLgbfJEhAVYY84QcpmVAx41NBImXkiGhRaemnk9Z_soV4JX_8HcRhPFUQyew</reference>
+  <id>b903f764c626de5428df24030774d7e9f10801cd</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBdwAAADBjhuruyDloHwtDT2CZ1ZYjIDmPwsucZ8HGMxJQtyyKYR7rfPT53p1VbCVF-cPbWkZtWMrQT3ZsvGH1aXVX7ldmogubMbEIkf2aCFrFpfEq7YU1PIhVPmyGZpkeqhCFNqVfLPNZPKXki8Es-lN909oPUvaUT5k2EAOMe0SEw-GGEhBfHR628MSYzuzQMPtlFqVdGhTDgnT3BbX99riG5PL3Lv9vRag5FA</photo_reference>
+   <width>945</width>
+   <height>709</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/110409978463136881128/photos&quot;&gt;Vitor Santos&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJQUWr-bK5kUcR1GdWS6hfhvU</place_id>
+ </result>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Appellationsgericht Basel-Stadt</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Bäumleingasse 1, 4051 Basel, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.5549206</lat>
+    <lng>7.5917244</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.5547527</lat>
+     <lng>7.5917055</lng>
+    </southwest>
+    <northeast>
+     <lat>47.5549765</lat>
+     <lng>7.5917813</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAAp5a48wXRgaPk-gaShkX7ViZ3rAf_cwDGzWxDJGAfeUAwCIDs357yHpL-EaNaqrKhrXk4TJdGl2G-uGxUMV93gQ-6jZsaNuctDCs3YtqQ-u4SehRvcZ0nwJH0QixQKJsIEhBKkH1iAQF1t2uCIZRW6GLVGhTCMxAGRa5RNyrlXAxQzeTEINT0mA</reference>
+  <id>cf5e888b6324dcf9414b76c72354195e6bc270c7</id>
+  <place_id>ChIJ46ujZLK5kUcR3z8PuQEzaoE</place_id>
+ </result>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>ZERO_RESULTS</status>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Arbeitsgemeinschaft zur Förderung des Futterbaus AGFF</name>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Reckenholzstrasse 191, 8046 Zürich, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.4289180</lat>
+    <lng>8.5163480</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.4288224</lat>
+     <lng>8.5160455</lng>
+    </southwest>
+    <northeast>
+     <lat>47.4292048</lat>
+     <lng>8.5172555</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAAwlU2bjc-g5-dXmlDo8sgSiCs4WQrY0VzZxTyRBcFr4nEnUZAuIQSKSnDcI5HelGkH969hhcVSHgdnpn2bZGjiGH_UQZalc-IaLdmQhA68HiCx1IehfTpKXXtXDBv1-ksEhBeVuk4LK1DREl1w9A_Ea0FGhTeAl9d8ytF0MzEpiIEnZchayhEUw</reference>
+  <id>41d86253b6578337a356a6351e22ae205bfb2cb5</id>
+  <place_id>ChIJi-EqC94KkEcRi09EXWZWuAI</place_id>
+ </result>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>ZERO_RESULTS</status>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>ZERO_RESULTS</status>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Arche Literaturverlag AG Zweigniederlassung Hamburg</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Max-Brauer-Allee 34, 22765 Hamburg, Germany</formatted_address>
+  <geometry>
+   <location>
+    <lat>53.5493711</lat>
+    <lng>9.9363163</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>53.5493530</lat>
+     <lng>9.9362382</lng>
+    </southwest>
+    <northeast>
+     <lat>53.5494253</lat>
+     <lng>9.9364501</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAA9urqbVoj7TJNQVyHrQfP_Zf83XQoElT9wgv6sHwZUbL4NWmlGNdlPBVq6xiP-y4wcw5zIPV0rcF-4rusZ4x7tEAgBLDVIh9WOKdF1mCjB6DBVGkmUheMNt31Eqd6Yh21EhAcQV8QqDY4to3_EL1C49SBGhQ85-Zgdizkwwi-KzAy1OJwzUR7vg</reference>
+  <id>e12a9191e841c1280a9b657066e780045c0bf5b6</id>
+  <place_id>ChIJOUNTp4eFsUcR6p0VjpUaBPI</place_id>
+ </result>
+ <result>
+  <name>Arche Literatur Verlag AG</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Heinrichstrasse 249, 8005 Zürich, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.3882756</lat>
+    <lng>8.5215279</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.3882460</lat>
+     <lng>8.5213233</lng>
+    </southwest>
+    <northeast>
+     <lat>47.3883644</lat>
+     <lng>8.5215961</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAAq0PxRNerx-zwgLpeMPJdSZ-WMBUFRdcjKfvcSj8DEA_JaeVqemzaiHFZpirtuY23suUc1q0f9SC7VJq0uqmL70m1Cm1BN2vVrbCTsCF3Q0g4mQX9-Jifa6B-GpFRpd8JEhBWuJ6Nevaj__Uwe8Y7N0yQGhRQ_RWo8w7mDQoEXalwpJ71BHan8g</reference>
+  <id>d5e52f472ce5a56342a86c54ea63f32c5df81f51</id>
+  <place_id>ChIJP2uMDkAKkEcRcMjMAAnlq_s</place_id>
+ </result>
+ <result>
+  <name>Arche Kalender Verlag GmbH</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Niederdorfstrasse 90, 8001 Zürich, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.3763446</lat>
+    <lng>8.5440063</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.3763384</lat>
+     <lng>8.5439149</lng>
+    </southwest>
+    <northeast>
+     <lat>47.3763529</lat>
+     <lng>8.5441397</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAAyIyPY-rFHTag2YGmm6uyESdw_bDHm-n1-7aiPT5FmqvQEzz6Z4dMznXDu2hBudyeRQuoSybddiXbEhh4cTqrkko4LabYGlP1Qoixgvvtv3Q_KExQg7dSFelGbLCSXfcUEhBY4cIbJBub2VhxdXkJfgPlGhRAaqDMdTdl3X9Iv9KEDjCLa27dbQ</reference>
+  <id>54dc1e73a480faef316b488c0516c93969b92f37</id>
+  <place_id>ChIJebNp_aegmkcRFodN1nYK0kU</place_id>
+ </result>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Berner Fachhochschule BFH, Architektur, Holz und Bau</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Pestalozzistrasse 20, 3401 Burgdorf, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.0574225</lat>
+    <lng>7.6213877</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.0569231</lat>
+     <lng>7.6211946</lng>
+    </southwest>
+    <northeast>
+     <lat>47.0575890</lat>
+     <lng>7.6219671</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAALiszbqagtXvKovTQv1l8V4qDF5FCGIkFjRTmleVyChA57ypPO0pM4EHOKSwT2q2CvCfu2EAlZWqbMBUwZVY1QeAXz8caAWumMDj2q47bx7lI-w8a8CxGZwYaMyuKkn4tEhCDZSC29GsjTRA-St2vNSLdGhS4FNIKp2W5Opujimju_4e3sOk_bQ</reference>
+  <id>a130a34c668ad1446d6e93ea5fcaa169f858fbfd</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBdwAAAN8imRTjB0rDfxwSe3k6X5nitrb5NHJVQBg_J3ApoQdff5F2a_Dt4wkoFaao25HRiMnU7DlYYFzQGTrwCni4Lt9LWcIPYlMlA-9l9QR1sFeUHx24QU2-0HIxXYmilqxxo6bQiLYPj5RlgERcPilJ6riSQWqDOOA9-MZlLgOK96y1EhAv0oei2R60uCbhLbRtZuhpGhSk35tGDyHqjh1JiioQbTlPQ7lD8g</photo_reference>
+   <width>1280</width>
+   <height>853</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/105561145766868824931/photos&quot;&gt;Berner Fachhochschule BFH, Architektur, Holz und Bau&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJ6bXhNJYtjkcRJlq1dt7PsFE</place_id>
+ </result>
+ <result>
+  <name>Berner Fachhochschule BFH, Architektur, Holz und Bau AHB</name>
+  <type>university</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Solothurnstrasse 102, 2500 Biel/Bienne 6, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>47.1586997</lat>
+    <lng>7.2762495</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>47.1585951</lat>
+     <lng>7.2761074</lng>
+    </southwest>
+    <northeast>
+     <lat>47.1590135</lat>
+     <lng>7.2762969</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAA09rEG9ViZ_AQxiKyhDs8AcjwHcJbqUUehA4kqvXQQBpSv-j_hd0dOSNPrvcGECKFLXfUS5TDbs1GJPjauizouBzSIK2pmuc204aVTo0iR1x-JtZ-zevvMtP3nag__cdXEhDlT727axDw7PW1EPjI3QCrGhQ3aMveOw2NTc4ZdefV1TNArQC3Og</reference>
+  <id>e36b0447a76cec16f5900b96e456be6dab9bee2a</id>
+  <place_id>ChIJFfpEg90ejkcRjjSH_fhkqCg</place_id>
+ </result>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Archivio di Stato</name>
+  <type>real_estate_agency</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Viale Stefano Franscini 30A, 6500 Bellinzona, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.1932645</lat>
+    <lng>9.0124606</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.1925929</lat>
+     <lng>9.0123975</lng>
+    </southwest>
+    <northeast>
+     <lat>46.1934883</lat>
+     <lng>9.0126499</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAAlGF_jQwTPHkfIV_9H5kHovObcznRe3GLPcVxUv-ApDAXd43-ckmSuat61qfn6xRZAyNX7iHIyfCrgYvd25Bf1hN05m2mp61n8vCf1GGRdK8mpIQ-z8ukpIImxORuIUPTEhDmqAvC4-IphUeWetlWW5YjGhQwfL6vrn4AHCSO39SL2sl9BDQrCw</reference>
+  <id>46c1971f47a73b0738f8b517d4595038fedaaf4d</id>
+  <place_id>ChIJN-S8OUlKhEcRHOmzn46lcJg</place_id>
+ </result>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Archiv für Agrargeschichte</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Villettemattstrasse 9, 3007 Bern, Switzerland</formatted_address>
+  <geometry>
+   <location>
+    <lat>46.9440651</lat>
+    <lng>7.4309867</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>46.9440206</lat>
+     <lng>7.4309771</lng>
+    </southwest>
+    <northeast>
+     <lat>46.9441985</lat>
+     <lng>7.4310155</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAANaS6ex1JnOm_yHN-EZbPQfAItgvMZST2lKgm4ATK3Xx-YPtvSiMMbEDQDzI0416iKXnVgpsh5oJfXEQoYF1RdfDp2dBRdgjkC3dBw42XydTkIDGZ5V9J1vr7zRF4iHSnEhCVdt2rvWXWdJRtemaI6SV0GhQiuCahAIzbw7iTfP-W1svZnBQ1rg</reference>
+  <id>6d0ab3765a5fb5028a9192de9eb3e03f00154bb3</id>
+  <place_id>ChIJ-cpDnro5jkcRcZXpv5bJU4Y</place_id>
+ </result>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OVER_QUERY_LIMIT</status>
+ <error_message>You have exceeded your daily request quota for this API.</error_message>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OVER_QUERY_LIMIT</status>
+ <error_message>You have exceeded your daily request quota for this API.</error_message>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OVER_QUERY_LIMIT</status>
+ <error_message>You have exceeded your daily request quota for this API.</error_message>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OVER_QUERY_LIMIT</status>
+ <error_message>You have exceeded your daily request quota for this API.</error_message>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OVER_QUERY_LIMIT</status>
+ <error_message>You have exceeded your daily request quota for this API.</error_message>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OVER_QUERY_LIMIT</status>
+ <error_message>You have exceeded your daily request quota for this API.</error_message>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OVER_QUERY_LIMIT</status>
+ <error_message>You have exceeded your daily request quota for this API.</error_message>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OVER_QUERY_LIMIT</status>
+ <error_message>You have exceeded your daily request quota for this API.</error_message>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OVER_QUERY_LIMIT</status>
+ <error_message>You have exceeded your daily request quota for this API.</error_message>
+</PlaceSearchResponse>
+</results>
