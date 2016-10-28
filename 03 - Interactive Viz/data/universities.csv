@@ -1,0 +1,78 @@
+,Unnamed: 0,University,Approved Amount,postalcode,canton
+0,0,Forschungsanstalten Agroscope - AGS,33115719,None,ZH
+1,1,AO Research Institute - AORI,3435621,None,GR
+2,2,Pädag. Hochschule Tessin (Teilschule SUPSI) - ASP,159317,None,AG
+3,3,Weitere Spitäler - ASPIT,10749808,None,AG
+4,4,Universität Bern - BE,1519373035,3012,BE
+5,5,Berner Fachhochschule - BFH,31028695,3401,BE
+6,6,Biotechnologie Institut Thurgau - BITG,2492535,8280,TG
+7,7,Universität Basel - BS,1352251464,4003,BS
+8,8,Centre de rech. sur l'environnement alpin - CREALP,1567678,1950,VS
+9,9,Swiss Center for Electronics and Microtech. - CSEM,18068246,None,NE
+10,10,Eidg. Anstalt für Wasserversorgung - EAWAG,74619222.37,8600,ZH
+11,11,Eidg. Hochschulinstitut für Berufsbildung - EHB,2086572,3052,BE
+12,12,Eidg. Material und Prüfungsanstalt - EMPA,58574515.92,8600,ZH
+13,13,Ente Ospedaliero Cantonale - EOC,5067172,"Viale Officina 3, Bellinzona, Switzerland",TI
+14,14,EPF Lausanne - EPFL,1175315914,1015,VD
+15,15,ETH Zürich - ETHZ,1635596618,8092,ZH
+16,16,Fernfachhochschule Schweiz (Mitglied SUPSI) - FFHS,12000,3900,VS
+17,17,Fachhochschule Kalaidos - FHKD,1090280,8050,ZH
+18,18,Fachhochschule Nordwestschweiz (ohne PH) - FHNW,42771914.12,4600,SO
+19,19,Fachhochschule Ostschweiz - FHO,4437056,"9000 St Gallen, Switzerland",SG
+20,20,Forschungsinstitut für biologischen Landbau - FIBL,7442410,None,AG
+21,21,Weitere Institute - FINST,9256736,None,ZH
+22,22,Friedrich Miescher Institute - FMI,40229142.61,4058,BS
+23,23,Schweizer Kompetenzzentrum Sozialwissensch. - FORS,34735816,None,VD
+24,24,Firmen/Privatwirtschaft - FP,111686719.9,None,None
+25,25,Université de Fribourg - FR,457526170.3,1700,FR
+26,26,Facoltà di Teologia di Lugano - FTL,8000,6900,TI
+27,27,Franklin University Switzerland - FUS,65956,6924,TI
+28,28,Université de Genève - GE,1838237309,"Geneva, Switzerland",GE
+29,29,"Haute école pédagogique BE, JU, NE - HEPBEJUNE",627380,2800,JU
+30,30,Haute école pédagogique fribourgeoise - HEPFR,1547498,1700,FR
+31,31,Haute école pédagogique du canton de Vaud - HEPL,1430686,"1014, Avenue de Cour 33, 1007 Lausanne, Switzerland",VD
+32,32,HES de Suisse occidentale - HES-SO,34162965.46,2800,JU
+33,33,Hochschule Luzern - HSLU,10768116.36,6002,LU
+34,34,Interkant. Hochschule für Heilpädagogik ZH - HfH,2839872,8057,ZH
+35,35,Idiap Research Institute - IDIAP,22183105.2,1920,VS
+36,36,Inst. de Hautes Etudes Internat. et du Dév - IHEID,38864231.6,"Maison de la Paix, Chemin Eugène-Rigot 2, 1202 Genève, Switzerland",GE
+37,37,Institut für Kulturforschung Graubünden - IKG,1219681,7000,GR
+38,38,Forschungsinstitut für Opthalmologie - IRO,3478469,None,VS
+39,39,Instituto Ricerche Solari Locarno - IRSOL,951238,6600,TI
+40,40,Istituto Svizzero di Roma - ISR,141000,None,None
+41,41,Inst. Suisse de Spéléologie et Karstologie - ISSKA,624819,None,NE
+42,42,Inst. universit. romand de Santé au Travail - IST,6882729.85,1066,VD
+43,43,Institut Universitaire Kurt Bösch - IUKB,1977340,1967,VS
+44,44,Kantonsspital St. Gallen - KSPSG,15034105,9007,SG
+45,45,Université de Lausanne - LA,1183290757,"1015 Lausanne, Switzerland",VD
+46,46,Universität Luzern - LU,39981678.31,6002,LU
+47,47,Nicht zuteilbar - NA,21495687.77,None,None
+48,48,Université de Neuchâtel - NE,383204582.3,2000,NE
+49,49,"NPO (Biblioth., Museen, Verwalt.) - NPO",334130583.8,None,None
+50,50,Pädagogische Hochschule Bern - PHBern,1990389.6,3012,BE
+51,51,Pädagogische Hochschule Nordwestschweiz - PHFHNW,3476142,4410,BL
+52,52,Pädagogische Hochschule Graubünden - PHGR,614613,7000,GR
+53,53,Pädagogische Hochschule Luzern - PHLU,1979281,6003,LU
+54,54,Pädagogische Hochschule St. Gallen - PHSG,2098387,9000,SG
+55,55,Pädagogische Hochschule Schaffhausen - PHSH,176691,8200,SH
+56,56,Pädagogische Hochschule Schwyz - PHSZ,936551,6410,SZ
+57,57,Pädagogische Hochschule Thurgau - PHTG,1526446,8280,TG
+58,58,Pädagogische Hochschule Wallis - PHVS,425498,None,VS
+59,59,Pädagogische Hochschule Zürich - PHZFH,3298346,8090,ZH
+60,60,Pädagogische Hochschule Zug - PHZG,495715,6301,ZG
+61,61,Physikal.-Meteorolog. Observatorium Davos - PMOD,12098436,None,GR
+62,62,Paul Scherrer Institut - PSI,115268968.9,"5232 Villigen, Switzerland",AG
+63,63,Robert Walser-Stiftung Bern - RWS,569579,3011,BE
+64,64,Forschungskommission SAGW,100000,None,None
+65,65,Universität St. Gallen - SG,69194954.45,9000,SG
+66,66,Schweiz. Hochschule für Logopädie Rorschach - SHLR,429600,9400,SG
+67,67,Allergie- und Asthmaforschung - SIAF,19169965,7270,GR
+68,68,Swiss Institute of Bioinformatics - SIB,11583219,1206,GE
+69,69,Schweiz. Institut für Kunstwissenschaft - SIK-ISEA,4649550,8032,ZH
+70,70,Schweizer Paraplegiker Forschung - SPF,1944211,6207,LU
+71,71,Staatsunabh. Theologische Hochschule Basel - STHB,17300,None,BS
+72,72,SUP della Svizzera italiana - SUPSI,24040082.15,6928,TI
+73,73,Università della Svizzera italiana - USI,84970554.75,6900,TI
+74,74,"Eidg. Forschungsanstalt für Wald,Schnee,Land - WSL",48360389.63,None,ZH
+75,75,Zürcher Fachhochschule (ohne PH) - ZFH,44843453.12,None,ZH
+76,76,Universität Zürich - ZH,1826842675,8006,ZH
