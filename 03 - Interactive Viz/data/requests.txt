@@ -1752,11 +1752,6 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
 <PlaceSearchResponse>
- <status>ZERO_RESULTS</status>
-</PlaceSearchResponse>
-
-<?xml version="1.0" encoding="UTF-8"?>
-<PlaceSearchResponse>
  <status>OK</status>
  <result>
   <name>University of Neuchâtel</name>
@@ -1792,11 +1787,6 @@
   </photo>
   <place_id>ChIJV1NCwhAKjkcRfAeyqgbpmqs</place_id>
  </result>
-</PlaceSearchResponse>
-
-<?xml version="1.0" encoding="UTF-8"?>
-<PlaceSearchResponse>
- <status>ZERO_RESULTS</status>
 </PlaceSearchResponse>
 
 <?xml version="1.0" encoding="UTF-8"?>
